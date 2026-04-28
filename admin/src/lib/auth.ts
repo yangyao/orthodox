@@ -10,6 +10,7 @@ if (!process.env.DATABASE_URL) {
 const sql = postgres(process.env.DATABASE_URL);
 
 export const { handlers, signIn, signOut, auth } = NextAuth({
+  trustHost: true,
   session: {
     strategy: "jwt",
     maxAge: 24 * 60 * 60, // 24 hours
