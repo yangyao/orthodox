@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "模拟考试",
+  "usingComponents": {
+    "navigation-bar": "../../components/navigation-bar/navigation-bar",
+    "question-renderer": "../../components/question-renderer/question-renderer",
+    "answer-sheet": "../../components/answer-sheet/answer-sheet",
+    "practice-footer": "../../components/practice-footer/practice-footer"
+  }
+}

@@ -1,0 +1,35 @@
+<navigation-bar title="练习结果" back="{{false}}" color="black" background="#FFF"></navigation-bar>
+
+<view class="container">
+  <view class="result-card" wx:if="{{session}}">
+    <view class="score-section">
+      <text class="score-value">{{session.score || 0}}</text>
+      <text class="score-label">分</text>
+    </view>
+
+    <view class="mock-status" wx:if="{{mode === 'mock'}}">
+      <text class="status-tag {{session.score >= 60 ? 'pass' : 'fail'}}">
+        {{session.score >= 60 ? '考试通过' : '未通过'}}
+      </text>
+    </view>
+    
+    <view class="stats-grid">
+      <view class="stat-item">
+        <text class="stat-value">{{session.totalQuestions}}</text>
+        <text class="stat-label">总题数</text>
+      </view>
+      <view class="stat-item">
+        <text class="stat-value">{{session.answeredCount}}</text>
+        <text class="stat-label">已答</text>
+      </view>
+      <view class="stat-item">
+        <text class="stat-value">{{session.correctCount}}</text>
+        <text class="stat-label">正确</text>
+      </view>
+    </view>
+  </view>
+
+  <view class="action-buttons">
+    <button class="primary-btn" bindtap="goHome">返回首页</button>
+  </view>
+</view>

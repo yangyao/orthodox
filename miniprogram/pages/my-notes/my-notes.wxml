@@ -1,0 +1,41 @@
+<navigation-bar title="我的笔记" back="{{true}}" color="black" background="#FFF"></navigation-bar>
+
+<view class="notes-page">
+  <scroll-view 
+    scroll-y 
+    class="notes-list"
+    bindscrolltolower="onLoadMore"
+    refresher-enabled
+    bindrefresherrefresh="onRefresh"
+    refresher-triggered="{{isRefreshing}}"
+  >
+    <view 
+      class="note-item" 
+      wx:for="{{notes}}" 
+      wx:key="id"
+      bindtap="onItemTap"
+      data-id="{{item.questionId}}"
+    >
+      <view class="item-content">
+        <view class="question-stem">{{item.questionStem}}</view>
+        <view class="note-content">{{item.content}}</view>
+        <view class="bank-info">
+          <text class="bank-name">{{item.bankName}}</text>
+          <text class="updated-at">{{item.updatedAt}}</text>
+        </view>
+      </view>
+    </view>
+
+    <view class="empty-state" wx:if="{{!notes.length && !loading}}">
+      <image src="/assets/empty.png" mode="aspectFit" class="empty-img"></image>
+      <text>暂无笔记</text>
+    </view>
+
+    <view class="loading-more" wx:if="{{loading}}">
+      <text>加载中...</text>
+    </view>
+    <view class="no-more" wx:if="{{noMore && notes.length}}">
+      <text>没有更多了</text>
+    </view>
+  </scroll-view>
+</view>

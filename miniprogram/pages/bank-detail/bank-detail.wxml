@@ -1,0 +1,38 @@
+<navigation-bar title="题库详情" back="{{true}}" color="black" background="#FFF"></navigation-bar>
+
+<view class="container">
+  <view class="bank-header" wx:if="{{bank}}">
+    <image class="bank-icon" src="{{bank.icon || '/assets/images/bank_default.svg'}}" mode="aspectFit" binderror="onIconError"></image>
+    <view class="bank-info">
+      <view class="bank-title">{{bank.title}}</view>
+      <view class="bank-meta">{{bank.questionCount}} 题 | 更新: {{bank.updateDate}}</view>
+      <view class="bank-status {{bank.isOpened ? 'opened' : 'locked'}}">
+        {{bank.isOpened ? '已开通' : '未开通'}}
+      </view>
+    </view>
+  </view>
+
+  <view class="action-list">
+    <block wx:if="{{bank.isOpened}}">
+      <view class="action-item" bindtap="startPractice" data-mode="sequential">
+        <text class="action-text">顺序练习</text>
+        <text class="action-desc">按题目顺序进行练习</text>
+      </view>
+      <view class="action-item" bindtap="startPractice" data-mode="random">
+        <text class="action-text">随机练习</text>
+        <text class="action-desc">随机打乱题目顺序</text>
+      </view>
+      <view class="action-item" bindtap="goToMock">
+        <text class="action-text">模拟考试</text>
+        <text class="action-desc">全真模拟，限时交卷</text>
+      </view>
+    </block>
+    <block wx:else>
+      <view class="locked-tip">
+        <icon type="info" size="20"></icon>
+        <text>开通题库后即可开始练习</text>
+      </view>
+      <button class="open-btn" bindtap="handleOpenBank">立即开通 (免费)</button>
+    </block>
+  </view>
+</view>

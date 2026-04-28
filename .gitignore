@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+
+# Build output
+.miniprogram/
+dist/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# WeChat DevTools
+miniprogram_npm/
+
+# Admin
+admin/.next/
+admin/out/
+
+# Claude Code
+.claude/
+
+# AI tools
+.agents/
+.augment/
+.factory/
+.goose/
+.junie/
+.trae/

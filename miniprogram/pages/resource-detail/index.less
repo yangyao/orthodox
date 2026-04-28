@@ -1,0 +1,136 @@
+.container {
+  padding: 30rpx;
+  background-color: #f7f8fa;
+  min-height: 100vh;
+}
+
+.header-card {
+  background-color: #fff;
+  border-radius: 20rpx;
+  padding: 40rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 40rpx;
+  box-shadow: 0 4rpx 12rpx rgba(0, 0, 0, 0.05);
+
+  .pack-cover {
+    width: 200rpx;
+    height: 200rpx;
+    border-radius: 20rpx;
+    margin-bottom: 24rpx;
+    box-shadow: 0 4rpx 8rpx rgba(0, 0, 0, 0.1);
+  }
+
+  .pack-title {
+    font-size: 36rpx;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 16rpx;
+    text-align: center;
+  }
+
+  .pack-desc {
+    font-size: 28rpx;
+    color: #666;
+    line-height: 1.6;
+    text-align: center;
+  }
+}
+
+.section-title {
+  font-size: 30rpx;
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 24rpx;
+  padding-left: 10rpx;
+  border-left: 8rpx solid #1890ff;
+}
+
+.item-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.item-card {
+  background-color: #fff;
+  border-radius: 16rpx;
+  padding: 24rpx;
+  margin-bottom: 20rpx;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 2rpx 6rpx rgba(0, 0, 0, 0.03);
+
+  .item-icon {
+    width: 80rpx;
+    height: 80rpx;
+    border-radius: 12rpx;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 24rpx;
+    flex-shrink: 0;
+    font-size: 20rpx;
+    font-weight: bold;
+    color: #fff;
+
+    &.pdf { background-color: #ff4d4f; }
+    &.link { background-color: #1890ff; }
+    &.image { background-color: #52c41a; }
+  }
+
+  .item-info {
+    flex: 1;
+    overflow: hidden;
+
+    .item-title {
+      font-size: 30rpx;
+      color: #333;
+      font-weight: 500;
+      margin-bottom: 8rpx;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .item-meta {
+      font-size: 24rpx;
+      color: #999;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+  }
+
+  .item-action {
+    margin-left: 20rpx;
+
+    .action-btn {
+      font-size: 24rpx;
+      color: #1890ff;
+      background-color: #e6f7ff;
+      padding: 8rpx 24rpx;
+      border-radius: 30rpx;
+    }
+  }
+
+  &:active {
+    background-color: #fafafa;
+  }
+}
+
+.empty-state {
+  text-align: center;
+  padding: 100rpx 0;
+  color: #999;
+  font-size: 28rpx;
+}
+
+.loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  color: #999;
+  font-size: 28rpx;
+}

@@ -1,0 +1,103 @@
+.container {
+  padding: 0 60rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 80vh;
+}
+
+.login-header {
+  margin-bottom: 80rpx;
+  text-align: center;
+
+  .logo-wrapper {
+    width: 160rpx;
+    height: 160rpx;
+    background: #1890ff;
+    border-radius: 40rpx;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 30rpx;
+    box-shadow: 0 10rpx 30rpx rgba(24, 144, 255, 0.3);
+
+    .logo {
+      width: 100rpx;
+      height: 100rpx;
+    }
+  }
+
+  .app-name {
+    font-size: 48rpx;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 12rpx;
+  }
+
+  .app-desc {
+    font-size: 28rpx;
+    color: #999;
+  }
+}
+
+.login-content {
+  width: 100%;
+
+  .benefit-list {
+    margin-bottom: 60rpx;
+    background: #f8f9fa;
+    padding: 30rpx;
+    border-radius: 20rpx;
+
+    .benefit-item {
+      display: flex;
+      align-items: center;
+      gap: 16rpx;
+      margin-bottom: 20rpx;
+      font-size: 26rpx;
+      color: #666;
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
+
+  .login-btn {
+    width: 100% !important;
+    height: 100rpx;
+    background: #07c160;
+    color: #fff;
+    border-radius: 50rpx;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 32rpx;
+    font-weight: bold;
+    margin-bottom: 40rpx;
+    box-shadow: 0 10rpx 20rpx rgba(7, 193, 96, 0.2);
+
+    .wx-icon {
+      width: 44rpx;
+      height: 44rpx;
+      margin-right: 16rpx;
+    }
+
+    &:active {
+      opacity: 0.9;
+      transform: scale(0.98);
+    }
+  }
+
+  .agreement {
+    text-align: center;
+    font-size: 24rpx;
+    color: #bbb;
+
+    .link {
+      color: #1890ff;
+      display: inline;
+    }
+  }
+}

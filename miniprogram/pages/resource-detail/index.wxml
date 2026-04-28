@@ -1,0 +1,36 @@
+<navigation-bar title="资料详情" back="{{true}}" color="black" background="#FFF"></navigation-bar>
+
+<view class="container" wx:if="{{pack}}">
+  <view class="header-card">
+    <image class="pack-cover" src="{{pack.coverUrl || '/assets/default-cover.png'}}" mode="aspectFill"></image>
+    <view class="pack-title">{{pack.title}}</view>
+    <view class="pack-desc">{{pack.description || '暂无描述'}}</view>
+  </view>
+
+  <view class="section-title">资料内容 ({{pack.items.length || 0}})</view>
+
+  <view class="item-list">
+    <view class="item-card" wx:for="{{pack.items}}" wx:key="id" bindtap="onItemTap" data-item="{{item}}">
+      <view class="item-icon {{item.type}}">
+        <text wx:if="{{item.type === 'pdf'}}">PDF</text>
+        <text wx:elif="{{item.type === 'link'}}">LINK</text>
+        <text wx:elif="{{item.type === 'image'}}">IMG</text>
+      </view>
+      <view class="item-info">
+        <view class="item-title">{{item.title}}</view>
+        <view class="item-meta" wx:if="{{item.content}}">{{item.content}}</view>
+      </view>
+      <view class="item-action">
+        <view class="action-btn">获取</view>
+      </view>
+    </view>
+  </view>
+
+  <view wx:if="{{!pack.items || pack.items.length === 0}}" class="empty-state">
+    <text>暂无资料内容</text>
+  </view>
+</view>
+
+<view class="loading-container" wx:else>
+  <text>加载中...</text>
+</view>

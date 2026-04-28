@@ -1,0 +1,92 @@
+/**index.less**/
+page {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: #f7f8fa;
+}
+
+.scrollarea {
+  flex: 1;
+  overflow-y: hidden;
+}
+
+.container {
+  padding: 0;
+}
+
+.banner-swiper {
+  width: 100%;
+  height: 320rpx;
+
+  .banner-image {
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.nav-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  padding: 40rpx 20rpx;
+  background: #fff;
+  margin-bottom: 20rpx;
+
+  .nav-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .nav-icon-wrapper {
+      width: 90rpx;
+      height: 90rpx;
+      border-radius: 30rpx;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 12rpx;
+
+      &.blue { background: #e6f7ff; }
+      &.green { background: #f6ffed; }
+      &.orange { background: #fff7e6; }
+      &.purple { background: #f9f0ff; }
+
+      .nav-icon {
+        width: 50rpx;
+        height: 50rpx;
+      }
+    }
+
+    .nav-text {
+      font-size: 24rpx;
+      color: #333;
+    }
+  }
+}
+
+.section {
+  padding: 20rpx 30rpx;
+
+  .section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 24rpx;
+
+    .section-title {
+      font-size: 34rpx;
+      font-weight: 600;
+      color: #333;
+    }
+
+    .section-more {
+      font-size: 26rpx;
+      color: #999;
+    }
+  }
+}
+
+.bank-list {
+  display: flex;
+  flex-direction: column;
+}

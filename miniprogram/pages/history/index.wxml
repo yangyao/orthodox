@@ -1,0 +1,57 @@
+<navigation-bar title="练习历史" back="{{true}}"></navigation-bar>
+
+<view class="container safe-area-padding">
+  <scroll-view 
+    class="history-list" 
+    scroll-y 
+    bindscrolltolower="loadMore"
+    refresher-enabled
+    refresher-triggered="{{isRefreshing}}"
+    bindrefresherrefresh="onRefresh"
+  >
+    <block wx:if="{{historyItems.length > 0}}">
+      <view 
+        class="history-card" 
+        wx:for="{{historyItems}}" 
+        wx:key="id"
+        bindtap="goToResults"
+        data-id="{{item.id}}"
+      >
+        <view class="card-header">
+          <text class="bank-name">{{item.bankName}}</text>
+          <text class="mode-tag">{{item.modeText}}</text>
+        </view>
+        <view class="card-body">
+          <view class="stat-item">
+            <text class="label">得分</text>
+            <text class="value highlight">{{item.score || '0'}}</text>
+          </view>
+          <view class="stat-item">
+            <text class="label">正确率</text>
+            <text class="value">{{item.accuracy}}%</text>
+          </view>
+          <view class="stat-item">
+            <text class="label">题目</text>
+            <text class="value">{{item.correctCount}}/{{item.totalQuestions}}</text>
+          </view>
+        </view>
+        <view class="card-footer">
+          <text class="date">{{item.formattedDate}}</text>
+          <text class="status {{item.status}}">{{item.status === 'finished' ? '已完成' : '进行中'}}</text>
+        </view>
+      </view>
+    </block>
+
+    <view wx:elif="{{!loading}}" class="empty-state">
+      <image src="/assets/icons/empty-history.svg" mode="aspectFit"></image>
+      <text>暂无练习记录</text>
+    </view>
+
+    <view class="loading-more" wx:if="{{loading}}">
+      <text>加载中...</text>
+    </view>
+    <view class="no-more" wx:if="{{!hasMore && historyItems.length > 0}}">
+      <text>没有更多了</text>
+    </view>
+  </scroll-view>
+</view>

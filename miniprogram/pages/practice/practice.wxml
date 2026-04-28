@@ -1,0 +1,75 @@
+<navigation-bar title="练习中" back="{{true}}" color="black" background="#FFF"></navigation-bar>
+
+<view class="practice-page">
+  <!-- Top Bar / Header could go here if needed -->
+  
+  <!-- Question Swiper -->
+  <swiper 
+    class="question-swiper" 
+    current="{{currentIndex}}" 
+    duration="300"
+    bindchange="onSwiperChange"
+  >
+    <swiper-item wx:for="{{questionIds}}" wx:key="*this">
+      <scroll-view scroll-y class="question-scroll">
+        <question-renderer 
+          wx:if="{{questions[index]}}"
+          question="{{questions[index]}}" 
+          userAnswer="{{answers[index]}}"
+          showFeedback="{{showFeedbacks[index]}}"
+          isFavorite="{{favorites[questionIds[index]]}}"
+          hasNote="{{notes[questionIds[index]] !== undefined && notes[questionIds[index]] !== ''}}"
+          bind:select="onOptionSelect"
+          bind:favorite="onToggleFavorite"
+          bind:note="onOpenNote"
+        ></question-renderer>
+        <view class="loading-box" wx:else>
+          <text>加载中...</text>
+        </view>
+      </scroll-view>
+    </swiper-item>
+  </swiper>
+
+  <!-- Footer -->
+  <practice-footer 
+    currentIndex="{{currentIndex}}" 
+    total="{{totalQuestions}}"
+    bind:prev="onPrev"
+    bind:next="onNext"
+    bind:togglesheet="onToggleSheet"
+    bind:finish="onFinish"
+  ></practice-footer>
+
+  <!-- Answer Sheet -->
+  <answer-sheet 
+    show="{{showSheet}}" 
+    total="{{totalQuestions}}"
+    currentIndex="{{currentIndex}}"
+    answers="{{answers}}"
+    bind:close="onToggleSheet"
+    bind:jump="onJump"
+    bind:finish="onFinish"
+  ></answer-sheet>
+
+  <!-- Note Modal -->
+  <view class="note-modal" wx:if="{{showNoteModal}}">
+    <view class="modal-mask" bindtap="onCloseNote"></view>
+    <view class="modal-content">
+      <view class="modal-header">
+        <text>编辑笔记</text>
+        <view class="close-btn" bindtap="onCloseNote">×</view>
+      </view>
+      <textarea 
+        class="note-textarea" 
+        placeholder="在这里输入你的笔记（最多1000字）" 
+        maxlength="1000"
+        value="{{editingNoteContent}}"
+        bindinput="onNoteInput"
+        auto-focus
+      ></textarea>
+      <view class="modal-footer">
+        <button class="save-btn" bindtap="onSaveNote">保存</button>
+      </view>
+    </view>
+  </view>
+</view>

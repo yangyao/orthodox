@@ -1,0 +1,103 @@
+.container {
+  padding: 30rpx;
+  background: #f7f8fa;
+  min-height: 100vh;
+}
+
+.bank-header {
+  display: flex;
+  padding: 40rpx;
+  background: #fff;
+  border-radius: 20rpx;
+  margin-bottom: 30rpx;
+
+  .bank-icon {
+    width: 140rpx;
+    height: 140rpx;
+    border-radius: 12rpx;
+    margin-right: 30rpx;
+  }
+
+  .bank-info {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    .bank-title {
+      font-size: 36rpx;
+      font-weight: 600;
+      color: #333;
+      margin-bottom: 12rpx;
+    }
+
+    .bank-meta {
+      font-size: 26rpx;
+      color: #999;
+    }
+
+    .bank-status {
+      margin-top: 10rpx;
+      font-size: 24rpx;
+      padding: 4rpx 12rpx;
+      border-radius: 4rpx;
+      display: inline-block;
+      width: fit-content;
+
+      &.opened {
+        color: #07c160;
+        background: rgba(7, 193, 96, 0.1);
+      }
+
+      &.locked {
+        color: #fa5151;
+        background: rgba(250, 81, 81, 0.1);
+      }
+    }
+  }
+}
+
+.action-list {
+  .locked-tip {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 60rpx 0 30rpx;
+    color: #666;
+    font-size: 28rpx;
+
+    icon {
+      margin-right: 10rpx;
+    }
+  }
+
+  .open-btn {
+    background: #07c160;
+    color: #fff;
+    margin: 30rpx 0 60rpx;
+    border-radius: 44rpx;
+    font-size: 32rpx;
+    font-weight: 500;
+  }
+
+  .action-item {
+    padding: 40rpx;
+    background: #fff;
+    border-radius: 20rpx;
+    margin-bottom: 24rpx;
+    display: flex;
+    flex-direction: column;
+
+    .action-text {
+      font-size: 32rpx;
+      font-weight: 500;
+      color: #333;
+      margin-bottom: 8rpx;
+    }
+
+    .action-desc {
+      font-size: 24rpx;
+      color: #999;
+    }
+  }
+}

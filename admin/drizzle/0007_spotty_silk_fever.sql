@@ -1,0 +1,1 @@
+ALTER TABLE "practice_sessions" ADD COLUMN "mode" varchar(32) DEFAULT 'sequential' NOT NULL;

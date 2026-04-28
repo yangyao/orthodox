@@ -1,0 +1,60 @@
+.footer-container {
+  display: flex;
+  align-items: center;
+  height: 100rpx;
+  background: #fff;
+  border-top: 1rpx solid #eee;
+  padding: 0 30rpx;
+  padding-bottom: env(safe-area-inset-bottom);
+
+  .footer-left, .footer-right {
+    flex: 1;
+    display: flex;
+  }
+
+  .footer-right {
+    justify-content: flex-end;
+  }
+
+  .footer-btn {
+    display: flex;
+    align-items: center;
+    font-size: 28rpx;
+    color: #333;
+    padding: 10rpx 20rpx;
+
+    &.finish {
+      color: #1890ff;
+      font-weight: 500;
+    }
+
+    .btn-icon {
+      margin: 0 8rpx;
+    }
+  }
+
+  .footer-center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-width: 150rpx;
+
+    .progress-info {
+      font-size: 24rpx;
+      .current {
+        color: #1890ff;
+        font-weight: 600;
+      }
+      .total {
+        color: #999;
+      }
+    }
+
+    .sheet-text {
+      font-size: 20rpx;
+      color: #999;
+      margin-top: 4rpx;
+    }
+  }
+}

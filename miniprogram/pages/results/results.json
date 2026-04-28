@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "练习结果",
+  "usingComponents": {
+    "navigation-bar": "../../components/navigation-bar/navigation-bar"
+  }
+}

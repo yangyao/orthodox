@@ -1,0 +1,26 @@
+<view class="footer-container">
+  <view class="footer-left">
+    <view class="footer-btn" bindtap="onPrev">
+      <icon class="btn-icon" type="back" size="18"></icon>
+      <text>上一题</text>
+    </view>
+  </view>
+
+  <view class="footer-center" bindtap="onToggleSheet">
+    <view class="progress-info">
+      <text class="current">{{currentIndex + 1}}</text>
+      <text class="total">/{{total}}</text>
+    </view>
+    <text class="sheet-text">答题卡</text>
+  </view>
+
+  <view class="footer-right">
+    <view class="footer-btn" bindtap="onNext" wx:if="{{currentIndex < total - 1}}">
+      <text>下一题</text>
+      <icon class="btn-icon" type="forward" size="18"></icon>
+    </view>
+    <view class="footer-btn finish" bindtap="onFinish" wx:else>
+      <text>结束练习</text>
+    </view>
+  </view>
+</view>

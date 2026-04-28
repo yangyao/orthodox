@@ -1,0 +1,40 @@
+<navigation-bar title="登录" back="{{true}}" color="black" background="#FFF"></navigation-bar>
+
+<view class="container">
+  <view class="login-header">
+    <view class="logo-wrapper">
+      <image class="logo" src="/assets/icons/bank.png"></image>
+    </view>
+    <view class="app-name">守正题库</view>
+    <view class="app-desc">专业、高效、助力通关</view>
+  </view>
+
+  <view class="login-content">
+    <view class="benefit-list">
+      <view class="benefit-item">
+        <icon type="success" size="16" color="#1890ff"></icon>
+        <text>同步练习进度</text>
+      </view>
+      <view class="benefit-item">
+        <icon type="success" size="16" color="#1890ff"></icon>
+        <text>收藏经典题型</text>
+      </view>
+      <view class="benefit-item">
+        <icon type="success" size="16" color="#1890ff"></icon>
+        <text>记录错题分析</text>
+      </view>
+    </view>
+
+    <button class="login-btn" bindtap="handleLogin" loading="{{loading}}">
+      <image class="wx-icon" src="/assets/icons/bank.png" style="filter: brightness(0) invert(1);"></image>
+      微信授权一键登录
+    </button>
+    
+    <view class="agreement">
+      <text>登录即代表同意</text>
+      <text class="link">《用户协议》</text>
+      <text>与</text>
+      <text class="link">《隐私政策》</text>
+    </view>
+  </view>
+</view>

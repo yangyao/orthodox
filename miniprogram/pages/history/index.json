@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "练习历史",
+  "usingComponents": {
+    "navigation-bar": "/components/navigation-bar/navigation-bar"
+  }
+}

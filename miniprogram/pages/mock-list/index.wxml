@@ -1,0 +1,58 @@
+<navigation-bar title="模拟考试" back="{{true}}" color="black" background="#FFF"></navigation-bar>
+
+<view class="container">
+  <scroll-view class="paper-list" scroll-y refresher-enabled refresher-triggered="{{isRefreshing}}" bindrefresherrefresh="onRefresh">
+    <block wx:if="{{papers.length > 0}}">
+      <view class="paper-card" wx:for="{{papers}}" wx:key="id" bindtap="selectPaper" data-paper="{{item}}">
+        <view class="paper-info">
+          <view class="paper-title">{{item.title}}</view>
+          <view class="paper-meta">
+            <text class="meta-item">{{item.paperYear ? item.paperYear + '年' : ''}}</text>
+            <text class="meta-item">{{item.totalQuestions}}题</text>
+            <text class="meta-item">{{item.durationMinutes}}分钟</text>
+          </view>
+        </view>
+        <view class="paper-action">
+          <view class="start-btn">开始</view>
+        </view>
+      </view>
+    </block>
+    
+    <view wx:elif="{{!loading}}" class="empty-state">
+      <text>暂无模拟试卷</text>
+    </view>
+    
+    <view class="loading-state" wx:if="{{loading}}">
+      <text>加载中...</text>
+    </view>
+  </scroll-view>
+
+  <!-- Exam Instruction Modal -->
+  <view class="modal-mask" wx:if="{{showModal}}" bindtap="closeModal"></view>
+  <view class="modal-content" wx:if="{{showModal}}">
+    <view class="modal-header">{{selectedPaper.title}}</view>
+    <view class="modal-body">
+      <view class="rule-item">
+        <text class="rule-label">考试时间</text>
+        <text class="rule-value">{{selectedPaper.durationMinutes}} 分钟</text>
+      </view>
+      <view class="rule-item">
+        <text class="rule-label">题目数量</text>
+        <text class="rule-value">{{selectedPaper.totalQuestions}} 题</text>
+      </view>
+      <view class="rule-item" wx:if="{{selectedPaper.passingScore}}">
+        <text class="rule-label">及格分数</text>
+        <text class="rule-value">{{selectedPaper.passingScore}} 分</text>
+      </view>
+      <view class="instructions">
+        <view class="instruction-title">考试须知：</view>
+        <view class="instruction-text">1. 考试期间不可查看答案和解析。</view>
+        <view class="instruction-text">2. 时间截止后系统将自动提交试卷。</view>
+        <view class="instruction-text">3. 请保持网络畅通，避免中途退出。</view>
+      </view>
+    </view>
+    <view class="modal-footer">
+      <button class="confirm-btn" bindtap="startExam">立即开始</button>
+    </view>
+  </view>
+</view>

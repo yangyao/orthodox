@@ -1,0 +1,27 @@
+<view class="sheet-mask {{show ? 'show' : ''}}" bindtap="onClose"></view>
+<view class="sheet-content {{show ? 'show' : ''}}">
+  <view class="sheet-header">
+    <text class="title">答题卡</text>
+    <view class="close-btn" bindtap="onClose">
+      <icon type="cancel" size="24" color="#999"></icon>
+    </view>
+  </view>
+
+  <scroll-view class="sheet-grid-scroll" scroll-y>
+    <view class="sheet-grid">
+      <view 
+        class="grid-item {{currentIndex === index ? 'active' : ''}} {{answers[index] ? 'answered' : ''}}" 
+        wx:for="{{total}}" 
+        wx:key="*this"
+        bindtap="onItemTap"
+        data-index="{{index}}"
+      >
+        {{index + 1}}
+      </view>
+    </view>
+  </scroll-view>
+
+  <view class="sheet-footer">
+    <view class="finish-btn" bindtap="onFinish">结束练习</view>
+  </view>
+</view>

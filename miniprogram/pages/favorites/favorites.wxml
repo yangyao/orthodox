@@ -1,0 +1,43 @@
+<navigation-bar title="我的收藏" back="{{true}}" color="black" background="#FFF"></navigation-bar>
+
+<view class="favorites-page">
+  <scroll-view 
+    scroll-y 
+    class="favorites-list"
+    bindscrolltolower="onLoadMore"
+    refresher-enabled
+    bindrefresherrefresh="onRefresh"
+    refresher-triggered="{{isRefreshing}}"
+  >
+    <view 
+      class="favorite-item" 
+      wx:for="{{favorites}}" 
+      wx:key="id"
+      bindtap="onItemTap"
+      data-id="{{item.questionId}}"
+    >
+      <view class="item-content">
+        <view class="question-stem">{{item.questionStem}}</view>
+        <view class="bank-info">
+          <text class="bank-name">{{item.bankName}}</text>
+          <text class="created-at">{{item.createdAt}}</text>
+        </view>
+      </view>
+      <view class="item-arrow">
+        <icon type="info" size="14" color="#ccc"></icon>
+      </view>
+    </view>
+
+    <view class="empty-state" wx:if="{{!favorites.length && !loading}}">
+      <image src="/assets/empty.png" mode="aspectFit" class="empty-img"></image>
+      <text>暂无收藏题目</text>
+    </view>
+
+    <view class="loading-more" wx:if="{{loading}}">
+      <text>加载中...</text>
+    </view>
+    <view class="no-more" wx:if="{{noMore && favorites.length}}">
+      <text>没有更多了</text>
+    </view>
+  </scroll-view>
+</view>

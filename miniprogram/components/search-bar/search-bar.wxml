@@ -1,0 +1,13 @@
+<view class="search-bar">
+  <view class="search-box">
+    <icon type="search" size="16" color="#999"></icon>
+    <input 
+      class="search-input" 
+      placeholder="{{placeholder}}" 
+      value="{{value}}"
+      bindinput="onInput"
+      bindconfirm="onSearch"
+    />
+    <icon wx:if="{{value}}" type="clear" size="16" color="#ccc" bindtap="onClear"></icon>
+  </view>
+</view>

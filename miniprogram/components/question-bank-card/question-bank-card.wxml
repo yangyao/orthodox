@@ -1,0 +1,23 @@
+<view class="bank-card {{bank.isOpened ? '' : 'locked'}}" bindtap="onTap">
+  <view class="icon-wrapper shadow-sm">
+    <image class="bank-icon" src="{{bank.icon || '/assets/images/bank_default.svg'}}" mode="aspectFill"></image>
+    <view class="lock-overlay" wx:if="{{!bank.isOpened}}">
+      <view class="lock-circle">
+        <image class="lock-icon" src="/assets/icons/bank.png" style="width:24rpx; height:24rpx; filter: grayscale(100%) brightness(200%);"></image>
+      </view>
+    </view>
+  </view>
+  <view class="bank-info">
+    <view class="bank-title">
+      <text>{{bank.title}}</text>
+      <text class="opened-tag" wx:if="{{bank.isOpened}}">已开通</text>
+    </view>
+    <view class="bank-meta">
+      <text class="bank-count">{{bank.questionCount}} 题</text>
+      <text class="bank-date">更新: {{bank.updateDate}}</text>
+    </view>
+    <view class="bank-tags" wx:if="{{bank.tags && bank.tags.length}}">
+      <text class="tag" wx:for="{{bank.tags}}" wx:key="*this">{{item}}</text>
+    </view>
+  </view>
+</view>

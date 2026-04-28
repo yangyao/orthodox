@@ -1,0 +1,47 @@
+<view class="catalog-container">
+  <!-- Custom Navigation Bar Header -->
+  <view class="nav-header">
+    <view class="back-btn" bindtap="onBack">
+      <text class="back-icon">❮</text>
+    </view>
+    <view class="search-wrapper">
+      <search-bar 
+        placeholder="输入关键词搜索题库" 
+        bind:search="onSearch"
+        bind:input="onSearchInput"
+      ></search-bar>
+    </view>
+  </view>
+
+  <view class="main-content">
+    <!-- Category Sidebar -->
+    <scroll-view class="sidebar" scroll-y>
+      <view 
+        class="category-item {{activeCategoryId === item.id ? 'active' : ''}}" 
+        wx:for="{{categories}}" 
+        wx:key="id"
+        bindtap="onCategorySelect"
+        data-id="{{item.id}}"
+      >
+        <text>{{item.name}}</text>
+      </view>
+    </scroll-view>
+
+    <!-- Question Bank List -->
+    <scroll-view class="bank-list-scroll" scroll-y>
+      <view class="bank-list">
+        <block wx:if="{{filteredBanks.length > 0}}">
+          <question-bank-card 
+            wx:for="{{filteredBanks}}" 
+            wx:key="id" 
+            bank="{{item}}"
+            bind:click="onBankClick"
+          ></question-bank-card>
+        </block>
+        <view class="empty-state" wx:else>
+          <text>暂无相关题库</text>
+        </view>
+      </view>
+    </scroll-view>
+  </view>
+</view>

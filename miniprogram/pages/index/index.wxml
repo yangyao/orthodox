@@ -1,0 +1,56 @@
+<!--index.wxml-->
+<navigation-bar title="{{appName}}" back="{{false}}" color="black" background="#FFF"></navigation-bar>
+<scroll-view class="scrollarea" scroll-y type="list">
+  <view class="container">
+    <!-- Banners -->
+    <swiper class="banner-swiper" indicator-dots autoplay circular interval="3000">
+      <swiper-item wx:for="{{banners}}" wx:key="id">
+        <image class="banner-image" src="{{item.imageUrl}}" mode="aspectFill"></image>
+      </swiper-item>
+    </swiper>
+
+    <!-- Quick Navigation Grid -->
+    <view class="nav-grid">
+      <view class="nav-item" bindtap="goToCatalog">
+        <view class="nav-icon-wrapper blue">
+          <image class="nav-icon" src="/assets/icons/bank.png"></image>
+        </view>
+        <text class="nav-text">题库练习</text>
+      </view>
+      <view class="nav-item" bindtap="goToMock">
+        <view class="nav-icon-wrapper green">
+          <image class="nav-icon" src="/assets/icons/mock.png"></image>
+        </view>
+        <text class="nav-text">模拟考试</text>
+      </view>
+      <view class="nav-item" bindtap="goToMistakes">
+        <view class="nav-icon-wrapper orange">
+          <image class="nav-icon" src="/assets/icons/mistakes.png"></image>
+        </view>
+        <text class="nav-text">错题收藏</text>
+      </view>
+      <view class="nav-item" bindtap="goToStats">
+        <view class="nav-icon-wrapper purple">
+          <image class="nav-icon" src="/assets/icons/stats.png"></image>
+        </view>
+        <text class="nav-text">学习统计</text>
+      </view>
+    </view>
+
+    <!-- Featured Question Banks -->
+    <view class="section">
+      <view class="section-header">
+        <text class="section-title">推荐题库</text>
+        <text class="section-more" bindtap="goToCatalog">更多</text>
+      </view>
+      <view class="bank-list">
+        <question-bank-card 
+          wx:for="{{featuredBanks}}" 
+          wx:key="id" 
+          bank="{{item}}"
+          bind:click="onBankClick"
+        ></question-bank-card>
+      </view>
+    </view>
+  </view>
+</scroll-view>

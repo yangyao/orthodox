@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "错题集",
+  "usingComponents": {
+    "navigation-bar": "/components/navigation-bar/navigation-bar"
+  }
+}

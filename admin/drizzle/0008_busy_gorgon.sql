@@ -1,0 +1,2 @@
+ALTER TABLE "practice_sessions" ADD COLUMN "paper_id" bigint;--> statement-breakpoint
+ALTER TABLE "practice_sessions" ADD CONSTRAINT "practice_sessions_paper_id_mock_papers_id_fk" FOREIGN KEY ("paper_id") REFERENCES "public"."mock_papers"("id") ON DELETE no action ON UPDATE no action;

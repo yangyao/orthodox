@@ -1,0 +1,69 @@
+.favorites-page {
+  background: #f7f8fa;
+  height: 100vh;
+
+  .favorites-list {
+    height: 100%;
+
+    .favorite-item {
+      background: #fff;
+      padding: 30rpx;
+      margin-bottom: 2rpx;
+      display: flex;
+      align-items: center;
+
+      .item-content {
+        flex: 1;
+
+        .question-stem {
+          font-size: 28rpx;
+          color: #333;
+          margin-bottom: 12rpx;
+          display: -webkit-box;
+          -webkit-line-clamp: 2;
+          -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+
+        .bank-info {
+          font-size: 24rpx;
+          color: #999;
+
+          .bank-name {
+            margin-right: 20rpx;
+          }
+        }
+      }
+
+      .item-arrow {
+        margin-left: 20rpx;
+      }
+
+      &:active {
+        background: #f0f0f0;
+      }
+    }
+
+    .empty-state {
+      padding-top: 200rpx;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      color: #999;
+      font-size: 28rpx;
+
+      .empty-img {
+        width: 200rpx;
+        height: 200rpx;
+        margin-bottom: 30rpx;
+      }
+    }
+
+    .loading-more, .no-more {
+      padding: 30rpx;
+      text-align: center;
+      font-size: 24rpx;
+      color: #999;
+    }
+  }
+}

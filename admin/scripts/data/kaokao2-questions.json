@@ -1,0 +1,9272 @@
+{
+  "items": [
+    {
+      "questionType": "single",
+      "stem": "產品碳足跡研究中，敏感度分析通常用於：",
+      "options": [
+        {
+          "label": "A",
+          "text": "確定產品的市場定位"
+        },
+        {
+          "label": "B",
+          "text": "識別關鍵參數和假設"
+        },
+        {
+          "label": "C",
+          "text": "評估消費者偏好"
+        },
+        {
+          "label": "D",
+          "text": "計算財務成本"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 1
+    },
+    {
+      "questionType": "single",
+      "stem": "ISO 14064‑1 中，來自輸入能源之間接溫室氣體排放量屬於：",
+      "options": [
+        {
+          "label": "A",
+          "text": "Category 4"
+        },
+        {
+          "label": "B",
+          "text": "Category 2"
+        },
+        {
+          "label": "C",
+          "text": "Category 3"
+        },
+        {
+          "label": "D",
+          "text": "Category 1"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 2
+    },
+    {
+      "questionType": "single",
+      "stem": "成立碳盤查工作小組的主要目的是什麼？",
+      "options": [
+        {
+          "label": "A",
+          "text": "蒐集相關活動數據與計算排放量"
+        },
+        {
+          "label": "B",
+          "text": "進行市場調研"
+        },
+        {
+          "label": "C",
+          "text": "制定公司政策"
+        },
+        {
+          "label": "D",
+          "text": "規劃公司活動"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 3
+    },
+    {
+      "questionType": "single",
+      "stem": "產品碳足跡計算中，對於電力使用的排放因數通常採用：",
+      "options": [
+        {
+          "label": "A",
+          "text": "最佳可用技術的排放因數"
+        },
+        {
+          "label": "B",
+          "text": "全球平均值"
+        },
+        {
+          "label": "C",
+          "text": "企業自身的發電排放因數"
+        },
+        {
+          "label": "D",
+          "text": "地區或國家電網的平均排放因數"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 4
+    },
+    {
+      "questionType": "single",
+      "stem": "在產品碳足跡計算中，使用階段的碳排放通常基於：",
+      "options": [
+        {
+          "label": "A",
+          "text": "典型使用情境"
+        },
+        {
+          "label": "B",
+          "text": "最差使用情境"
+        },
+        {
+          "label": "C",
+          "text": "最佳使用情境"
+        },
+        {
+          "label": "D",
+          "text": "不考慮使用階段"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 5
+    },
+    {
+      "questionType": "single",
+      "stem": "產品碳足跡計算的結果通常以什麼為基準？",
+      "options": [
+        {
+          "label": "A",
+          "text": "每年生產量"
+        },
+        {
+          "label": "B",
+          "text": "每個功能單位"
+        },
+        {
+          "label": "C",
+          "text": "每美元銷售額"
+        },
+        {
+          "label": "D",
+          "text": "每公斤產品重量"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 6
+    },
+    {
+      "questionType": "single",
+      "stem": "若組織要排除顯著間接排放，應如何處理？",
+      "options": [
+        {
+          "label": "A",
+          "text": "等待主管機關批准"
+        },
+        {
+          "label": "B",
+          "text": "通知相關部門"
+        },
+        {
+          "label": "C",
+          "text": "應予以合理說明"
+        },
+        {
+          "label": "D",
+          "text": "直接排除即可"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 7
+    },
+    {
+      "questionType": "single",
+      "stem": "組織的顯著性評估準則修訂後，應如何處理相關文件？",
+      "options": [
+        {
+          "label": "A",
+          "text": "銷毀舊文件"
+        },
+        {
+          "label": "B",
+          "text": "保留修訂相關之文件化資訊"
+        },
+        {
+          "label": "C",
+          "text": "只保留最新版本"
+        },
+        {
+          "label": "D",
+          "text": "公開發布所有版本"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 8
+    },
+    {
+      "questionType": "single",
+      "stem": "當公司透過併購而持續成長時，可以採用什麼樣的基準年政策？",
+      "options": [
+        {
+          "label": "A",
+          "text": "不設基準年"
+        },
+        {
+          "label": "B",
+          "text": "每年更新基準年"
+        },
+        {
+          "label": "C",
+          "text": "移動的或「滾動式」基準年"
+        },
+        {
+          "label": "D",
+          "text": "固定基準年"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 9
+    },
+    {
+      "questionType": "single",
+      "stem": "LCI 是 LCA 的哪個階段？",
+      "options": [
+        {
+          "label": "A",
+          "text": "目標與範疇界定"
+        },
+        {
+          "label": "B",
+          "text": "生命週期盤查分析"
+        },
+        {
+          "label": "C",
+          "text": "生命週期影響評估"
+        },
+        {
+          "label": "D",
+          "text": "生命週期闡釋"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 10
+    },
+    {
+      "questionType": "single",
+      "stem": "建立系統邊界的主要依據是？",
+      "options": [
+        {
+          "label": "A",
+          "text": "產品類別規則 (PCR)"
+        },
+        {
+          "label": "B",
+          "text": "公司內部規定"
+        },
+        {
+          "label": "C",
+          "text": "國際標準"
+        },
+        {
+          "label": "D",
+          "text": "法規要求"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 11
+    },
+    {
+      "questionType": "single",
+      "stem": "供應商參與碳足跡盤查的主要挑戰不包括？",
+      "options": [
+        {
+          "label": "A",
+          "text": "配合意願"
+        },
+        {
+          "label": "B",
+          "text": "需要提供教育訓練"
+        },
+        {
+          "label": "C",
+          "text": "涉及商業機密"
+        },
+        {
+          "label": "D",
+          "text": "增加產品成本"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 12
+    },
+    {
+      "questionType": "single",
+      "stem": "當蒐集一級數據並非實際可行時，可使用什麼數據？",
+      "options": [
+        {
+          "label": "A",
+          "text": "預測數據"
+        },
+        {
+          "label": "B",
+          "text": "二級數據"
+        },
+        {
+          "label": "C",
+          "text": "模擬數據"
+        },
+        {
+          "label": "D",
+          "text": "場址特定數據"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 13
+    },
+    {
+      "questionType": "single",
+      "stem": "產品碳足跡溝通的主要目的不包括：",
+      "options": [
+        {
+          "label": "A",
+          "text": "提高消費者意識"
+        },
+        {
+          "label": "B",
+          "text": "促進供應鏈合作"
+        },
+        {
+          "label": "C",
+          "text": "支持決策制定"
+        },
+        {
+          "label": "D",
+          "text": "增加產品銷量"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 14
+    },
+    {
+      "questionType": "single",
+      "stem": "以下哪項不是產品碳足跡量化的潛在困難？",
+      "options": [
+        {
+          "label": "A",
+          "text": "分配問題"
+        },
+        {
+          "label": "B",
+          "text": "產品銷售量"
+        },
+        {
+          "label": "C",
+          "text": "數據可用性有限"
+        },
+        {
+          "label": "D",
+          "text": "使用階段行為的不確定性"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 15
+    },
+    {
+      "questionType": "single",
+      "stem": "在產品碳足跡盤查流程中，確定宣告或標示單位時通常使用：",
+      "options": [
+        {
+          "label": "A",
+          "text": "儲存單位"
+        },
+        {
+          "label": "B",
+          "text": "生產單位"
+        },
+        {
+          "label": "C",
+          "text": "運輸單位"
+        },
+        {
+          "label": "D",
+          "text": "產品銷售單位"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 16
+    },
+    {
+      "questionType": "single",
+      "stem": "組織邊界設定時，如有額外納入或排除之設施，應如何處理？",
+      "options": [
+        {
+          "label": "A",
+          "text": "另行說明"
+        },
+        {
+          "label": "B",
+          "text": "委託第三方處理"
+        },
+        {
+          "label": "C",
+          "text": "等比例計算"
+        },
+        {
+          "label": "D",
+          "text": "直接忽略"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 17
+    },
+    {
+      "questionType": "single",
+      "stem": "以下哪項不是生命終結過程可能包括的活動？",
+      "options": [
+        {
+          "label": "A",
+          "text": "粉碎與分類"
+        },
+        {
+          "label": "B",
+          "text": "產品的設計與開發"
+        },
+        {
+          "label": "C",
+          "text": "生命終結產品之蒐集、包裝及運輸"
+        },
+        {
+          "label": "D",
+          "text": "準備回收再利用及再使用"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 18
+    },
+    {
+      "questionType": "single",
+      "stem": "以下哪項不是產品碳足跡計算的主要步驟？",
+      "options": [
+        {
+          "label": "A",
+          "text": "確定目標與範疇"
+        },
+        {
+          "label": "B",
+          "text": "進行市場調查"
+        },
+        {
+          "label": "C",
+          "text": "計算碳足跡"
+        },
+        {
+          "label": "D",
+          "text": "收集數據"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 19
+    },
+    {
+      "questionType": "single",
+      "stem": "下列哪種情況會導致基準年需要重新計算？",
+      "options": [
+        {
+          "label": "A",
+          "text": "產品線調整"
+        },
+        {
+          "label": "B",
+          "text": "員工人數變化"
+        },
+        {
+          "label": "C",
+          "text": "年度預算變動"
+        },
+        {
+          "label": "D",
+          "text": "組織發生合併、併購等結構性變化"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 20
+    },
+    {
+      "questionType": "single",
+      "stem": "溫室氣體盤查程序中，啟始會議的主要目的是什麼？",
+      "options": [
+        {
+          "label": "A",
+          "text": "制定公司策略"
+        },
+        {
+          "label": "B",
+          "text": "凝聚執行溫室氣體盤查的共識"
+        },
+        {
+          "label": "C",
+          "text": "分配工作任務"
+        },
+        {
+          "label": "D",
+          "text": "評估財務影響"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 21
+    },
+    {
+      "questionType": "single",
+      "stem": "關於滅火器的溫室氣體排放計算，以下哪項陳述正確？",
+      "options": [
+        {
+          "label": "A",
+          "text": "CO₂ 滅火器需要計算排放量"
+        },
+        {
+          "label": "B",
+          "text": "滅火器不屬於溫室氣體排放源"
+        },
+        {
+          "label": "C",
+          "text": "只有使用過的滅火器才需要計算排放量"
+        },
+        {
+          "label": "D",
+          "text": "所有類型的滅火器都需要計算排放量"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 22
+    },
+    {
+      "questionType": "single",
+      "stem": "以下哪項不屬於 ISO 14064‑1 中 Category 3（運輸間接排放）的排放源？",
+      "options": [
+        {
+          "label": "A",
+          "text": "員工通勤"
+        },
+        {
+          "label": "B",
+          "text": "業務旅運"
+        },
+        {
+          "label": "C",
+          "text": "貨物上游運輸與分配"
+        },
+        {
+          "label": "D",
+          "text": "購買的商品和服務"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 23
+    },
+    {
+      "questionType": "single",
+      "stem": "產品碳足跡計算中，資本設備通常：",
+      "options": [
+        {
+          "label": "A",
+          "text": "只計入生產設備"
+        },
+        {
+          "label": "B",
+          "text": "必須全部計入"
+        },
+        {
+          "label": "C",
+          "text": "根據截斷準則決定是否計入"
+        },
+        {
+          "label": "D",
+          "text": "完全不計入"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 24
+    },
+    {
+      "questionType": "single",
+      "stem": "關於間接溫室氣體排放，組織應做哪些工作？",
+      "options": [
+        {
+          "label": "A",
+          "text": "忽略所有間接排放"
+        },
+        {
+          "label": "B",
+          "text": "決定納入清冊的間接排放並量化顯著排放"
+        },
+        {
+          "label": "C",
+          "text": "將所有間接排放都納入清冊"
+        },
+        {
+          "label": "D",
+          "text": "僅需列出所有可能的間接排放源"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 25
+    },
+    {
+      "questionType": "single",
+      "stem": "以下哪項屬於 ISO 14064‑1 中 Category 4（使用階段間接排放）？",
+      "options": [
+        {
+          "label": "A",
+          "text": "由產品使用階段產生之排放"
+        },
+        {
+          "label": "B",
+          "text": "由採購的貨物產生之排放"
+        },
+        {
+          "label": "C",
+          "text": "由業務旅運產生的排放"
+        },
+        {
+          "label": "D",
+          "text": "員工通勤產生之排放"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 26
+    },
+    {
+      "questionType": "single",
+      "stem": "當 CFP 用於績效追蹤時，評估期間應不短於：",
+      "options": [
+        {
+          "label": "A",
+          "text": "數據的時間界限"
+        },
+        {
+          "label": "B",
+          "text": "1 年"
+        },
+        {
+          "label": "C",
+          "text": "6 個月"
+        },
+        {
+          "label": "D",
+          "text": "3 個月"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 27
+    },
+    {
+      "questionType": "single",
+      "stem": "組織須針對哪些排放源進行重大性鑑別？",
+      "options": [
+        {
+          "label": "A",
+          "text": "間接排放源"
+        },
+        {
+          "label": "B",
+          "text": "直接排放源"
+        },
+        {
+          "label": "C",
+          "text": "固定排放源"
+        },
+        {
+          "label": "D",
+          "text": "移動排放源"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 28
+    },
+    {
+      "questionType": "single",
+      "stem": "CFP 研究報告中，關於電力的處理應包括：",
+      "options": [
+        {
+          "label": "A",
+          "text": "電網排放因數計算與相關電網特定約束的資訊"
+        },
+        {
+          "label": "B",
+          "text": "電力價格的變化趨勢"
+        },
+        {
+          "label": "C",
+          "text": "電力市場的競爭格局"
+        },
+        {
+          "label": "D",
+          "text": "電力公司的盈利情況"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 29
+    },
+    {
+      "questionType": "single",
+      "stem": "第二階段現場查證通常包括以下哪項工作？",
+      "options": [
+        {
+          "label": "A",
+          "text": "第二階段活動數據實際抽樣"
+        },
+        {
+          "label": "B",
+          "text": "邊界範圍界定"
+        },
+        {
+          "label": "C",
+          "text": "SRRA 缺失改善之覆核"
+        },
+        {
+          "label": "D",
+          "text": "查證申請書審核"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 30
+    },
+    {
+      "questionType": "single",
+      "stem": "CFP 研究報告中，關於價值選擇，應該：",
+      "options": [
+        {
+          "label": "A",
+          "text": "隱藏所有價值選擇"
+        },
+        {
+          "label": "B",
+          "text": "只報告有利的價值選擇"
+        },
+        {
+          "label": "C",
+          "text": "揭露價值選擇及其理由"
+        },
+        {
+          "label": "D",
+          "text": "忽略價值選擇的影響"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 31
+    },
+    {
+      "questionType": "single",
+      "stem": "內部查證時，針對數據資訊面向的查證重點包括以下哪項？",
+      "options": [
+        {
+          "label": "A",
+          "text": "員工績效評估"
+        },
+        {
+          "label": "B",
+          "text": "客戶開發策略"
+        },
+        {
+          "label": "C",
+          "text": "產品研發計劃"
+        },
+        {
+          "label": "D",
+          "text": "計算公式錯誤"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 32
+    },
+    {
+      "questionType": "single",
+      "stem": "CFP 量化數值具備代表性的時間期間應如何確定？",
+      "options": [
+        {
+          "label": "A",
+          "text": "永遠使用最新的一年數據"
+        },
+        {
+          "label": "B",
+          "text": "由監管機構統一規定"
+        },
+        {
+          "label": "C",
+          "text": "應予指定並說明理由"
+        },
+        {
+          "label": "D",
+          "text": "必須涵蓋產品的整個生命週期"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 33
+    },
+    {
+      "questionType": "single",
+      "stem": "使用「混合法」計算採購貨物產生的排放時，不包括以下哪項？",
+      "options": [
+        {
+          "label": "A",
+          "text": "供應商上游活動數據"
+        },
+        {
+          "label": "B",
+          "text": "供應商範疇 1 + 2 排放數據"
+        },
+        {
+          "label": "C",
+          "text": "供應商的利潤率"
+        },
+        {
+          "label": "D",
+          "text": "次級數據（如行業平均排放係數）"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 34
+    },
+    {
+      "questionType": "single",
+      "stem": "PCR 中的「推動產品碳足跡標示審議會技術小組審查意見及回應」主要目的是：",
+      "options": [
+        {
+          "label": "A",
+          "text": "提供產品銷售數據"
+        },
+        {
+          "label": "B",
+          "text": "制定公司的市場策略"
+        },
+        {
+          "label": "C",
+          "text": "分析競爭對手的產品"
+        },
+        {
+          "label": "D",
+          "text": "記錄專家學者的建議及回應"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 35
+    },
+    {
+      "questionType": "single",
+      "stem": "CFP 研究的範疇中，應該明確描述以下哪項？",
+      "options": [
+        {
+          "label": "A",
+          "text": "公司的財務狀況"
+        },
+        {
+          "label": "B",
+          "text": "數據和數據品質要求事項"
+        },
+        {
+          "label": "C",
+          "text": "員工培訓計劃"
+        },
+        {
+          "label": "D",
+          "text": "產品的銷售策略"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 36
+    },
+    {
+      "questionType": "single",
+      "stem": "當分配無法避免時，系統的投入項和產出項在不同產品或功能間的分配應該如何進行？",
+      "options": [
+        {
+          "label": "A",
+          "text": "根據產品的市場價值"
+        },
+        {
+          "label": "B",
+          "text": "反映產品與功能間的基本物理關係"
+        },
+        {
+          "label": "C",
+          "text": "根據產品的重量"
+        },
+        {
+          "label": "D",
+          "text": "平均分配"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 37
+    },
+    {
+      "questionType": "single",
+      "stem": "在 CFP 研究中，如何處理使用階段和生命終結階段的假設？",
+      "options": [
+        {
+          "label": "A",
+          "text": "明確說明這些階段的假設"
+        },
+        {
+          "label": "B",
+          "text": "只考慮最壞情況"
+        },
+        {
+          "label": "C",
+          "text": "忽略這些階段"
+        },
+        {
+          "label": "D",
+          "text": "只考慮最好情況"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 38
+    },
+    {
+      "questionType": "single",
+      "stem": "生命週期評估 (LCA) 的結果可以用於：",
+      "options": [
+        {
+          "label": "A",
+          "text": "確定產品的市場價格"
+        },
+        {
+          "label": "B",
+          "text": "識別環境影響較大的階段，進行改善"
+        },
+        {
+          "label": "C",
+          "text": "決定公司的股利分配"
+        },
+        {
+          "label": "D",
+          "text": "制定公司的人力資源政策"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 39
+    },
+    {
+      "questionType": "single",
+      "stem": "溫室氣體盤查報告書中，通常包括以下哪個章節？",
+      "options": [
+        {
+          "label": "A",
+          "text": "行銷策略"
+        },
+        {
+          "label": "B",
+          "text": "人力資源政策"
+        },
+        {
+          "label": "C",
+          "text": "基準年選定"
+        },
+        {
+          "label": "D",
+          "text": "財務報表分析"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 40
+    },
+    {
+      "questionType": "single",
+      "stem": "在 PCR 中，生命週期各階段之數據蒐集要求：",
+      "options": [
+        {
+          "label": "A",
+          "text": "可以完全使用估算數據"
+        },
+        {
+          "label": "B",
+          "text": "只需要收集生產階段的數據"
+        },
+        {
+          "label": "C",
+          "text": "所有階段必須使用相同的數據收集方法"
+        },
+        {
+          "label": "D",
+          "text": "可能因階段不同而有不同要求"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 41
+    },
+    {
+      "questionType": "single",
+      "stem": "若工廠從柴油油槽領用堆高機用的柴油，最優先應參考哪種單據來確定活動數據？",
+      "options": [
+        {
+          "label": "A",
+          "text": "該年度柴油領用紀錄表"
+        },
+        {
+          "label": "B",
+          "text": "該年度柴油採購發票"
+        },
+        {
+          "label": "C",
+          "text": "該年度柴油採購單"
+        },
+        {
+          "label": "D",
+          "text": "該年度油槽庫存盤點紀錄表"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 42
+    },
+    {
+      "questionType": "single",
+      "stem": "計算下游租賃資產產生的排放時，以下哪項陳述是錯誤的？",
+      "options": [
+        {
+          "label": "A",
+          "text": "若無法區分出租及售出產品，則歸為出售產品的使用排放"
+        },
+        {
+          "label": "B",
+          "text": "需要區分出租及售出產品"
+        },
+        {
+          "label": "C",
+          "text": "所有租賃資產的排放都應計入此類別"
+        },
+        {
+          "label": "D",
+          "text": "只計算不包含於報告公司類別 1 及類別 2 排放的部分"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 43
+    },
+    {
+      "questionType": "single",
+      "stem": "在 LCA 的衝擊評估階段，溫室氣體排放與移除量應選擇哪種全球暖化潛勢 (GWP) 計算方法？",
+      "options": [
+        {
+          "label": "A",
+          "text": "輸入‑輸出分析"
+        },
+        {
+          "label": "B",
+          "text": "跨期 GWP 加權"
+        },
+        {
+          "label": "C",
+          "text": "組織範疇分析"
+        },
+        {
+          "label": "D",
+          "text": "直接排放量計算"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 44
+    },
+    {
+      "questionType": "single",
+      "stem": "下列哪項不屬於計算產品使用階段排放所需考慮的因素？",
+      "options": [
+        {
+          "label": "A",
+          "text": "產品的預期使用壽命"
+        },
+        {
+          "label": "B",
+          "text": "產品使用過程中的能源消耗"
+        },
+        {
+          "label": "C",
+          "text": "產品使用過程中的維護需求"
+        },
+        {
+          "label": "D",
+          "text": "產品的銷售價格"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 45
+    },
+    {
+      "questionType": "single",
+      "stem": "根據《溫室氣體排放量盤查登錄及查驗管理辦法》，查驗作業不得連續幾年由同一主導查驗員執行？",
+      "options": [
+        {
+          "label": "A",
+          "text": "5 年"
+        },
+        {
+          "label": "B",
+          "text": "10 年"
+        },
+        {
+          "label": "C",
+          "text": "6 年"
+        },
+        {
+          "label": "D",
+          "text": "3 年"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 46
+    },
+    {
+      "questionType": "single",
+      "stem": "CFP 研究中的「一致性」原則要求：",
+      "options": [
+        {
+          "label": "A",
+          "text": "假設、方法及數據以相同方式應用於整個 CFP 研究中"
+        },
+        {
+          "label": "B",
+          "text": "所有產品使用相同的方法"
+        },
+        {
+          "label": "C",
+          "text": "研究結果必須與之前的研究一致"
+        },
+        {
+          "label": "D",
+          "text": "研究結果必須符合預期"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 47
+    },
+    {
+      "questionType": "single",
+      "stem": "使用平均數據法計算「由採購的貨物產生之排放」時，需要哪些信息？",
+      "options": [
+        {
+          "label": "A",
+          "text": "採購的產品重量和對應的行業平均排放係數"
+        },
+        {
+          "label": "B",
+          "text": "供應商的具體生產工藝"
+        },
+        {
+          "label": "C",
+          "text": "供應商的財務報表"
+        },
+        {
+          "label": "D",
+          "text": "供應商的員工人數"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 48
+    },
+    {
+      "questionType": "single",
+      "stem": "使用特定供應商法計算「由採購的貨物產生之排放」時，需要哪些數據？",
+      "options": [
+        {
+          "label": "A",
+          "text": "公司的採購支出金額"
+        },
+        {
+          "label": "B",
+          "text": "行業平均排放係數"
+        },
+        {
+          "label": "C",
+          "text": "產品的市場佔有率"
+        },
+        {
+          "label": "D",
+          "text": "供應商提供的產品從搖籃到大門的排放數據"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 49
+    },
+    {
+      "questionType": "single",
+      "stem": "在進行組織溫室氣體盤查時，下列哪種滅火器不需要列入盤查？",
+      "options": [
+        {
+          "label": "A",
+          "text": "FM200"
+        },
+        {
+          "label": "B",
+          "text": "ABC"
+        },
+        {
+          "label": "C",
+          "text": "CO₂"
+        },
+        {
+          "label": "D",
+          "text": "BC"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 50
+    },
+    {
+      "questionType": "single",
+      "stem": "下列哪一個公式正確計算了溫室氣體排放量？",
+      "options": [
+        {
+          "label": "A",
+          "text": "排放量 = 活動數據 × GHG 排放係數 × GWP 值"
+        },
+        {
+          "label": "B",
+          "text": "排放量 = 活動數據 + GHG 排放係數 + GWP 值"
+        },
+        {
+          "label": "C",
+          "text": "排放量 = 活動數據 ÷ GHG 排放係數 × GWP 值"
+        },
+        {
+          "label": "D",
+          "text": "排放量 = 活動數據 − GHG 排放係數 × GWP 值"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 51
+    },
+    {
+      "questionType": "single",
+      "stem": "生命週期評估 (LCA) 中，資源耗用主要指：",
+      "options": [
+        {
+          "label": "A",
+          "text": "只考慮能源資源"
+        },
+        {
+          "label": "B",
+          "text": "考慮各種自然資源的使用"
+        },
+        {
+          "label": "C",
+          "text": "只考慮礦產資源"
+        },
+        {
+          "label": "D",
+          "text": "只考慮水資源"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 52
+    },
+    {
+      "questionType": "single",
+      "stem": "在 PCR 中，關於原料取得階段的數據收集要求是：",
+      "options": [
+        {
+          "label": "A",
+          "text": "可以忽略這個階段的數據"
+        },
+        {
+          "label": "B",
+          "text": "只能使用二級活動數據"
+        },
+        {
+          "label": "C",
+          "text": "不強制要求收集一級活動數據，但應優先採用"
+        },
+        {
+          "label": "D",
+          "text": "必須全部使用一級活動數據"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 53
+    },
+    {
+      "questionType": "single",
+      "stem": "下列哪項不屬於計算由採購貨物產生的排放所需的信息？",
+      "options": [
+        {
+          "label": "A",
+          "text": "採購原料重量"
+        },
+        {
+          "label": "B",
+          "text": "供應商的財務報表"
+        },
+        {
+          "label": "C",
+          "text": "原料相關排放係數"
+        },
+        {
+          "label": "D",
+          "text": "原料生產過程的能源消耗"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 54
+    },
+    {
+      "questionType": "single",
+      "stem": "ISO 14067 標準強調從哪個視角評估產品碳足跡？",
+      "options": [
+        {
+          "label": "A",
+          "text": "廢棄處理"
+        },
+        {
+          "label": "B",
+          "text": "製造過程"
+        },
+        {
+          "label": "C",
+          "text": "生命週期"
+        },
+        {
+          "label": "D",
+          "text": "消費者使用"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 55
+    },
+    {
+      "questionType": "single",
+      "stem": "CFP 研究中的「準確性」原則要求：",
+      "options": [
+        {
+          "label": "A",
+          "text": "只使用實測數據"
+        },
+        {
+          "label": "B",
+          "text": "儘可能在實務上減少偏差與不確定性"
+        },
+        {
+          "label": "C",
+          "text": "排除所有估算數據"
+        },
+        {
+          "label": "D",
+          "text": "結果必須 100 % 精確"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 56
+    },
+    {
+      "questionType": "single",
+      "stem": "生命週期闡釋階段的主要功能是：",
+      "options": [
+        {
+          "label": "A",
+          "text": "進行實驗室測試"
+        },
+        {
+          "label": "B",
+          "text": "定義評估範圍"
+        },
+        {
+          "label": "C",
+          "text": "整合盤查分析及衝擊評估結果，提供決策參考"
+        },
+        {
+          "label": "D",
+          "text": "收集原始數據"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 57
+    },
+    {
+      "questionType": "single",
+      "stem": "ISO 14067 標準中，對於碳抵換的處理方式是：",
+      "options": [
+        {
+          "label": "A",
+          "text": "不允許包含在碳足跡量化中"
+        },
+        {
+          "label": "B",
+          "text": "僅允許包含可再生能源相關的碳抵換"
+        },
+        {
+          "label": "C",
+          "text": "允許包含在碳足跡量化中"
+        },
+        {
+          "label": "D",
+          "text": "由計算者自行決定是否包含"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 58
+    },
+    {
+      "questionType": "single",
+      "stem": "碳盤查工作小組的後續工作不包括以下哪項？",
+      "options": [
+        {
+          "label": "A",
+          "text": "推動減碳方案"
+        },
+        {
+          "label": "B",
+          "text": "制定公司營銷策略"
+        },
+        {
+          "label": "C",
+          "text": "達成永續淨零"
+        },
+        {
+          "label": "D",
+          "text": "研擬減碳目標"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 59
+    },
+    {
+      "questionType": "single",
+      "stem": "當有數個替代分配程式可用時，應進行什麼分析？",
+      "options": [
+        {
+          "label": "A",
+          "text": "敏感度分析"
+        },
+        {
+          "label": "B",
+          "text": "成本分析"
+        },
+        {
+          "label": "C",
+          "text": "風險分析"
+        },
+        {
+          "label": "D",
+          "text": "市場分析"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 60
+    },
+    {
+      "questionType": "single",
+      "stem": "固定式燃料燃燒造成的主要溫室氣體排放包括：",
+      "options": [
+        {
+          "label": "A",
+          "text": "二氧化碳和甲烷"
+        },
+        {
+          "label": "B",
+          "text": "只有二氧化碳"
+        },
+        {
+          "label": "C",
+          "text": "二氧化碳、甲烷和氧化亞氮"
+        },
+        {
+          "label": "D",
+          "text": "二氧化碳、甲烷、氧化亞氮和氫氟碳化物"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 61
+    },
+    {
+      "questionType": "single",
+      "stem": "在產品碳足跡計算中，以下哪項通常被視為直接排放？",
+      "options": [
+        {
+          "label": "A",
+          "text": "購買電力導致的排放"
+        },
+        {
+          "label": "B",
+          "text": "工廠使用化石燃料的排放"
+        },
+        {
+          "label": "C",
+          "text": "員工通勤產生的排放"
+        },
+        {
+          "label": "D",
+          "text": "原材料生產過程的排放"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 62
+    },
+    {
+      "questionType": "single",
+      "stem": "以下哪項不是提高產品碳足跡計算準確性的方法？",
+      "options": [
+        {
+          "label": "A",
+          "text": "增加產品的市場佔有率"
+        },
+        {
+          "label": "B",
+          "text": "改進分配方法"
+        },
+        {
+          "label": "C",
+          "text": "使用更多的一級數據"
+        },
+        {
+          "label": "D",
+          "text": "進行敏感度分析"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 63
+    },
+    {
+      "questionType": "single",
+      "stem": "以下哪項不屬於產品碳足跡的應用領域？",
+      "options": [
+        {
+          "label": "A",
+          "text": "財務審計"
+        },
+        {
+          "label": "B",
+          "text": "採購決策"
+        },
+        {
+          "label": "C",
+          "text": "風險管理"
+        },
+        {
+          "label": "D",
+          "text": "產品開發"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 64
+    },
+    {
+      "questionType": "single",
+      "stem": "ISO 14064‑1:2018 中，哪項不屬於 Category 1（直接溫室氣體排放量與移除量）？",
+      "options": [
+        {
+          "label": "A",
+          "text": "輸入電力之間接排放"
+        },
+        {
+          "label": "B",
+          "text": "固定式燃燒源之直接排放"
+        },
+        {
+          "label": "C",
+          "text": "產業過程之直接排放與移除"
+        },
+        {
+          "label": "D",
+          "text": "土地使用、土地使用變更及林業之直接排放與移除"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 65
+    },
+    {
+      "questionType": "single",
+      "stem": "以下哪項不是影響產品碳足跡結果可比性的因素？",
+      "options": [
+        {
+          "label": "A",
+          "text": "分配方法的選擇"
+        },
+        {
+          "label": "B",
+          "text": "功能單位的選擇"
+        },
+        {
+          "label": "C",
+          "text": "系統邊界的界定"
+        },
+        {
+          "label": "D",
+          "text": "產品的市場價格"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 66
+    },
+    {
+      "questionType": "single",
+      "stem": "產品碳足跡計算中，運輸階段的排放通常基於：",
+      "options": [
+        {
+          "label": "A",
+          "text": "行業平均運輸距離"
+        },
+        {
+          "label": "B",
+          "text": "最大可能運輸距離"
+        },
+        {
+          "label": "C",
+          "text": "實際運輸距離和方式"
+        },
+        {
+          "label": "D",
+          "text": "理論最短距離"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 67
+    },
+    {
+      "questionType": "single",
+      "stem": "組織在量化溫室氣體排放時，還需要量化什麼？",
+      "options": [
+        {
+          "label": "A",
+          "text": "溫室氣體移除量"
+        },
+        {
+          "label": "B",
+          "text": "能源使用效率"
+        },
+        {
+          "label": "C",
+          "text": "產品銷售量"
+        },
+        {
+          "label": "D",
+          "text": "員工通勤距離"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 68
+    },
+    {
+      "questionType": "single",
+      "stem": "在計算乙炔 (C₂H₂) 燃燒產生的 CO₂ 排放時，正確的排放係數是：",
+      "options": [
+        {
+          "label": "A",
+          "text": "3.385 公噸 CO₂/公噸乙炔"
+        },
+        {
+          "label": "B",
+          "text": "1.385 公噸 CO₂/公噸乙炔"
+        },
+        {
+          "label": "C",
+          "text": "2.385 公噸 CO₂/公噸乙炔"
+        },
+        {
+          "label": "D",
+          "text": "4.385 公噸 CO₂/公噸乙炔"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 69
+    },
+    {
+      "questionType": "single",
+      "stem": "分配程式的步驟 2 是什麼？",
+      "options": [
+        {
+          "label": "A",
+          "text": "以反映基本實質關係的方式進行分配"
+        },
+        {
+          "label": "B",
+          "text": "以反映其他關係的方式進行分配"
+        },
+        {
+          "label": "C",
+          "text": "儘可能避免分配"
+        },
+        {
+          "label": "D",
+          "text": "擴大產品系統"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 70
+    },
+    {
+      "questionType": "single",
+      "stem": "組織應根據什麼來決定溫室氣體盤查報告書中排放量資訊的揭露程度？",
+      "options": [
+        {
+          "label": "A",
+          "text": "競爭對手的做法"
+        },
+        {
+          "label": "B",
+          "text": "公司股價表現"
+        },
+        {
+          "label": "C",
+          "text": "預期使用者需求"
+        },
+        {
+          "label": "D",
+          "text": "最新的科技發展"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 71
+    },
+    {
+      "questionType": "single",
+      "stem": "溫室氣體盤查需要跨部門合作的主要原因是什麼？",
+      "options": [
+        {
+          "label": "A",
+          "text": "需要收集彙整橫跨組織內部不同部門的資料"
+        },
+        {
+          "label": "B",
+          "text": "提高員工參與度"
+        },
+        {
+          "label": "C",
+          "text": "滿足法律要求"
+        },
+        {
+          "label": "D",
+          "text": "增加工作難度"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 72
+    },
+    {
+      "questionType": "single",
+      "stem": "在產品碳足跡計算中，以下哪項通常被視為間接排放？",
+      "options": [
+        {
+          "label": "A",
+          "text": "工廠使用化石燃料的排放"
+        },
+        {
+          "label": "B",
+          "text": "購買電力導致的排放"
+        },
+        {
+          "label": "C",
+          "text": "產品使用階段的排放"
+        },
+        {
+          "label": "D",
+          "text": "產品廢棄階段的排放"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 73
+    },
+    {
+      "questionType": "single",
+      "stem": "以下哪項不是 ISO 14064‑1 中 Category 2（來自輸入能源之間接溫室氣體排放量）的排放源？",
+      "options": [
+        {
+          "label": "A",
+          "text": "購買的電力"
+        },
+        {
+          "label": "B",
+          "text": "購買的蒸汽"
+        },
+        {
+          "label": "C",
+          "text": "購買的熱水"
+        },
+        {
+          "label": "D",
+          "text": "自產的電力"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 74
+    },
+    {
+      "questionType": "single",
+      "stem": "巴黎協定要求已開發國家應提供氣候變遷資金，主要目的是：",
+      "options": [
+        {
+          "label": "A",
+          "text": "資助氣候變遷相關研究"
+        },
+        {
+          "label": "B",
+          "text": "補貼化石燃料產業轉型"
+        },
+        {
+          "label": "C",
+          "text": "幫助開發中國家減少排放並應對氣候變遷"
+        },
+        {
+          "label": "D",
+          "text": "資助已開發國家的減排計劃"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 75
+    },
+    {
+      "questionType": "single",
+      "stem": "在 CFP 研究中，如何處理產品中的生質碳？",
+      "options": [
+        {
+          "label": "A",
+          "text": "分別列出但不包括在 CFP 結果中"
+        },
+        {
+          "label": "B",
+          "text": "只在使用階段考慮"
+        },
+        {
+          "label": "C",
+          "text": "計入 CFP 結果中"
+        },
+        {
+          "label": "D",
+          "text": "忽略不計"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 76
+    },
+    {
+      "questionType": "single",
+      "stem": "《氣候變遷因應法》規定，事業應在每年的哪一天前完成前一年度溫室氣體排放量的查驗？",
+      "options": [
+        {
+          "label": "A",
+          "text": "11 月 30 日"
+        },
+        {
+          "label": "B",
+          "text": "10 月 31 日"
+        },
+        {
+          "label": "C",
+          "text": "9 月 30 日"
+        },
+        {
+          "label": "D",
+          "text": "12 月 31 日"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 77
+    },
+    {
+      "questionType": "single",
+      "stem": "在碳足跡計算中，下游過程的數據通常如何獲得？",
+      "options": [
+        {
+          "label": "A",
+          "text": "市調或情境假設"
+        },
+        {
+          "label": "B",
+          "text": "從資料庫獲取"
+        },
+        {
+          "label": "C",
+          "text": "專家估算"
+        },
+        {
+          "label": "D",
+          "text": "實地盤查"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 78
+    },
+    {
+      "questionType": "single",
+      "stem": "CFP 研究報告中，關於分配方法的資訊應如何處理？",
+      "options": [
+        {
+          "label": "A",
+          "text": "只記錄主要的分配方法"
+        },
+        {
+          "label": "B",
+          "text": "鑑別與詳細記錄所選擇使用的分配方法"
+        },
+        {
+          "label": "C",
+          "text": "不需要提供任何資訊"
+        },
+        {
+          "label": "D",
+          "text": "只需簡單提及使用了分配方法"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 79
+    },
+    {
+      "questionType": "single",
+      "stem": "《蒙特婁議定書》主要針對哪一類物質進行管制？",
+      "options": [
+        {
+          "label": "A",
+          "text": "氯氟碳化物"
+        },
+        {
+          "label": "B",
+          "text": "二氧化碳"
+        },
+        {
+          "label": "C",
+          "text": "甲烷"
+        },
+        {
+          "label": "D",
+          "text": "氮氧化物"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 80
+    },
+    {
+      "questionType": "single",
+      "stem": "在制定產品碳足跡盤查目標時，下列哪項不是重要考量因素？",
+      "options": [
+        {
+          "label": "A",
+          "text": "預期的應用"
+        },
+        {
+          "label": "B",
+          "text": "產品的市場佔有率"
+        },
+        {
+          "label": "C",
+          "text": "預期讀者的溝通方式"
+        },
+        {
+          "label": "D",
+          "text": "展開專案的原因"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 81
+    },
+    {
+      "questionType": "single",
+      "stem": "組織進行外部查證前，應先完成什麼程序？",
+      "options": [
+        {
+          "label": "A",
+          "text": "公開資訊揭露"
+        },
+        {
+          "label": "B",
+          "text": "政府審批"
+        },
+        {
+          "label": "C",
+          "text": "股東大會審核"
+        },
+        {
+          "label": "D",
+          "text": "內部查證"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 82
+    },
+    {
+      "questionType": "single",
+      "stem": "在產品碳足跡中，系統邊界是指：",
+      "options": [
+        {
+          "label": "A",
+          "text": "納入研究的單元過程範圍"
+        },
+        {
+          "label": "B",
+          "text": "組織的營運邊界"
+        },
+        {
+          "label": "C",
+          "text": "產品的物理邊界"
+        },
+        {
+          "label": "D",
+          "text": "產品銷售的地理範圍"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 83
+    },
+    {
+      "questionType": "single",
+      "stem": "以下哪項不是 CFP 研究報告中需要包含的資訊？",
+      "options": [
+        {
+          "label": "A",
+          "text": "重要單元過程清冊"
+        },
+        {
+          "label": "B",
+          "text": "功能單位與參考流"
+        },
+        {
+          "label": "C",
+          "text": "系統界限"
+        },
+        {
+          "label": "D",
+          "text": "公司的財務報表"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 84
+    },
+    {
+      "questionType": "single",
+      "stem": "根據環境部規範，以下哪項屬於直接排放？",
+      "options": [
+        {
+          "label": "A",
+          "text": "外購電力使用"
+        },
+        {
+          "label": "B",
+          "text": "廢棄物處理"
+        },
+        {
+          "label": "C",
+          "text": "固定燃料燃燒"
+        },
+        {
+          "label": "D",
+          "text": "員工通勤"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 85
+    },
+    {
+      "questionType": "single",
+      "stem": "在活動數據整理時，通常需要將非重量單位換算為重量單位的原因是？",
+      "options": [
+        {
+          "label": "A",
+          "text": "便於計算"
+        },
+        {
+          "label": "B",
+          "text": "配合使用之資料庫"
+        },
+        {
+          "label": "C",
+          "text": "便於比較"
+        },
+        {
+          "label": "D",
+          "text": "符合法規要求"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 86
+    },
+    {
+      "questionType": "single",
+      "stem": "在計算焊條使用產生的 CO₂ 排放時，需要考慮：",
+      "options": [
+        {
+          "label": "A",
+          "text": "焊條重量和焊接時間"
+        },
+        {
+          "label": "B",
+          "text": "焊條重量和焊條含碳量"
+        },
+        {
+          "label": "C",
+          "text": "焊條重量和焊接溫度"
+        },
+        {
+          "label": "D",
+          "text": "只需焊條重量"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 87
+    },
+    {
+      "questionType": "single",
+      "stem": "下列哪項不屬於產品碳足跡的生命週期階段？",
+      "options": [
+        {
+          "label": "A",
+          "text": "原料階段"
+        },
+        {
+          "label": "B",
+          "text": "測試階段"
+        },
+        {
+          "label": "C",
+          "text": "製造階段"
+        },
+        {
+          "label": "D",
+          "text": "使用階段"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 88
+    },
+    {
+      "questionType": "single",
+      "stem": "如果電費單的計費週期跨年度，應如何處理用電量數據？",
+      "options": [
+        {
+          "label": "A",
+          "text": "全部計入第二年"
+        },
+        {
+          "label": "B",
+          "text": "全部計入第一年"
+        },
+        {
+          "label": "C",
+          "text": "取兩年的平均值"
+        },
+        {
+          "label": "D",
+          "text": "按實際日數比例攤分使用量"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 89
+    },
+    {
+      "questionType": "single",
+      "stem": "組織量化直接溫室氣體排放量時，應將排放區分為哪些氣體？",
+      "options": [
+        {
+          "label": "A",
+          "text": "只需區分 CO₂ 和 CH₄"
+        },
+        {
+          "label": "B",
+          "text": "應區分 CO₂、CH₄、N₂O、NF₃、SF₆ 等"
+        },
+        {
+          "label": "C",
+          "text": "不需要區分，只計算總量"
+        },
+        {
+          "label": "D",
+          "text": "只需區分 CO₂"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 90
+    },
+    {
+      "questionType": "single",
+      "stem": "在報告階段，報表資訊通常不包括？",
+      "options": [
+        {
+          "label": "A",
+          "text": "基本資料"
+        },
+        {
+          "label": "B",
+          "text": "公司財務報表"
+        },
+        {
+          "label": "C",
+          "text": "熱點排名"
+        },
+        {
+          "label": "D",
+          "text": "碳足跡簡表"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 91
+    },
+    {
+      "questionType": "single",
+      "stem": "在活動數據檢核中，關於物料規格或濃度的說明，哪項是正確的？",
+      "options": [
+        {
+          "label": "A",
+          "text": "只需要說明主要原料的濃度"
+        },
+        {
+          "label": "B",
+          "text": "輔助物料不需要說明規格"
+        },
+        {
+          "label": "C",
+          "text": "各項物料均須清楚說明濃度、成分或化學反應式"
+        },
+        {
+          "label": "D",
+          "text": "只需要提供物料名稱，不需要提供規格資訊"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 92
+    },
+    {
+      "questionType": "single",
+      "stem": "不確定性分析中，通常不包括以下哪種不確定性？",
+      "options": [
+        {
+          "label": "A",
+          "text": "模型的不確定性"
+        },
+        {
+          "label": "B",
+          "text": "情境的不確定性"
+        },
+        {
+          "label": "C",
+          "text": "政策的不確定性"
+        },
+        {
+          "label": "D",
+          "text": "參數的不確定性"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 93
+    },
+    {
+      "questionType": "single",
+      "stem": "根據 GHG Protocol，集團企業在選擇組織邊界彙整方式後，應如何執行？",
+      "options": [
+        {
+          "label": "A",
+          "text": "應適用到組織內所有的層級"
+        },
+        {
+          "label": "B",
+          "text": "各子公司可自行選擇"
+        },
+        {
+          "label": "C",
+          "text": "只適用於母公司"
+        },
+        {
+          "label": "D",
+          "text": "可根據需要隨時更改"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 94
+    },
+    {
+      "questionType": "single",
+      "stem": "關鍵性審查的目的是：",
+      "options": [
+        {
+          "label": "A",
+          "text": "確保碳足跡研究符合標準要求"
+        },
+        {
+          "label": "B",
+          "text": "確定產品碳足跡的市場競爭力"
+        },
+        {
+          "label": "C",
+          "text": "比較不同計算方法的優劣"
+        },
+        {
+          "label": "D",
+          "text": "評估產品的環境影響"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 95
+    },
+    {
+      "questionType": "single",
+      "stem": "產品碳足跡研究中，「供應鏈」是指：",
+      "options": [
+        {
+          "label": "A",
+          "text": "僅包括配送網絡"
+        },
+        {
+          "label": "B",
+          "text": "從原料到最終用戶的所有過程"
+        },
+        {
+          "label": "C",
+          "text": "僅包括製造過程"
+        },
+        {
+          "label": "D",
+          "text": "僅包括直接供應商"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 96
+    },
+    {
+      "questionType": "single",
+      "stem": "在產品碳足跡盤查中，關於水體污染物排放的說法，哪項是正確的？",
+      "options": [
+        {
+          "label": "A",
+          "text": "水體污染物排放不屬於碳足跡盤查範圍"
+        },
+        {
+          "label": "B",
+          "text": "需要收集廢水排放量和水體污染物資訊"
+        },
+        {
+          "label": "C",
+          "text": "只需要考慮直接排入自然水體的污染物"
+        },
+        {
+          "label": "D",
+          "text": "只需要收集用水量，不需要考慮排放"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 97
+    },
+    {
+      "questionType": "single",
+      "stem": "CFP 研究的範疇應與什麼一致？",
+      "options": [
+        {
+          "label": "A",
+          "text": "產品的銷售策略"
+        },
+        {
+          "label": "B",
+          "text": "行業的平均水準"
+        },
+        {
+          "label": "C",
+          "text": "CFP 研究的目標"
+        },
+        {
+          "label": "D",
+          "text": "公司的財務狀況"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 98
+    },
+    {
+      "questionType": "single",
+      "stem": "在活動數據檢核中，關於空水廢排放的說法，哪項是錯誤的？",
+      "options": [
+        {
+          "label": "A",
+          "text": "廢棄物不需提供處理方式"
+        },
+        {
+          "label": "B",
+          "text": "需提供製程各項空水廢排放的項目名稱和實際排放量"
+        },
+        {
+          "label": "C",
+          "text": "需提供廢水處理化學藥劑的運輸資訊"
+        },
+        {
+          "label": "D",
+          "text": "需提供廢棄物的處理和運輸方式"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 99
+    },
+    {
+      "questionType": "single",
+      "stem": "在產品碳足跡盤查的數據收集過程中，以下哪項不是必須提供的運輸資訊？",
+      "options": [
+        {
+          "label": "A",
+          "text": "運輸距離"
+        },
+        {
+          "label": "B",
+          "text": "物料的購買地點"
+        },
+        {
+          "label": "C",
+          "text": "運輸方式（陸運、空運、海運）"
+        },
+        {
+          "label": "D",
+          "text": "運輸工具的品牌"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 100
+    },
+    {
+      "questionType": "single",
+      "stem": "計算外購蒸汽的間接排放時，排放係數應：",
+      "options": [
+        {
+          "label": "A",
+          "text": "自行測量"
+        },
+        {
+          "label": "B",
+          "text": "由供應商提供並經第三方查證"
+        },
+        {
+          "label": "C",
+          "text": "使用行業平均值"
+        },
+        {
+          "label": "D",
+          "text": "使用默認值"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 101
+    },
+    {
+      "questionType": "single",
+      "stem": "在 CFP 研究中，如何處理來自航空器運輸之 GHG 排放？",
+      "options": [
+        {
+          "label": "A",
+          "text": "計入生物燃料排放"
+        },
+        {
+          "label": "B",
+          "text": "計入化石燃料排放"
+        },
+        {
+          "label": "C",
+          "text": "單獨記錄"
+        },
+        {
+          "label": "D",
+          "text": "忽略不計"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 102
+    },
+    {
+      "questionType": "single",
+      "stem": "如果廠區生活污水已納管，關於化糞池甲烷逸散量計算，下列陳述何者正確？",
+      "options": [
+        {
+          "label": "A",
+          "text": "需要計算 50 % 的逸散量"
+        },
+        {
+          "label": "B",
+          "text": "可以不用計算化糞池甲烷逸散量"
+        },
+        {
+          "label": "C",
+          "text": "仍然需要計算全部的逸散量"
+        },
+        {
+          "label": "D",
+          "text": "需要諮詢環保部門再決定"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 103
+    },
+    {
+      "questionType": "single",
+      "stem": "產品碳足跡計算中，參考流的作用是：",
+      "options": [
+        {
+          "label": "A",
+          "text": "評估產品的環境影響"
+        },
+        {
+          "label": "B",
+          "text": "量化滿足功能單位所需的產品數量"
+        },
+        {
+          "label": "C",
+          "text": "確定產品的生產效率"
+        },
+        {
+          "label": "D",
+          "text": "確定產品的市場定位"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 104
+    },
+    {
+      "questionType": "single",
+      "stem": "ISO 14067 標準不包括以下哪項內容？",
+      "options": [
+        {
+          "label": "A",
+          "text": "產品碳足跡溝通的要求"
+        },
+        {
+          "label": "B",
+          "text": "部分碳足跡的計算方法"
+        },
+        {
+          "label": "C",
+          "text": "碳足跡標籤的設計規範"
+        },
+        {
+          "label": "D",
+          "text": "產品碳足跡量化的要求"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 105
+    },
+    {
+      "questionType": "single",
+      "stem": "溫室氣體盤查推動順利所需的支持與承諾，最重要的是哪個層級？",
+      "options": [
+        {
+          "label": "A",
+          "text": "基層員工"
+        },
+        {
+          "label": "B",
+          "text": "外部顧問"
+        },
+        {
+          "label": "C",
+          "text": "高階主管"
+        },
+        {
+          "label": "D",
+          "text": "中階主管"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 106
+    },
+    {
+      "questionType": "single",
+      "stem": "溫室氣體盤查報告原則「不」包括下列何者？",
+      "options": [
+        {
+          "label": "A",
+          "text": "相關性"
+        },
+        {
+          "label": "B",
+          "text": "透明度"
+        },
+        {
+          "label": "C",
+          "text": "最大化"
+        },
+        {
+          "label": "D",
+          "text": "完整性"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 107
+    },
+    {
+      "questionType": "single",
+      "stem": "敘述在一段期間內一質量單位溫室氣體之輻射衝擊，相對於相等單位 CO₂ 之係數稱為？",
+      "options": [
+        {
+          "label": "A",
+          "text": "GWP"
+        },
+        {
+          "label": "B",
+          "text": "GAP"
+        },
+        {
+          "label": "C",
+          "text": "GMP"
+        },
+        {
+          "label": "D",
+          "text": "GDP"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 108
+    },
+    {
+      "questionType": "single",
+      "stem": "以下何者是常見 B2B 產品生命週期描述方式？",
+      "options": [
+        {
+          "label": "A",
+          "text": "從搖籃到搖籃"
+        },
+        {
+          "label": "B",
+          "text": "從搖籃到大門"
+        },
+        {
+          "label": "C",
+          "text": "從搖籃到墳墓"
+        },
+        {
+          "label": "D",
+          "text": "從搖籃到天堂"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 109
+    },
+    {
+      "questionType": "single",
+      "stem": "「A 公司溫室氣體盤查涵蓋台灣廠與大陸廠」屬於何種邊界？",
+      "options": [
+        {
+          "label": "A",
+          "text": "營運邊界"
+        },
+        {
+          "label": "B",
+          "text": "組織邊界"
+        },
+        {
+          "label": "C",
+          "text": "報告邊界"
+        },
+        {
+          "label": "D",
+          "text": "以上皆非"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 110
+    },
+    {
+      "questionType": "single",
+      "stem": "碳足跡計算採生命週期概念，下列何者目的排放需納入總量？",
+      "options": [
+        {
+          "label": "A",
+          "text": "最終產品處理"
+        },
+        {
+          "label": "B",
+          "text": "產品配送"
+        },
+        {
+          "label": "C",
+          "text": "生產製造"
+        },
+        {
+          "label": "D",
+          "text": "以上皆是"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 111
+    },
+    {
+      "questionType": "single",
+      "stem": "根據 ISO 14068，首要步驟為？",
+      "options": [
+        {
+          "label": "A",
+          "text": "確定碳足跡範圍、設定基線"
+        },
+        {
+          "label": "B",
+          "text": "建立碳管理計畫"
+        },
+        {
+          "label": "C",
+          "text": "執行碳排放測量"
+        },
+        {
+          "label": "D",
+          "text": "設定減排目標並發布碳中和聲明"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 112
+    },
+    {
+      "questionType": "single",
+      "stem": "歐盟 CBAM 要求何時繳交前一年度進口憑證？",
+      "options": [
+        {
+          "label": "A",
+          "text": "每年 1 月 31 日前"
+        },
+        {
+          "label": "B",
+          "text": "每年 3 月 31 日前"
+        },
+        {
+          "label": "C",
+          "text": "每年 5 月 31 日前"
+        },
+        {
+          "label": "D",
+          "text": "每年 12 月 31 日前"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 113
+    },
+    {
+      "questionType": "single",
+      "stem": "CBAM 正式實施後，進口商每季須提前購買多少比例憑證？",
+      "options": [
+        {
+          "label": "A",
+          "text": "25 %"
+        },
+        {
+          "label": "B",
+          "text": "50 %"
+        },
+        {
+          "label": "C",
+          "text": "75 %"
+        },
+        {
+          "label": "D",
+          "text": "80 %"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 114
+    },
+    {
+      "questionType": "single",
+      "stem": "CBAM 未於期間購買憑證，罰款倍數為？",
+      "options": [
+        {
+          "label": "A",
+          "text": "2 倍"
+        },
+        {
+          "label": "B",
+          "text": "2–3 倍"
+        },
+        {
+          "label": "C",
+          "text": "3–4 倍"
+        },
+        {
+          "label": "D",
+          "text": "3–5 倍"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 115
+    },
+    {
+      "questionType": "single",
+      "stem": "依規定，環境部納管或自願登錄企業應使用哪種邊界設定法？",
+      "options": [
+        {
+          "label": "A",
+          "text": "組織邊界設定法"
+        },
+        {
+          "label": "B",
+          "text": "產品邊界設定法"
+        },
+        {
+          "label": "C",
+          "text": "活動邊界設定法"
+        },
+        {
+          "label": "D",
+          "text": "範疇邊界設定法"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 116
+    },
+    {
+      "questionType": "single",
+      "stem": "製造業直接＋間接排放量超過多少噸須被納管？",
+      "options": [
+        {
+          "label": "A",
+          "text": "2.5 萬噸"
+        },
+        {
+          "label": "B",
+          "text": "2 萬噸"
+        },
+        {
+          "label": "C",
+          "text": "1.5 萬噸"
+        },
+        {
+          "label": "D",
+          "text": "1 萬噸"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 117
+    },
+    {
+      "questionType": "single",
+      "stem": "碳盤查「基準年」定義為？",
+      "options": [
+        {
+          "label": "A",
+          "text": "企業首次碳盤查年份"
+        },
+        {
+          "label": "B",
+          "text": "後續年度比較之參考年"
+        },
+        {
+          "label": "C",
+          "text": "計算預算年度"
+        },
+        {
+          "label": "D",
+          "text": "政策制定年份"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 118
+    },
+    {
+      "questionType": "single",
+      "stem": "溫室氣體盤查作業基本程序，下列何者正確？",
+      "options": [
+        {
+          "label": "A",
+          "text": "納管事業邊界企業可自行設定"
+        },
+        {
+          "label": "B",
+          "text": "盤查邊界無須與財報一致"
+        },
+        {
+          "label": "C",
+          "text": "決定方法 → 蒐集數據 → 選排放係數 → 計算排放量"
+        },
+        {
+          "label": "D",
+          "text": "企業可不界定盤查範圍"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 119
+    },
+    {
+      "questionType": "single",
+      "stem": "有限確信 vs. 合理確信案件主要差異？",
+      "options": [
+        {
+          "label": "A",
+          "text": "邊界大小"
+        },
+        {
+          "label": "B",
+          "text": "簽證人數"
+        },
+        {
+          "label": "C",
+          "text": "單一標的 vs. 整體報告"
+        },
+        {
+          "label": "D",
+          "text": "可接受風險水準低"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 120
+    },
+    {
+      "questionType": "single",
+      "stem": "歐盟 CBAM 排放量計算概念何者正確？",
+      "options": [
+        {
+          "label": "A",
+          "text": "計算全生命週期排放"
+        },
+        {
+          "label": "B",
+          "text": "以生產總重量含包裝計算"
+        },
+        {
+          "label": "C",
+          "text": "外部熱源計入直接排放"
+        },
+        {
+          "label": "D",
+          "text": "廢棄物處理須計算排放"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 121
+    },
+    {
+      "questionType": "single",
+      "stem": "歐盟進口商抵免 CBAM 憑證，可使用何種出口商抵免證明？",
+      "options": [
+        {
+          "label": "A",
+          "text": "貨物稅"
+        },
+        {
+          "label": "B",
+          "text": "營業稅"
+        },
+        {
+          "label": "C",
+          "text": "自願碳市場額度"
+        },
+        {
+          "label": "D",
+          "text": "外顯碳價（碳稅／排放交易）"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 122
+    },
+    {
+      "questionType": "single",
+      "stem": "CFP 研究中的「一致性」原則要求：",
+      "options": [
+        {
+          "label": "A",
+          "text": "所有產品使用相同的方法"
+        },
+        {
+          "label": "B",
+          "text": "研究結果必須與之前的研究一致"
+        },
+        {
+          "label": "C",
+          "text": "研究結果必須符合預期"
+        },
+        {
+          "label": "D",
+          "text": "假設、方法及數據以相同方式應用於整個 CFP 研究中"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 123
+    },
+    {
+      "questionType": "single",
+      "stem": "在 PCR 中，關於原料取得階段的數據收集要求是：",
+      "options": [
+        {
+          "label": "A",
+          "text": "可以忽略這個階段的數據"
+        },
+        {
+          "label": "B",
+          "text": "只能使用二級活動數據"
+        },
+        {
+          "label": "C",
+          "text": "不強制要求收集一級活動數據，但應優先採用"
+        },
+        {
+          "label": "D",
+          "text": "必須全部使用一級活動數據"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 124
+    },
+    {
+      "questionType": "single",
+      "stem": "對於中間產品，計算其使用階段排放時需要：",
+      "options": [
+        {
+          "label": "A",
+          "text": "只計算最終消費者使用階段的排放"
+        },
+        {
+          "label": "B",
+          "text": "忽略後續加工過程的排放"
+        },
+        {
+          "label": "C",
+          "text": "考慮後續加工過程的排放並進行合理分配"
+        },
+        {
+          "label": "D",
+          "text": "將所有排放歸責於最終產品製造商"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 125
+    },
+    {
+      "questionType": "single",
+      "stem": "在生命週期評估（LCA）的衝擊評估階段，溫室氣體排放與移除量應選擇哪種全球暖化潛勢（GWP）計算方法？",
+      "options": [
+        {
+          "label": "A",
+          "text": "跨期 GWP 加權"
+        },
+        {
+          "label": "B",
+          "text": "輸入‑輸出分析"
+        },
+        {
+          "label": "C",
+          "text": "組織範疇分析"
+        },
+        {
+          "label": "D",
+          "text": "直接排放量計算"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 126
+    },
+    {
+      "questionType": "single",
+      "stem": "使用「基於距離法」計算運輸排放時，不需要以下哪項數據？",
+      "options": [
+        {
+          "label": "A",
+          "text": "運輸公司的財務報表"
+        },
+        {
+          "label": "B",
+          "text": "運具排放係數"
+        },
+        {
+          "label": "C",
+          "text": "運輸重量"
+        },
+        {
+          "label": "D",
+          "text": "運輸距離"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 127
+    },
+    {
+      "questionType": "single",
+      "stem": "溫室氣體盤查報告書中，通常不包括以下哪個章節？",
+      "options": [
+        {
+          "label": "A",
+          "text": "財務報表"
+        },
+        {
+          "label": "B",
+          "text": "報告邊界"
+        },
+        {
+          "label": "C",
+          "text": "組織邊界"
+        },
+        {
+          "label": "D",
+          "text": "溫室氣體量化"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 128
+    },
+    {
+      "questionType": "single",
+      "stem": "在建構產品生命週期製程流程圖時，如何避免錯漏？",
+      "options": [
+        {
+          "label": "A",
+          "text": "比對生產/品管用流程圖或清理計畫書，直接到現場了解"
+        },
+        {
+          "label": "B",
+          "text": "只查看公司網站"
+        },
+        {
+          "label": "C",
+          "text": "假設所有產品的流程都相同"
+        },
+        {
+          "label": "D",
+          "text": "只依靠管理層的記憶"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 129
+    },
+    {
+      "questionType": "single",
+      "stem": "計算運輸排放量時，下列哪項不屬於活動數據？",
+      "options": [
+        {
+          "label": "A",
+          "text": "運輸費用金額"
+        },
+        {
+          "label": "B",
+          "text": "運輸距離"
+        },
+        {
+          "label": "C",
+          "text": "排放係數"
+        },
+        {
+          "label": "D",
+          "text": "燃料消耗量"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 130
+    },
+    {
+      "questionType": "single",
+      "stem": "功能或宣告單位的主要目的是什麼？",
+      "options": [
+        {
+          "label": "A",
+          "text": "確定產品的使用壽命"
+        },
+        {
+          "label": "B",
+          "text": "確定產品的市場價值"
+        },
+        {
+          "label": "C",
+          "text": "提供與其相關投入與產出之參考"
+        },
+        {
+          "label": "D",
+          "text": "計算產品的生產成本"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 131
+    },
+    {
+      "questionType": "single",
+      "stem": "第二階段現場查證通常包括以下哪項工作？",
+      "options": [
+        {
+          "label": "A",
+          "text": "SRRA 缺失改善之覆核"
+        },
+        {
+          "label": "B",
+          "text": "邊界範圍界定"
+        },
+        {
+          "label": "C",
+          "text": "數據品質管理"
+        },
+        {
+          "label": "D",
+          "text": "查證申請書審核"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 132
+    },
+    {
+      "questionType": "single",
+      "stem": "生命週期盤查分析（LCI）包括什麼？",
+      "options": [
+        {
+          "label": "A",
+          "text": "只包括使用階段的排放"
+        },
+        {
+          "label": "B",
+          "text": "只包括廢棄階段的排放"
+        },
+        {
+          "label": "C",
+          "text": "只包括生產階段的排放"
+        },
+        {
+          "label": "D",
+          "text": "產品整個生命週期階段的投入與產出的彙總與量化"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 133
+    },
+    {
+      "questionType": "single",
+      "stem": "下列哪項不屬於計算由採購貨物產生的排放所需資訊？",
+      "options": [
+        {
+          "label": "A",
+          "text": "供應商的財務報表"
+        },
+        {
+          "label": "B",
+          "text": "採購原料重量"
+        },
+        {
+          "label": "C",
+          "text": "原料生產過程的能源消耗"
+        },
+        {
+          "label": "D",
+          "text": "原料相關排放係數"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 134
+    },
+    {
+      "questionType": "single",
+      "stem": "使用「混合法」計算採購貨物產生的排放時，可能包括以下哪項？",
+      "options": [
+        {
+          "label": "A",
+          "text": "只使用行業平均數據"
+        },
+        {
+          "label": "B",
+          "text": "根據採購金額估算排放量"
+        },
+        {
+          "label": "C",
+          "text": "只使用供應商提供的數據"
+        },
+        {
+          "label": "D",
+          "text": "供應商範疇 1 + 2 排放數據與次級數據結合"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 135
+    },
+    {
+      "questionType": "single",
+      "stem": "產品類別規則 (PCR) 的說明，以下何者為非？",
+      "options": [
+        {
+          "label": "A",
+          "text": "為了使同性質產品能公平比較，計算碳足跡時要參考 PCR 的邊界設定"
+        },
+        {
+          "label": "B",
+          "text": "PCR 是全球共通的"
+        },
+        {
+          "label": "C",
+          "text": "經濟部工業局採用國際間使用的 EPD‑PCR"
+        },
+        {
+          "label": "D",
+          "text": "國內申請碳標籤會用環保署的 CFP‑PCR"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 136
+    },
+    {
+      "questionType": "single",
+      "stem": "關於產品碳足跡計算，下列敘述何者錯誤？",
+      "options": [
+        {
+          "label": "A",
+          "text": "單位產品活動數據 × 排放係數 = 碳排放量 (二氧化碳當量)"
+        },
+        {
+          "label": "B",
+          "text": "建立 LCA 流程圖 → 界定系統邊界與活動數據蒐集優先順序 → 確認排放係數 → 收集活動數據 → 計算與分析 → 評估數據品質"
+        },
+        {
+          "label": "C",
+          "text": "單位產品活動數據是標的產品每單位造成溫室氣體排放的量測值"
+        },
+        {
+          "label": "D",
+          "text": "排放係數僅可使用環保署提供之係數表"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 137
+    },
+    {
+      "questionType": "single",
+      "stem": "產品碳足跡盤查原則中的「重複計算」，以下敘述何者錯誤？",
+      "options": [
+        {
+          "label": "A",
+          "text": "若不同產品系統有共同製程，應確認此製程排放量分配規則"
+        },
+        {
+          "label": "B",
+          "text": "透過分配規則將排放量分配到各產品避免重複計算"
+        },
+        {
+          "label": "C",
+          "text": "可透過質量平衡確認是否重複計算，差異大於 10 % 則為異常"
+        },
+        {
+          "label": "D",
+          "text": "若有異常可視為偶發現象，無需理會"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 138
+    },
+    {
+      "questionType": "single",
+      "stem": "關於 ISO 14067 產品碳足跡規範，下列何者為非？",
+      "options": [
+        {
+          "label": "A",
+          "text": "產品功能單位或宣告單位之碳足跡或部分碳足跡"
+        },
+        {
+          "label": "B",
+          "text": "必要文件為清單與報告書"
+        },
+        {
+          "label": "C",
+          "text": "依 ISO 14064‑3 指引進行查證"
+        },
+        {
+          "label": "D",
+          "text": "保證等級需符合預期使用者需求，並依 ISO 14060 系列"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 139
+    },
+    {
+      "questionType": "single",
+      "stem": "產品碳足跡盤查流程與碳標籤申請，下列敘述何者錯誤？",
+      "options": [
+        {
+          "label": "A",
+          "text": "若無相符 PCR 可直接依 ISO 14067"
+        },
+        {
+          "label": "B",
+          "text": "若需碳標籤：引用 PCR → 計算 → 查證 → 申請"
+        },
+        {
+          "label": "C",
+          "text": "查證只能由國內關鍵審查進行"
+        },
+        {
+          "label": "D",
+          "text": "查證可由第三方或國內關鍵審查進行"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 140
+    },
+    {
+      "questionType": "single",
+      "stem": "產品碳足跡一級活動數據，以下敘述何者錯誤？",
+      "options": [
+        {
+          "label": "A",
+          "text": "活動數據的選擇會影響後續數據品質評估"
+        },
+        {
+          "label": "B",
+          "text": "一級活動數據為組織直接量測所得"
+        },
+        {
+          "label": "C",
+          "text": "台電電錶用電量屬二級數據"
+        },
+        {
+          "label": "D",
+          "text": "台電電錶用電量屬一級數據"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 141
+    },
+    {
+      "questionType": "single",
+      "stem": "產品碳足跡評估數據蒐集期間，以下敘述何者錯誤？",
+      "options": [
+        {
+          "label": "A",
+          "text": "持續供應產品應涵蓋至少一年"
+        },
+        {
+          "label": "B",
+          "text": "可依產品特性調整期間"
+        },
+        {
+          "label": "C",
+          "text": "季節性產品可只涵蓋其特定期間"
+        },
+        {
+          "label": "D",
+          "text": "若評估期為一年則須以 1/1 至 12/31"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 142
+    },
+    {
+      "questionType": "single",
+      "stem": "產品碳足跡科學方法優先順序，下列敘述何者錯誤？",
+      "options": [
+        {
+          "label": "A",
+          "text": "首選自然科學監測 (例：功率表測量用電)"
+        },
+        {
+          "label": "B",
+          "text": "經濟價值比例為第二順位"
+        },
+        {
+          "label": "C",
+          "text": "第二順位亦可依國際慣例"
+        },
+        {
+          "label": "D",
+          "text": "第二順位可使用無物理關聯指標 (如行銷費)"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 143
+    },
+    {
+      "questionType": "single",
+      "stem": "以下何者不屬於產品生命週期階段？",
+      "options": [
+        {
+          "label": "A",
+          "text": "製造"
+        },
+        {
+          "label": "B",
+          "text": "研發"
+        },
+        {
+          "label": "C",
+          "text": "運輸"
+        },
+        {
+          "label": "D",
+          "text": "使用"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 144
+    },
+    {
+      "questionType": "single",
+      "stem": "B2B 型產品生命週期中包含哪個階段？",
+      "options": [
+        {
+          "label": "A",
+          "text": "回收"
+        },
+        {
+          "label": "B",
+          "text": "原料取得"
+        },
+        {
+          "label": "C",
+          "text": "廢棄"
+        },
+        {
+          "label": "D",
+          "text": "使用"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 145
+    },
+    {
+      "questionType": "single",
+      "stem": "原料取得過程不包含以下哪項？",
+      "options": [
+        {
+          "label": "A",
+          "text": "主要原料"
+        },
+        {
+          "label": "B",
+          "text": "耗材"
+        },
+        {
+          "label": "C",
+          "text": "材料成型"
+        },
+        {
+          "label": "D",
+          "text": "次要原料"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 146
+    },
+    {
+      "questionType": "single",
+      "stem": "產品碳足跡計算基本上將排放係數乘上何種數據？",
+      "options": [
+        {
+          "label": "A",
+          "text": "總生產產品重量"
+        },
+        {
+          "label": "B",
+          "text": "活動數據"
+        },
+        {
+          "label": "C",
+          "text": "總生產產品數量"
+        },
+        {
+          "label": "D",
+          "text": "原物料金額"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 147
+    },
+    {
+      "questionType": "single",
+      "stem": "產品碳足跡計算中排放係數相乘的活動數據為？",
+      "options": [
+        {
+          "label": "A",
+          "text": "領用量"
+        },
+        {
+          "label": "B",
+          "text": "生產使用量"
+        },
+        {
+          "label": "C",
+          "text": "原料採購量"
+        },
+        {
+          "label": "D",
+          "text": "回收量"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 148
+    },
+    {
+      "questionType": "single",
+      "stem": "環保署指引：一級數據佔上游排放至少多少 %？",
+      "options": [
+        {
+          "label": "A",
+          "text": "5 %"
+        },
+        {
+          "label": "B",
+          "text": "10 %"
+        },
+        {
+          "label": "C",
+          "text": "15 %"
+        },
+        {
+          "label": "D",
+          "text": "20 %"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 149
+    },
+    {
+      "questionType": "single",
+      "stem": "原物料排放係數可由下列何種方式取得？",
+      "options": [
+        {
+          "label": "A",
+          "text": "供應商查證數據"
+        },
+        {
+          "label": "B",
+          "text": "環境部資料庫"
+        },
+        {
+          "label": "C",
+          "text": "LCA 軟體資料庫"
+        },
+        {
+          "label": "D",
+          "text": "以上皆是"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 150
+    },
+    {
+      "questionType": "single",
+      "stem": "ISO 14040:2006 生命週期評估最終階段稱為？",
+      "options": [
+        {
+          "label": "A",
+          "text": "闡釋 (interpretation)"
+        },
+        {
+          "label": "B",
+          "text": "結論 (conclusion)"
+        },
+        {
+          "label": "C",
+          "text": "透明 (transparency)"
+        },
+        {
+          "label": "D",
+          "text": "決策 (decision)"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 151
+    },
+    {
+      "questionType": "single",
+      "stem": "產品碳足跡盤查過程中，數據確證不會採用哪種方式？",
+      "options": [
+        {
+          "label": "A",
+          "text": "總量平衡"
+        },
+        {
+          "label": "B",
+          "text": "能量平衡"
+        },
+        {
+          "label": "C",
+          "text": "相似過程比較"
+        },
+        {
+          "label": "D",
+          "text": "質量平衡"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 152
+    },
+    {
+      "questionType": "single",
+      "stem": "使用 LCA 進行碳足跡評估不會經歷哪個重要階段？",
+      "options": [
+        {
+          "label": "A",
+          "text": "實驗"
+        },
+        {
+          "label": "B",
+          "text": "闡釋"
+        },
+        {
+          "label": "C",
+          "text": "目標與範疇界定"
+        },
+        {
+          "label": "D",
+          "text": "盤查分析"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 153
+    },
+    {
+      "questionType": "single",
+      "stem": "功能單位於哪個階段被定義？",
+      "options": [
+        {
+          "label": "A",
+          "text": "盤查分析"
+        },
+        {
+          "label": "B",
+          "text": "目標與範疇界定"
+        },
+        {
+          "label": "C",
+          "text": "實驗"
+        },
+        {
+          "label": "D",
+          "text": "闡釋"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 154
+    },
+    {
+      "questionType": "single",
+      "stem": "時間邊界的選擇原則不包括？",
+      "options": [
+        {
+          "label": "A",
+          "text": "必須選產品開發初期數據"
+        },
+        {
+          "label": "B",
+          "text": "多地點須考慮代表性"
+        },
+        {
+          "label": "C",
+          "text": "客製或季節性產品選最近一批"
+        },
+        {
+          "label": "D",
+          "text": "穩定生產者以整年優先"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 155
+    },
+    {
+      "questionType": "single",
+      "stem": "制定碳足跡盤查目標時，下列哪項不是預期用途？",
+      "options": [
+        {
+          "label": "A",
+          "text": "公司對外溝通"
+        },
+        {
+          "label": "B",
+          "text": "向客戶或消費者溝通"
+        },
+        {
+          "label": "C",
+          "text": "公司內部溝通"
+        },
+        {
+          "label": "D",
+          "text": "產品定價策略"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 156
+    },
+    {
+      "questionType": "single",
+      "stem": "產品碳足跡管理之國際標準？",
+      "options": [
+        {
+          "label": "A",
+          "text": "ISO 50001"
+        },
+        {
+          "label": "B",
+          "text": "ISO 14001"
+        },
+        {
+          "label": "C",
+          "text": "ISO 14067"
+        },
+        {
+          "label": "D",
+          "text": "ISO 9001"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 157
+    },
+    {
+      "questionType": "single",
+      "stem": "確定宣告／標示單位時通常使用？",
+      "options": [
+        {
+          "label": "A",
+          "text": "生產單位"
+        },
+        {
+          "label": "B",
+          "text": "運輸單位"
+        },
+        {
+          "label": "C",
+          "text": "產品銷售單位"
+        },
+        {
+          "label": "D",
+          "text": "儲存單位"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 158
+    },
+    {
+      "questionType": "single",
+      "stem": "違反碳足跡標示規定之罰款為？",
+      "options": [
+        {
+          "label": "A",
+          "text": "50 – 1000 萬元"
+        },
+        {
+          "label": "B",
+          "text": "1 – 100 萬元"
+        },
+        {
+          "label": "C",
+          "text": "5 – 50 萬元"
+        },
+        {
+          "label": "D",
+          "text": "10 – 500 萬元"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 159
+    },
+    {
+      "questionType": "single",
+      "stem": "報告階段分析通常不包括？",
+      "options": [
+        {
+          "label": "A",
+          "text": "敏感度分析"
+        },
+        {
+          "label": "B",
+          "text": "熱點排名"
+        },
+        {
+          "label": "C",
+          "text": "市場競爭分析"
+        },
+        {
+          "label": "D",
+          "text": "數據品質指標評核"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 160
+    },
+    {
+      "questionType": "single",
+      "stem": "活動數據整理時，投入量應包括？",
+      "options": [
+        {
+          "label": "A",
+          "text": "僅產品產量"
+        },
+        {
+          "label": "B",
+          "text": "主要原物料投入總量"
+        },
+        {
+          "label": "C",
+          "text": "原物料投入、能源使用、廢棄物產出"
+        },
+        {
+          "label": "D",
+          "text": "僅廢棄物產出量"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 161
+    },
+    {
+      "questionType": "single",
+      "stem": "無第一階供應商數據時，可使用？",
+      "options": [
+        {
+          "label": "A",
+          "text": "模擬數據"
+        },
+        {
+          "label": "B",
+          "text": "二級數據"
+        },
+        {
+          "label": "C",
+          "text": "估算數據"
+        },
+        {
+          "label": "D",
+          "text": "三級數據"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 162
+    },
+    {
+      "questionType": "single",
+      "stem": "關於活動數據，下列何者錯誤？",
+      "options": [
+        {
+          "label": "A",
+          "text": "所有數據需有佐證檔"
+        },
+        {
+          "label": "B",
+          "text": "數據收集一次即可，不必檢核"
+        },
+        {
+          "label": "C",
+          "text": "需提供實際使用量"
+        },
+        {
+          "label": "D",
+          "text": "需考慮時間關聯性"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 163
+    },
+    {
+      "questionType": "single",
+      "stem": "進行單位換算的主要原因？",
+      "options": [
+        {
+          "label": "A",
+          "text": "配合使用之資料庫"
+        },
+        {
+          "label": "B",
+          "text": "增加數據可信度"
+        },
+        {
+          "label": "C",
+          "text": "滿足法規要求"
+        },
+        {
+          "label": "D",
+          "text": "便於計算"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 164
+    },
+    {
+      "questionType": "single",
+      "stem": "排放係數常見單位為？",
+      "options": [
+        {
+          "label": "A",
+          "text": "公斤 CO₂e/平方米"
+        },
+        {
+          "label": "B",
+          "text": "公斤 CO₂e/單位活動數據"
+        },
+        {
+          "label": "C",
+          "text": "公斤 CO₂e/單位產品"
+        },
+        {
+          "label": "D",
+          "text": "公斤 CO₂e/年"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 165
+    },
+    {
+      "questionType": "single",
+      "stem": "近期目標之範疇 3 須至少符合哪個情境？",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 °C"
+        },
+        {
+          "label": "B",
+          "text": "2 °C"
+        },
+        {
+          "label": "C",
+          "text": "遠低於 2 °C"
+        },
+        {
+          "label": "D",
+          "text": "1.5 °C"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 166
+    },
+    {
+      "questionType": "single",
+      "stem": "標準溫室氣體彙總方法包含？",
+      "options": [
+        {
+          "label": "A",
+          "text": "財務控制法"
+        },
+        {
+          "label": "B",
+          "text": "營運控制法"
+        },
+        {
+          "label": "C",
+          "text": "股權法"
+        },
+        {
+          "label": "D",
+          "text": "以上皆是"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 167
+    },
+    {
+      "questionType": "single",
+      "stem": "環境部指引：我國列管事業應採何彙總方法？",
+      "options": [
+        {
+          "label": "A",
+          "text": "財務控制法"
+        },
+        {
+          "label": "B",
+          "text": "營運控制法"
+        },
+        {
+          "label": "C",
+          "text": "股權法"
+        },
+        {
+          "label": "D",
+          "text": "以上皆非"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 168
+    },
+    {
+      "questionType": "single",
+      "stem": "下列何者非 ISO 14064‑1:2018 強制揭露？",
+      "options": [
+        {
+          "label": "A",
+          "text": "生物源溫室氣體排放"
+        },
+        {
+          "label": "B",
+          "text": "生物源 CO₂ 移除處理"
+        },
+        {
+          "label": "C",
+          "text": "電力之處理方式"
+        },
+        {
+          "label": "D",
+          "text": "化石與生質碳排放與移除"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 169
+    },
+    {
+      "questionType": "single",
+      "stem": "桃園廠與小港廠屬何種邊界？",
+      "options": [
+        {
+          "label": "A",
+          "text": "組織邊界"
+        },
+        {
+          "label": "B",
+          "text": "營運邊界"
+        },
+        {
+          "label": "C",
+          "text": "報告邊界"
+        },
+        {
+          "label": "D",
+          "text": "系統邊界"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 170
+    },
+    {
+      "questionType": "single",
+      "stem": "ISO 14064‑1:2018 GWP 氣體中，下列何者為非？",
+      "options": [
+        {
+          "label": "A",
+          "text": "二氧化碳"
+        },
+        {
+          "label": "B",
+          "text": "氦氣"
+        },
+        {
+          "label": "C",
+          "text": "氧化亞氮"
+        },
+        {
+          "label": "D",
+          "text": "六氟化硫"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 171
+    },
+    {
+      "questionType": "single",
+      "stem": "組織邊界設定可能依據？",
+      "options": [
+        {
+          "label": "A",
+          "text": "法規要求"
+        },
+        {
+          "label": "B",
+          "text": "供應鏈需求"
+        },
+        {
+          "label": "C",
+          "text": "財務控制權"
+        },
+        {
+          "label": "D",
+          "text": "公眾意見"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 172
+    },
+    {
+      "questionType": "single",
+      "stem": "建立報告邊界應包含？",
+      "options": [
+        {
+          "label": "A",
+          "text": "直接排放與移除"
+        },
+        {
+          "label": "B",
+          "text": "能源間接排放"
+        },
+        {
+          "label": "C",
+          "text": "產品使用間接排放"
+        },
+        {
+          "label": "D",
+          "text": "以上皆是"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 173
+    },
+    {
+      "questionType": "single",
+      "stem": "查證保證等級敘述哪項錯誤？",
+      "options": [
+        {
+          "label": "A",
+          "text": "全部須達有限保證"
+        },
+        {
+          "label": "B",
+          "text": "有限保證深度較淺"
+        },
+        {
+          "label": "C",
+          "text": "合理保證範圍較大"
+        },
+        {
+          "label": "D",
+          "text": "合理保證結論：「在所有重大方面皆符合」"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 174
+    },
+    {
+      "questionType": "single",
+      "stem": "Product Process Map 主要功能？",
+      "options": [
+        {
+          "label": "A",
+          "text": "追蹤流程與範圍，確保碳足跡可追溯"
+        },
+        {
+          "label": "B",
+          "text": "評估市場競爭力"
+        },
+        {
+          "label": "C",
+          "text": "最小化原料使用"
+        },
+        {
+          "label": "D",
+          "text": "規劃庫存與配送"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 175
+    },
+    {
+      "questionType": "single",
+      "stem": "半導體製程主要排放氣體？",
+      "options": [
+        {
+          "label": "A",
+          "text": "CO₂"
+        },
+        {
+          "label": "B",
+          "text": "N₂O"
+        },
+        {
+          "label": "C",
+          "text": "PFCs"
+        },
+        {
+          "label": "D",
+          "text": "CH₄"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 176
+    },
+    {
+      "questionType": "single",
+      "stem": "下列何者不屬於 ISO 14068‑1 的範疇？",
+      "options": [
+        {
+          "label": "A",
+          "text": "組織排放量"
+        },
+        {
+          "label": "B",
+          "text": "產品排放量"
+        },
+        {
+          "label": "C",
+          "text": "建築物排放量"
+        },
+        {
+          "label": "D",
+          "text": "部門別排放量"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 177
+    },
+    {
+      "questionType": "single",
+      "stem": "根據 ISO 14068‑1，組織進行碳中和宣告時必須包含哪些關鍵資訊？",
+      "options": [
+        {
+          "label": "A",
+          "text": "碳排放報告、能源使用數據、政府許可"
+        },
+        {
+          "label": "B",
+          "text": "財務報表、環境政策、員工數量"
+        },
+        {
+          "label": "C",
+          "text": "碳足跡量化方法、減量措施、碳權來源"
+        },
+        {
+          "label": "D",
+          "text": "客戶反饋、產品質量、供應鏈資訊"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 178
+    },
+    {
+      "questionType": "single",
+      "stem": "在產品碳足跡計算中，以下哪項通常被視為直接排放？",
+      "options": [
+        {
+          "label": "A",
+          "text": "員工通勤排放"
+        },
+        {
+          "label": "B",
+          "text": "購電間接排放"
+        },
+        {
+          "label": "C",
+          "text": "原材料生產排放"
+        },
+        {
+          "label": "D",
+          "text": "工廠使用化石燃料排放"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 179
+    },
+    {
+      "questionType": "single",
+      "stem": "ISO 14064‑1:2018 中，以下哪項不屬於 Category 1（直接排放與移除）？",
+      "options": [
+        {
+          "label": "A",
+          "text": "固定式燃燒源直接排放"
+        },
+        {
+          "label": "B",
+          "text": "土地使用變更排放與移除"
+        },
+        {
+          "label": "C",
+          "text": "輸入電力間接排放"
+        },
+        {
+          "label": "D",
+          "text": "產業製程直接排放與移除"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 180
+    },
+    {
+      "questionType": "single",
+      "stem": "關於滅火器的溫室氣體排放計算，下列何者正確？",
+      "options": [
+        {
+          "label": "A",
+          "text": "滅火器不屬於排放源"
+        },
+        {
+          "label": "B",
+          "text": "所有類型滅火器都需計算排放"
+        },
+        {
+          "label": "C",
+          "text": "只有使用過的滅火器才需計算排放"
+        },
+        {
+          "label": "D",
+          "text": "CO₂ 滅火器需計算排放"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 181
+    },
+    {
+      "questionType": "single",
+      "stem": "排放源鑑別過程中，如排除部分間接排放源，組織應如何處理？",
+      "options": [
+        {
+          "label": "A",
+          "text": "另行說明排除原因"
+        },
+        {
+          "label": "B",
+          "text": "等比例分配到其他排放源"
+        },
+        {
+          "label": "C",
+          "text": "直接刪除相關資訊"
+        },
+        {
+          "label": "D",
+          "text": "委託第三方再評估"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 182
+    },
+    {
+      "questionType": "single",
+      "stem": "在 GHG Protocol 中，範疇 2 排放對應環境部規範的哪類？",
+      "options": [
+        {
+          "label": "A",
+          "text": "其他間接排放"
+        },
+        {
+          "label": "B",
+          "text": "直接排放"
+        },
+        {
+          "label": "C",
+          "text": "能源間接排放"
+        },
+        {
+          "label": "D",
+          "text": "生物源排放"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 183
+    },
+    {
+      "questionType": "single",
+      "stem": "根據 ISO 14067，二級數據不包括以下哪項？",
+      "options": [
+        {
+          "label": "A",
+          "text": "主管機關確證之代表性數據"
+        },
+        {
+          "label": "B",
+          "text": "文獻或資料庫數據"
+        },
+        {
+          "label": "C",
+          "text": "未經驗證的個人估算"
+        },
+        {
+          "label": "D",
+          "text": "國家盤查清冊預設排放係數"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 184
+    },
+    {
+      "questionType": "single",
+      "stem": "下列何種排放係數的不確定性最高？",
+      "options": [
+        {
+          "label": "A",
+          "text": "自廠質量平衡係數"
+        },
+        {
+          "label": "B",
+          "text": "區域排放係數"
+        },
+        {
+          "label": "C",
+          "text": "同製程設備經驗係數"
+        },
+        {
+          "label": "D",
+          "text": "國際排放係數"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 185
+    },
+    {
+      "questionType": "single",
+      "stem": "進行組織溫室氣體盤查時，以下何種滅火器不需列入？",
+      "options": [
+        {
+          "label": "A",
+          "text": "CO₂"
+        },
+        {
+          "label": "B",
+          "text": "ABC"
+        },
+        {
+          "label": "C",
+          "text": "BC"
+        },
+        {
+          "label": "D",
+          "text": "FM200"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 186
+    },
+    {
+      "questionType": "single",
+      "stem": "活動數據檢核中，關於燃料與電力說法何者正確？",
+      "options": [
+        {
+          "label": "A",
+          "text": "電費單用電量即為當月實際用電量"
+        },
+        {
+          "label": "B",
+          "text": "計算燃料運輸時須轉為重量單位"
+        },
+        {
+          "label": "C",
+          "text": "不需提供燃料運輸資訊"
+        },
+        {
+          "label": "D",
+          "text": "只需提供電力使用量"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 187
+    },
+    {
+      "questionType": "single",
+      "stem": "在數據收集過程中，進行數據確證的主要目的為何？",
+      "options": [
+        {
+          "label": "A",
+          "text": "剔除不利數據"
+        },
+        {
+          "label": "B",
+          "text": "減少數據量"
+        },
+        {
+          "label": "C",
+          "text": "確認符合數據品質要求"
+        },
+        {
+          "label": "D",
+          "text": "增加數據複雜性"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 188
+    },
+    {
+      "questionType": "single",
+      "stem": "進行溫室氣體排放量計算時，IPCC 全球暖化潛勢值應採用哪個時間界線？",
+      "options": [
+        {
+          "label": "A",
+          "text": "50 年"
+        },
+        {
+          "label": "B",
+          "text": "20 年"
+        },
+        {
+          "label": "C",
+          "text": "200 年"
+        },
+        {
+          "label": "D",
+          "text": "100 年"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 189
+    },
+    {
+      "questionType": "single",
+      "stem": "以下哪項不是 CBAM 納管的鋁中下游產品？",
+      "options": [
+        {
+          "label": "A",
+          "text": "鋁製管配件"
+        },
+        {
+          "label": "B",
+          "text": "鋁板"
+        },
+        {
+          "label": "C",
+          "text": "鋁製容器"
+        },
+        {
+          "label": "D",
+          "text": "鋁製家具"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 190
+    },
+    {
+      "questionType": "single",
+      "stem": "CBAM 正式實施後，申報人必須保證 CBAM 帳戶餘額不小於多少？",
+      "options": [
+        {
+          "label": "A",
+          "text": "實際值計算碳含量的 70 %"
+        },
+        {
+          "label": "B",
+          "text": "實際值計算碳含量的 90 %"
+        },
+        {
+          "label": "C",
+          "text": "預設值計算碳含量的 80 %"
+        },
+        {
+          "label": "D",
+          "text": "預設值計算碳含量的 60 %"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 191
+    },
+    {
+      "questionType": "single",
+      "stem": "CBAM 正式實施後，第一次申報日期是？",
+      "options": [
+        {
+          "label": "A",
+          "text": "2026 年 1 月 31 日"
+        },
+        {
+          "label": "B",
+          "text": "2027 年 5 月 31 日"
+        },
+        {
+          "label": "C",
+          "text": "2026 年 5 月 31 日"
+        },
+        {
+          "label": "D",
+          "text": "2026 年 12 月 31 日"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 192
+    },
+    {
+      "questionType": "single",
+      "stem": "CBAM 過渡期第一次填報修正截止日期？",
+      "options": [
+        {
+          "label": "A",
+          "text": "2024 年 6 月 30 日"
+        },
+        {
+          "label": "B",
+          "text": "2024 年 3 月 31 日"
+        },
+        {
+          "label": "C",
+          "text": "2024 年 4 月 30 日"
+        },
+        {
+          "label": "D",
+          "text": "2024 年 7 月 31 日"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 193
+    },
+    {
+      "questionType": "single",
+      "stem": "下列何項不是臺灣出口業者需提供給歐盟進口商的資料？",
+      "options": [
+        {
+          "label": "A",
+          "text": "生產廠商與工廠資訊"
+        },
+        {
+          "label": "B",
+          "text": "歐盟進口商公司註冊資料"
+        },
+        {
+          "label": "C",
+          "text": "生產技術與製程資訊"
+        },
+        {
+          "label": "D",
+          "text": "已支付的碳定價資訊"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 194
+    },
+    {
+      "questionType": "single",
+      "stem": "2024 年 7 月 31 日之後，預設值最多可涵蓋申報總排放量多少比例？",
+      "options": [
+        {
+          "label": "A",
+          "text": "20 %"
+        },
+        {
+          "label": "B",
+          "text": "30 %"
+        },
+        {
+          "label": "C",
+          "text": "50 %"
+        },
+        {
+          "label": "D",
+          "text": "25 %"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 195
+    },
+    {
+      "questionType": "single",
+      "stem": "若企業碳中和宣告涉不實廣告，應如何處理？",
+      "options": [
+        {
+          "label": "A",
+          "text": "向公平交易委員會申訴"
+        },
+        {
+          "label": "B",
+          "text": "待年度報告後再處理"
+        },
+        {
+          "label": "C",
+          "text": "直接向環境部舉報"
+        },
+        {
+          "label": "D",
+          "text": "由國際組織仲裁"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 196
+    },
+    {
+      "questionType": "single",
+      "stem": "導入 PAS 2060 / ISO 14068‑1 碳中和無法達到下列何效益？",
+      "options": [
+        {
+          "label": "A",
+          "text": "提升聲譽與風險管控"
+        },
+        {
+          "label": "B",
+          "text": "改善效率與成本管控"
+        },
+        {
+          "label": "C",
+          "text": "量化並減少溫室氣體排放"
+        },
+        {
+          "label": "D",
+          "text": "符合 CBAM 抵減碳關稅"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 197
+    },
+    {
+      "questionType": "single",
+      "stem": "NASA 的報告，在 2021 年已經迎來地表最熱的紀錄，在科學家預測最快在西元幾年，將面臨北極第一次夏季無冰？",
+      "options": [
+        {
+          "label": "A",
+          "text": "2025"
+        },
+        {
+          "label": "B",
+          "text": "2030"
+        },
+        {
+          "label": "C",
+          "text": "2050"
+        },
+        {
+          "label": "D",
+          "text": "2100"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 198
+    },
+    {
+      "questionType": "single",
+      "stem": "以上何種氣體在半導體製程中特別常用，而在一般製造業中很少用到？",
+      "options": [
+        {
+          "label": "A",
+          "text": "甲烷 (CH₄)"
+        },
+        {
+          "label": "B",
+          "text": "一氧化二氮 (N₂O)"
+        },
+        {
+          "label": "C",
+          "text": "六氟化硫 (SF₆)"
+        },
+        {
+          "label": "D",
+          "text": "全氟碳化物 (PFCs)"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 199
+    },
+    {
+      "questionType": "single",
+      "stem": "某電子公司購買電力年度總量為12,000,000 kWh，電力排放係數為0.509 kgCO2e/kWh。請計算其能源間接溫室氣體排放量（範疇二）。",
+      "options": [
+        {
+          "label": "A",
+          "text": "6,108 tCO2e"
+        },
+        {
+          "label": "B",
+          "text": "5,508 tCO2e"
+        },
+        {
+          "label": "C",
+          "text": "4,908 tCO2e"
+        },
+        {
+          "label": "D",
+          "text": "5,208 tCO2e"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 200
+    },
+    {
+      "questionType": "single",
+      "stem": "某化工廠製程產生的逸散排放，年SF₆洩漏量為50公斤，SF₆全球暖化潛勢為22,800 GWP。請計算其溫室氣體排放量。",
+      "options": [
+        {
+          "label": "A",
+          "text": "1.34 tCO2e"
+        },
+        {
+          "label": "B",
+          "text": "1.54 tCO2e"
+        },
+        {
+          "label": "C",
+          "text": "0.95 tCO2e"
+        },
+        {
+          "label": "D",
+          "text": "1.14 tCO2e"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 201
+    },
+    {
+      "questionType": "single",
+      "stem": "一家運輸公司擁有50輛貨車，平均每輛年行駛里程為80,000公里，平均油耗為每公里0.25公升柴油。排放係數為2.65 kgCO2e/公升。請計算其直接溫室氣體排放量。",
+      "options": [
+        {
+          "label": "A",
+          "text": "2,755 tCO2e"
+        },
+        {
+          "label": "B",
+          "text": "2,650 tCO2e"
+        },
+        {
+          "label": "C",
+          "text": "3,325 tCO2e"
+        },
+        {
+          "label": "D",
+          "text": "3,985 tCO2e"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 202
+    },
+    {
+      "questionType": "single",
+      "stem": "一家煉油廠年度煉油過程CO₂排放量為70,000噸。請計算其直接溫室氣體排放量。",
+      "options": [
+        {
+          "label": "A",
+          "text": "75,000 tCO2e"
+        },
+        {
+          "label": "B",
+          "text": "70,000 tCO2e"
+        },
+        {
+          "label": "C",
+          "text": "65,000 tCO2e"
+        },
+        {
+          "label": "D",
+          "text": "80,000 tCO2e"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 203
+    },
+    {
+      "questionType": "single",
+      "stem": "某農業公司使用氮肥年施用量為100噸，氮肥排放係數為5.2 kgCO2e/kg。請計算其直接溫室氣體排放量。",
+      "options": [
+        {
+          "label": "A",
+          "text": "520 tCO2e"
+        },
+        {
+          "label": "B",
+          "text": "480 tCO2e"
+        },
+        {
+          "label": "C",
+          "text": "560 tCO2e"
+        },
+        {
+          "label": "D",
+          "text": "500 tCO2e"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 204
+    },
+    {
+      "questionType": "single",
+      "stem": "一家造紙廠年度木質廢棄物生質燃燒排放量為100,000公斤，排放係數為0.1 kgCO2e/kg。請計算其直接溫室氣體排放量。",
+      "options": [
+        {
+          "label": "A",
+          "text": "10 tCO2e"
+        },
+        {
+          "label": "B",
+          "text": "20 tCO2e"
+        },
+        {
+          "label": "C",
+          "text": "25 tCO2e"
+        },
+        {
+          "label": "D",
+          "text": "15 tCO2e"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 205
+    },
+    {
+      "questionType": "single",
+      "stem": "一家化工廠年度工業廢水厭氧處理甲烷排放量為120噸，甲烷全球暖化潛勢為25。請計算其溫室氣體排放量。",
+      "options": [
+        {
+          "label": "A",
+          "text": "2,700 tCO2e"
+        },
+        {
+          "label": "B",
+          "text": "2,800 tCO2e"
+        },
+        {
+          "label": "C",
+          "text": "3,200 tCO2e"
+        },
+        {
+          "label": "D",
+          "text": "3,000 tCO2e"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 206
+    },
+    {
+      "questionType": "single",
+      "stem": "某石化廠年度乙烯生產過程逸散排放量為40噸，排放係數為3.5 kgCO2e/kg。請計算其直接溫室氣體排放量。",
+      "options": [
+        {
+          "label": "A",
+          "text": "160 tCO2e"
+        },
+        {
+          "label": "B",
+          "text": "140 tCO2e"
+        },
+        {
+          "label": "C",
+          "text": "150 tCO2e"
+        },
+        {
+          "label": "D",
+          "text": "120 tCO2e"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 207
+    },
+    {
+      "questionType": "single",
+      "stem": "一家化工廠年度工業廢水厭氧處理甲烷排放量為90噸，甲烷全球暖化潛勢為25。請計算其溫室氣體排放量。",
+      "options": [
+        {
+          "label": "A",
+          "text": "2,400 tCO2e"
+        },
+        {
+          "label": "B",
+          "text": "2,550 tCO2e"
+        },
+        {
+          "label": "C",
+          "text": "2,700 tCO2e"
+        },
+        {
+          "label": "D",
+          "text": "2,250 tCO2e"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 208
+    },
+    {
+      "questionType": "single",
+      "stem": "一家化工廠年度丙烯生產過程CO₂排放量為60,000噸。請計算其直接溫室氣體排放量。",
+      "options": [
+        {
+          "label": "A",
+          "text": "50,000 tCO2e"
+        },
+        {
+          "label": "B",
+          "text": "60,000 tCO2e"
+        },
+        {
+          "label": "C",
+          "text": "55,000 tCO2e"
+        },
+        {
+          "label": "D",
+          "text": "65,000 tCO2e"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 209
+    },
+    {
+      "questionType": "single",
+      "stem": "某農業公司年度水稻種植甲烷排放量為200噸，甲烷排放係數為5.0 kgCH₄/噸稻草，甲烷全球暖化潛勢為25。請計算其溫室氣體排放量。",
+      "options": [
+        {
+          "label": "A",
+          "text": "30 tCO2e"
+        },
+        {
+          "label": "B",
+          "text": "25 tCO2e"
+        },
+        {
+          "label": "C",
+          "text": "22.5 tCO2e"
+        },
+        {
+          "label": "D",
+          "text": "27.5 tCO2e"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 210
+    },
+    {
+      "questionType": "single",
+      "stem": "某科技公司購買綠色電力年度總量為8,000,000 kWh，綠色電力排放係數為0.2 kgCO2e/kWh。請計算其能源間接溫室氣體排放量。",
+      "options": [
+        {
+          "label": "A",
+          "text": "1,700 tCO2e"
+        },
+        {
+          "label": "B",
+          "text": "1,400 tCO2e"
+        },
+        {
+          "label": "C",
+          "text": "1,600 tCO2e"
+        },
+        {
+          "label": "D",
+          "text": "1,500 tCO2e"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 211
+    },
+    {
+      "questionType": "single",
+      "stem": "某石化廠年度乙烯生產過程逸散排放量為45噸，排放係數為3.6 kgCO2e/kg。請計算其直接溫室氣體排放量。",
+      "options": [
+        {
+          "label": "A",
+          "text": "140 tCO2e"
+        },
+        {
+          "label": "B",
+          "text": "200 tCO2e"
+        },
+        {
+          "label": "C",
+          "text": "180 tCO2e"
+        },
+        {
+          "label": "D",
+          "text": "162 tCO2e"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 212
+    },
+    {
+      "questionType": "single",
+      "stem": "某石化廠年度碳氫化合物生產過程逸散排放量為50噸，排放係數為3.2 kgCO2e/kg。請計算其直接溫室氣體排放量。",
+      "options": [
+        {
+          "label": "A",
+          "text": "180 tCO2e"
+        },
+        {
+          "label": "B",
+          "text": "160 tCO2e"
+        },
+        {
+          "label": "C",
+          "text": "200 tCO2e"
+        },
+        {
+          "label": "D",
+          "text": "140 tCO2e"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 213
+    },
+    {
+      "questionType": "single",
+      "stem": "一家航空公司年度航空燃油消耗量為250,000公升，航空燃油排放係數為2.75 kgCO2e/公升。請計算其直接溫室氣體排放量。",
+      "options": [
+        {
+          "label": "A",
+          "text": "625.5 tCO2e"
+        },
+        {
+          "label": "B",
+          "text": "595.5 tCO2e"
+        },
+        {
+          "label": "C",
+          "text": "725.5 tCO2e"
+        },
+        {
+          "label": "D",
+          "text": "687.5 tCO2e"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 214
+    },
+    {
+      "questionType": "single",
+      "stem": "某半導體廠年度SF₆洩漏量為60公斤，SF₆全球暖化潛勢為22,800。請計算其溫室氣體排放量。",
+      "options": [
+        {
+          "label": "A",
+          "text": "1.4 tCO2e"
+        },
+        {
+          "label": "B",
+          "text": "1.3 tCO2e"
+        },
+        {
+          "label": "C",
+          "text": "1.2 tCO2e"
+        },
+        {
+          "label": "D",
+          "text": "1.368 tCO2e"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 215
+    },
+    {
+      "questionType": "single",
+      "stem": "某工廠柴油年消耗量為120,000公升，請計算其直接溫室氣體排放量（範疇一）。已知柴油排放係數為2.65 kgCO2e/公升。",
+      "options": [
+        {
+          "label": "A",
+          "text": "300 tCO2e"
+        },
+        {
+          "label": "B",
+          "text": "276 tCO2e"
+        },
+        {
+          "label": "C",
+          "text": "252 tCO2e"
+        },
+        {
+          "label": "D",
+          "text": "318 tCO2e"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 216
+    },
+    {
+      "questionType": "single",
+      "stem": "某半導體廠年度PFC‑14洩漏量為75公斤，PFC‑14全球暖化潛勢為7,390。請計算其溫室氣體排放量。",
+      "options": [
+        {
+          "label": "A",
+          "text": "540 tCO2e"
+        },
+        {
+          "label": "B",
+          "text": "510 tCO2e"
+        },
+        {
+          "label": "C",
+          "text": "554.25 tCO2e"
+        },
+        {
+          "label": "D",
+          "text": "570 tCO2e"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 217
+    },
+    {
+      "questionType": "single",
+      "stem": "一家造紙廠年度廢棄木材生質燃燒排放量為180,000公斤，排放係數為0.18 kgCO2e/kg。請計算其直接溫室氣體排放量。",
+      "options": [
+        {
+          "label": "A",
+          "text": "30.4 tCO2e"
+        },
+        {
+          "label": "B",
+          "text": "36.4 tCO2e"
+        },
+        {
+          "label": "C",
+          "text": "34.4 tCO2e"
+        },
+        {
+          "label": "D",
+          "text": "32.4 tCO2e"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 218
+    },
+    {
+      "questionType": "single",
+      "stem": "一家造紙廠年使用生質燃料200,000公斤，生質燃料排放係數為0.15 kgCO2e/kg。請計算其直接溫室氣體排放量。",
+      "options": [
+        {
+          "label": "A",
+          "text": "25 tCO2e"
+        },
+        {
+          "label": "B",
+          "text": "40 tCO2e"
+        },
+        {
+          "label": "C",
+          "text": "30 tCO2e"
+        },
+        {
+          "label": "D",
+          "text": "35 tCO2e"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 219
+    },
+    {
+      "questionType": "single",
+      "stem": "排放係數的定義是指：",
+      "options": [
+        {
+          "label": "A",
+          "text": "每單位原料使用量的排放量"
+        },
+        {
+          "label": "B",
+          "text": "每單位產品的碳含量"
+        },
+        {
+          "label": "C",
+          "text": "每單位面積的排放量"
+        },
+        {
+          "label": "D",
+          "text": "每單位能源的熱值"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 220
+    },
+    {
+      "questionType": "single",
+      "stem": "盤查相關資料應至少保存多久？",
+      "options": [
+        {
+          "label": "A",
+          "text": "四年"
+        },
+        {
+          "label": "B",
+          "text": "五年"
+        },
+        {
+          "label": "C",
+          "text": "六年"
+        },
+        {
+          "label": "D",
+          "text": "三年"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 221
+    },
+    {
+      "questionType": "single",
+      "stem": "溫室氣體排放係數的採用順序為：",
+      "options": [
+        {
+          "label": "A",
+          "text": "以中央主管機關公告為主"
+        },
+        {
+          "label": "B",
+          "text": "以產業平均值為主"
+        },
+        {
+          "label": "C",
+          "text": "以自廠係數為主"
+        },
+        {
+          "label": "D",
+          "text": "以國際文獻為主"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 222
+    },
+    {
+      "questionType": "single",
+      "stem": "上傳查驗結果時，若與原登錄資料不一致，應：",
+      "options": [
+        {
+          "label": "A",
+          "text": "併同上傳修正後資料"
+        },
+        {
+          "label": "B",
+          "text": "保留原始資料"
+        },
+        {
+          "label": "C",
+          "text": "等待主管機關通知"
+        },
+        {
+          "label": "D",
+          "text": "提出異議申請"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 223
+    },
+    {
+      "questionType": "single",
+      "stem": "關於查驗結果之處理，下列敘述何者正確？",
+      "options": [
+        {
+          "label": "A",
+          "text": "查驗結果無需使用特定格式"
+        },
+        {
+          "label": "B",
+          "text": "上傳期限為每年9月30日前"
+        },
+        {
+          "label": "C",
+          "text": "查驗結果可採書面方式提交"
+        },
+        {
+          "label": "D",
+          "text": "如與原登錄資料不一致應一併上傳修正後資料"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 224
+    },
+    {
+      "questionType": "single",
+      "stem": "事業停業後應於多久內辦理盤查登錄作業？",
+      "options": [
+        {
+          "label": "A",
+          "text": "45日內"
+        },
+        {
+          "label": "B",
+          "text": "60日內"
+        },
+        {
+          "label": "C",
+          "text": "30日內"
+        },
+        {
+          "label": "D",
+          "text": "90日內"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 225
+    },
+    {
+      "questionType": "single",
+      "stem": "下列何者非屬溫室氣體排放量計算允許使用之方法？",
+      "options": [
+        {
+          "label": "A",
+          "text": "歷史趨勢推估法"
+        },
+        {
+          "label": "B",
+          "text": "排放係數法"
+        },
+        {
+          "label": "C",
+          "text": "質量平衡法"
+        },
+        {
+          "label": "D",
+          "text": "直接監測法"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 226
+    },
+    {
+      "questionType": "single",
+      "stem": "下列何者非屬應納入盤查範圍之溫室氣體種類？",
+      "options": [
+        {
+          "label": "A",
+          "text": "一氧化碳"
+        },
+        {
+          "label": "B",
+          "text": "三氟化氮"
+        },
+        {
+          "label": "C",
+          "text": "六氟化硫"
+        },
+        {
+          "label": "D",
+          "text": "氫氟碳化物"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 227
+    },
+    {
+      "questionType": "single",
+      "stem": "關於直接監測計畫書內容，下列何者非必要項目？",
+      "options": [
+        {
+          "label": "A",
+          "text": "歷年監測結果比較"
+        },
+        {
+          "label": "B",
+          "text": "數據處理方式"
+        },
+        {
+          "label": "C",
+          "text": "品質保證作業"
+        },
+        {
+          "label": "D",
+          "text": "監測設施規格"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 228
+    },
+    {
+      "questionType": "single",
+      "stem": "採用排放係數法計算燃料燃燒排放量時，應使用何種熱值？",
+      "options": [
+        {
+          "label": "A",
+          "text": "低位熱值"
+        },
+        {
+          "label": "B",
+          "text": "高位熱值"
+        },
+        {
+          "label": "C",
+          "text": "平均熱值"
+        },
+        {
+          "label": "D",
+          "text": "標準熱值"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 229
+    },
+    {
+      "questionType": "single",
+      "stem": "質量平衡法計算時應考慮：",
+      "options": [
+        {
+          "label": "A",
+          "text": "設備運轉時數"
+        },
+        {
+          "label": "B",
+          "text": "製程轉化效率"
+        },
+        {
+          "label": "C",
+          "text": "操作人員資格"
+        },
+        {
+          "label": "D",
+          "text": "環境溫度"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 230
+    },
+    {
+      "questionType": "single",
+      "stem": "查驗作業若需更換查驗員有困難時：",
+      "options": [
+        {
+          "label": "A",
+          "text": "可自行決定繼續執行"
+        },
+        {
+          "label": "B",
+          "text": "可暫停查驗作業"
+        },
+        {
+          "label": "C",
+          "text": "必須強制更換"
+        },
+        {
+          "label": "D",
+          "text": "需向中央主管機關申請同意"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 231
+    },
+    {
+      "questionType": "single",
+      "stem": "產品類別規則(PCR)的主要目的是什麼？",
+      "options": [
+        {
+          "label": "A",
+          "text": "降低採購成本"
+        },
+        {
+          "label": "B",
+          "text": "統一產品環境衝擊評估方法"
+        },
+        {
+          "label": "C",
+          "text": "提升產品銷售業績"
+        },
+        {
+          "label": "D",
+          "text": "增加市場競爭力"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 232
+    },
+    {
+      "questionType": "single",
+      "stem": "下列哪一項不屬於 ISO 14064‑1 所定義的其他間接排放？",
+      "options": [
+        {
+          "label": "A",
+          "text": "外包運輸服務排放"
+        },
+        {
+          "label": "B",
+          "text": "公司自有車輛燃料排放"
+        },
+        {
+          "label": "C",
+          "text": "廢棄物委外處理排放"
+        },
+        {
+          "label": "D",
+          "text": "員工上下班通勤排放"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 233
+    },
+    {
+      "questionType": "single",
+      "stem": "申請碳標籤前，必須先檢查產品是否已有哪種文件？",
+      "options": [
+        {
+          "label": "A",
+          "text": "產品類別規則 (PCR)"
+        },
+        {
+          "label": "B",
+          "text": "環境政策聲明"
+        },
+        {
+          "label": "C",
+          "text": "碳排放盤查表"
+        },
+        {
+          "label": "D",
+          "text": "產品規格書"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 234
+    },
+    {
+      "questionType": "single",
+      "stem": "臺灣計劃如何解決交通部門的排放問題？",
+      "options": [
+        {
+          "label": "A",
+          "text": "增加私人車輛的使用"
+        },
+        {
+          "label": "B",
+          "text": "逐步淘汰電動車"
+        },
+        {
+          "label": "C",
+          "text": "擴大綠色公共交通"
+        },
+        {
+          "label": "D",
+          "text": "減少公共交通網絡"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 235
+    },
+    {
+      "questionType": "single",
+      "stem": "依據ISO 14064‑1:2018標準，下列何者「屬於」其他間接排放（類別4）的範疇？",
+      "options": [
+        {
+          "label": "A",
+          "text": "商務差旅的排放"
+        },
+        {
+          "label": "B",
+          "text": "租賃資產的排放"
+        },
+        {
+          "label": "C",
+          "text": "員工通勤的排放"
+        },
+        {
+          "label": "D",
+          "text": "購入的電力使用"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 236
+    },
+    {
+      "questionType": "single",
+      "stem": "CFP研究報告中，關於價值選擇，應該：",
+      "options": [
+        {
+          "label": "A",
+          "text": "隱藏所有價值選擇"
+        },
+        {
+          "label": "B",
+          "text": "只報告有利的價值選擇"
+        },
+        {
+          "label": "C",
+          "text": "揭露價值選擇及其理由"
+        },
+        {
+          "label": "D",
+          "text": "忽略價值選擇的影響"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 237
+    },
+    {
+      "questionType": "single",
+      "stem": "內部查證時，針對數據資訊面向的查證重點包括以下哪項？",
+      "options": [
+        {
+          "label": "A",
+          "text": "員工績效評估"
+        },
+        {
+          "label": "B",
+          "text": "客戶開發策略"
+        },
+        {
+          "label": "C",
+          "text": "產品研發計劃"
+        },
+        {
+          "label": "D",
+          "text": "計算公式錯誤"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 238
+    },
+    {
+      "questionType": "single",
+      "stem": "CFP量化數值具備代表性的時間期間應如何確定？",
+      "options": [
+        {
+          "label": "A",
+          "text": "永遠使用最新的一年數據"
+        },
+        {
+          "label": "B",
+          "text": "由監管機構統一規定"
+        },
+        {
+          "label": "C",
+          "text": "應予指定並說明理由"
+        },
+        {
+          "label": "D",
+          "text": "必須涵蓋產品的整個生命週期"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 239
+    },
+    {
+      "questionType": "single",
+      "stem": "使用“混合法”計算採購貨物產生的排放時，不包括以下哪項？",
+      "options": [
+        {
+          "label": "A",
+          "text": "供應商上游活動數據"
+        },
+        {
+          "label": "B",
+          "text": "供應商範疇1+2排放數據"
+        },
+        {
+          "label": "C",
+          "text": "供應商的利潤率"
+        },
+        {
+          "label": "D",
+          "text": "次級數據（如行業平均排放係數）"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 240
+    },
+    {
+      "questionType": "single",
+      "stem": "PAS 2060 要求組織制定什麼來支持其碳中和聲明？",
+      "options": [
+        {
+          "label": "A",
+          "text": "減排行動計劃"
+        },
+        {
+          "label": "B",
+          "text": "員工培訓計劃"
+        },
+        {
+          "label": "C",
+          "text": "市場營銷策略"
+        },
+        {
+          "label": "D",
+          "text": "投資回報分析"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 241
+    },
+    {
+      "questionType": "single",
+      "stem": "在CBAM系統中查詢產品是否受到納管時，需要輸入稅則號碼的哪幾碼？",
+      "options": [
+        {
+          "label": "A",
+          "text": "全部號碼"
+        },
+        {
+          "label": "B",
+          "text": "前2~6碼"
+        },
+        {
+          "label": "C",
+          "text": "前4~8碼"
+        },
+        {
+          "label": "D",
+          "text": "僅前2碼"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 242
+    },
+    {
+      "questionType": "single",
+      "stem": "碳中和聲明的準確性和真實性應該由誰進行驗證？",
+      "options": [
+        {
+          "label": "A",
+          "text": "非政府組織"
+        },
+        {
+          "label": "B",
+          "text": "政府機構"
+        },
+        {
+          "label": "C",
+          "text": "獨立第三方"
+        },
+        {
+          "label": "D",
+          "text": "組織內部審計"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 243
+    },
+    {
+      "questionType": "single",
+      "stem": "CBAM過渡期第二次（填報2024年1–3月）填報的最後修正日期是何時？",
+      "options": [
+        {
+          "label": "A",
+          "text": "2024年7月31日"
+        },
+        {
+          "label": "B",
+          "text": "2024年6月30日"
+        },
+        {
+          "label": "C",
+          "text": "2024年5月31日"
+        },
+        {
+          "label": "D",
+          "text": "2024年7月30日"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 244
+    },
+    {
+      "questionType": "single",
+      "stem": "哪些產品的間接電力排放不納入CBAM憑證課徵範圍，但仍需提供數據？",
+      "options": [
+        {
+          "label": "A",
+          "text": "塑膠和玻璃"
+        },
+        {
+          "label": "B",
+          "text": "紙張和木材"
+        },
+        {
+          "label": "C",
+          "text": "鋼鐵、鋁及其中下游產品"
+        },
+        {
+          "label": "D",
+          "text": "水泥和化肥"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 245
+    },
+    {
+      "questionType": "single",
+      "stem": "CBAM正式實施後，申報人需要提供哪種第三方查證報告？",
+      "options": [
+        {
+          "label": "A",
+          "text": "ISO 14064查證報告"
+        },
+        {
+          "label": "B",
+          "text": "CDP查證報告"
+        },
+        {
+          "label": "C",
+          "text": "PAS 2060查證報告"
+        },
+        {
+          "label": "D",
+          "text": "CBAM認可之第三方查驗單位的查證報告"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 246
+    },
+    {
+      "questionType": "single",
+      "stem": "CBAM正式實施後，若申報人被發現憑證不足，需要在多長時間內補足？",
+      "options": [
+        {
+          "label": "A",
+          "text": "三週內"
+        },
+        {
+          "label": "B",
+          "text": "兩週內"
+        },
+        {
+          "label": "C",
+          "text": "兩個月內"
+        },
+        {
+          "label": "D",
+          "text": "一個月內"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 247
+    },
+    {
+      "questionType": "single",
+      "stem": "PAS 2060 對碳抵消項目的社會、經濟和環境影響有何要求？",
+      "options": [
+        {
+          "label": "A",
+          "text": "輕微正面影響"
+        },
+        {
+          "label": "B",
+          "text": "僅環境影響"
+        },
+        {
+          "label": "C",
+          "text": "無具體要求"
+        },
+        {
+          "label": "D",
+          "text": "顯著正面影響"
+        }
+      ],
+      "correctAnswer": "",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 248
+    },
+    {
+      "questionType": "single",
+      "stem": "根據 ISO 14064-1 標準，企業在進行碳排放盤查時，應納入哪一範圍的排放？",
+      "options": [
+        {
+          "label": "A",
+          "text": "只包括直接排放"
+        },
+        {
+          "label": "B",
+          "text": "包括直接和間接排放"
+        },
+        {
+          "label": "C",
+          "text": "只包括間接排放"
+        },
+        {
+          "label": "D",
+          "text": "只包括生產過"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 249
+    },
+    {
+      "questionType": "single",
+      "stem": "「A 公司在溫盤報告書提到盤查的範圍包含台灣廠與大陸廠。」請問這段描述內容描 述的是界定何種邊界？",
+      "options": [
+        {
+          "label": "A",
+          "text": "營運邊界"
+        },
+        {
+          "label": "B",
+          "text": "組織邊界"
+        },
+        {
+          "label": "C",
+          "text": "報告邊界"
+        },
+        {
+          "label": "D",
+          "text": "以上皆非"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 250
+    },
+    {
+      "questionType": "single",
+      "stem": "下列何者屬於產品碳足跡「目的與範疇」階段，應界定的項目？",
+      "options": [
+        {
+          "label": "A",
+          "text": "分配程序"
+        },
+        {
+          "label": "B",
+          "text": "功能單位"
+        },
+        {
+          "label": "C",
+          "text": "重要單元過程清冊"
+        },
+        {
+          "label": "D",
+          "text": "特定的 GHG 排放與移除"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 251
+    },
+    {
+      "questionType": "single",
+      "stem": "某工廠在一年內的能源使用情況如下： 使用電力 500,000 kWh（每 kWh 電力產生 0.527 公斤二氧化碳） 使用柴油 20,000 公升（每公升柴油產生 2.68 公斤二氧化碳） 使用天然氣 100,000 立方米（每立方米天然氣產生 1.85 公斤二氧化碳） 請計算該工廠一年內總共產生的二氧化碳排放量。",
+      "options": [
+        {
+          "label": "A",
+          "text": "371,350 公斤"
+        },
+        {
+          "label": "B",
+          "text": "502,100 公斤"
+        },
+        {
+          "label": "C",
+          "text": "413,000 公斤"
+        },
+        {
+          "label": "D",
+          "text": "421,500 公斤"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 252
+    },
+    {
+      "questionType": "single",
+      "stem": "ISO14064 主要是規範什麼？ 體避免影響全球氣候嚴重暖化，國際上於 1997 年",
+      "options": [
+        {
+          "label": "A",
+          "text": "組織層級溫室氣體排放量盤查與查證"
+        },
+        {
+          "label": "A",
+          "text": "倫敦議定書"
+        },
+        {
+          "label": "B",
+          "text": "京都議定書"
+        },
+        {
+          "label": "C",
+          "text": "首爾議定書"
+        },
+        {
+          "label": "D",
+          "text": "多倫多議定書"
+        },
+        {
+          "label": "B",
+          "text": "產品碳足跡盤查與查證"
+        },
+        {
+          "label": "C",
+          "text": "溫室氣體減量專案設計與查證"
+        },
+        {
+          "label": "D",
+          "text": "企業社會責任報告書編制"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 253
+    },
+    {
+      "questionType": "single",
+      "stem": "什麼是碳盤查查證？",
+      "options": [
+        {
+          "label": "A",
+          "text": "界定盤查邊界、蒐集活動數據、計算排放量、"
+        },
+        {
+          "label": "A",
+          "text": "由第三方機構確認企業的碳盤查結果是否符"
+        },
+        {
+          "label": "B",
+          "text": "蒐集活動數據、界定盤查邊界、計算排放量、"
+        },
+        {
+          "label": "B",
+          "text": "由政府機構確認企業的碳盤查結果是否符合"
+        },
+        {
+          "label": "C",
+          "text": "計算排放量、蒐集活動數據、界定盤查邊界、"
+        },
+        {
+          "label": "C",
+          "text": "由企業內部人員確認碳盤查結果是否正確"
+        },
+        {
+          "label": "D",
+          "text": "由顧問公司協助企業進行碳盤查"
+        },
+        {
+          "label": "D",
+          "text": "報告盤查結果、計算排放量、蒐集活動數據、"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 254
+    },
+    {
+      "questionType": "single",
+      "stem": "下列何者不是企業社會責任(Corporate Social",
+      "options": [
+        {
+          "label": "A",
+          "text": "企業將生產轉移到碳排放管制較寬鬆的國家"
+        },
+        {
+          "label": "B",
+          "text": "企業的碳排放量超過法規標準"
+        },
+        {
+          "label": "A",
+          "text": "環境保護"
+        },
+        {
+          "label": "B",
+          "text": "社會公益"
+        },
+        {
+          "label": "C",
+          "text": "公司治理"
+        },
+        {
+          "label": "D",
+          "text": "產品行銷"
+        },
+        {
+          "label": "C",
+          "text": "企業的碳排放量被低估"
+        },
+        {
+          "label": "D",
+          "text": "企業的碳排放量被高估"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 255
+    },
+    {
+      "questionType": "single",
+      "stem": "什麼是碳足跡標籤？",
+      "options": [
+        {
+          "label": "A",
+          "text": "標示產品碳排放量的標籤"
+        },
+        {
+          "label": "B",
+          "text": "標示產品能源效率的標籤"
+        },
+        {
+          "label": "C",
+          "text": "標示產品水足跡的標籤"
+        },
+        {
+          "label": "D",
+          "text": "標示產品回收率的標籤"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 256
+    },
+    {
+      "questionType": "single",
+      "stem": "什麼是能源標籤？",
+      "options": [
+        {
+          "label": "B",
+          "text": "排放二氧化碳的自然或人工來源"
+        },
+        {
+          "label": "C",
+          "text": "減少二氧化碳排放的技術"
+        },
+        {
+          "label": "D",
+          "text": "測量二氧化碳排放的工具"
+        },
+        {
+          "label": "A",
+          "text": "標示產品碳排放量的標籤"
+        },
+        {
+          "label": "B",
+          "text": "標示產品能源效率的標籤"
+        },
+        {
+          "label": "C",
+          "text": "標示產品水足跡的標籤"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 257
+    },
+    {
+      "questionType": "single",
+      "stem": "什麼是碳盤查？ Adjustment Mechanism, CBAM)？",
+      "options": [
+        {
+          "label": "A",
+          "text": "對進口產品徵收碳稅的機制"
+        },
+        {
+          "label": "A",
+          "text": "計算企業用水量的過程"
+        },
+        {
+          "label": "B",
+          "text": "計算企業用電量的過程"
+        },
+        {
+          "label": "B",
+          "text": "對出口產品提供碳補貼的機制"
+        },
+        {
+          "label": "C",
+          "text": "計算企業溫室氣體排放量的過程"
+        },
+        {
+          "label": "C",
+          "text": "對高碳排放國家實施貿易制裁的機制"
+        },
+        {
+          "label": "D",
+          "text": "以上皆非"
+        },
+        {
+          "label": "D",
+          "text": "計算企業廢棄物產量的過程"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 258
+    },
+    {
+      "questionType": "single",
+      "stem": "什麼是碳足跡盤查？",
+      "options": [
+        {
+          "label": "A",
+          "text": "企業直接產生的溫室氣體排放"
+        },
+        {
+          "label": "A",
+          "text": "計算企業溫室氣體排放量的過程"
+        },
+        {
+          "label": "B",
+          "text": "企業因使用外購電力產生的溫室氣體排放"
+        },
+        {
+          "label": "B",
+          "text": "計算產品生命週期碳排放量的過程"
+        },
+        {
+          "label": "C",
+          "text": "企業供應鏈產生的溫室氣體排放"
+        },
+        {
+          "label": "C",
+          "text": "計算個人碳排放量的過程"
+        },
+        {
+          "label": "D",
+          "text": "以上皆非"
+        },
+        {
+          "label": "D",
+          "text": "以上皆非"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 259
+    },
+    {
+      "questionType": "single",
+      "stem": "什麼是碳足跡管理？",
+      "options": [
+        {
+          "label": "A",
+          "text": "企業直接產生的溫室氣體排放"
+        },
+        {
+          "label": "A",
+          "text": "減少產品碳排放量的過程"
+        },
+        {
+          "label": "B",
+          "text": "企業因使用外購電力產生的溫室氣體排放"
+        },
+        {
+          "label": "C",
+          "text": "企業供應鏈產生的溫室氣體排放"
+        },
+        {
+          "label": "B",
+          "text": "抵換產品碳排放量的過程"
+        },
+        {
+          "label": "C",
+          "text": "規劃、執行、監測和報告產品碳足跡的過程"
+        },
+        {
+          "label": "D",
+          "text": "以上皆非"
+        },
+        {
+          "label": "D",
+          "text": "以上皆是"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 260
+    },
+    {
+      "questionType": "single",
+      "stem": "什麼是碳排放因子？",
+      "options": [
+        {
+          "label": "C",
+          "text": "非營利組織推動企業揭露環境資訊的平台"
+        },
+        {
+          "label": "A",
+          "text": "計算溫室氣體排放量時使用的係數"
+        },
+        {
+          "label": "D",
+          "text": "以上皆非"
+        },
+        {
+          "label": "B",
+          "text": "衡量溫室氣體排放強度的指標"
+        },
+        {
+          "label": "C",
+          "text": "評估減碳潛力的工具"
+        },
+        {
+          "label": "D",
+          "text": "以上皆非"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 261
+    },
+    {
+      "questionType": "single",
+      "stem": "什麼是產品碳足跡？",
+      "options": [
+        {
+          "label": "A",
+          "text": "產品在生產過程中產生的碳排放量"
+        },
+        {
+          "label": "B",
+          "text": "產品在使用過程中產生的碳排放量"
+        },
+        {
+          "label": "C",
+          "text": "產品在廢棄處理過程中產生的碳排放量"
+        },
+        {
+          "label": "D",
+          "text": "產品從原料取得、製造、配送、使用到廢棄"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 262
+    },
+    {
+      "questionType": "single",
+      "stem": "組織如何確保其溫室氣體盤查的一致性，以 項？",
+      "options": [
+        {
+          "label": "A",
+          "text": "準確性"
+        },
+        {
+          "label": "B",
+          "text": "一致性"
+        },
+        {
+          "label": "C",
+          "text": "極大化"
+        },
+        {
+          "label": "D",
+          "text": "完整性"
+        },
+        {
+          "label": "A",
+          "text": "每年更換計算方法"
+        },
+        {
+          "label": "B",
+          "text": "維持使用相同的數據來源和計算方法"
+        },
+        {
+          "label": "C",
+          "text": "僅報告最大的排放源"
+        },
+        {
+          "label": "D",
+          "text": "忽略小規模排放源"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 263
+    },
+    {
+      "questionType": "single",
+      "stem": "溫室氣體盤查報告原則中，何者是為了使溫 則？ 室氣體相關資訊能有意義比較，以及容許有意義",
+      "options": [
+        {
+          "label": "A",
+          "text": "僅報告對組織有利的信息"
+        },
+        {
+          "label": "B",
+          "text": "隱藏計算方法"
+        },
+        {
+          "label": "A",
+          "text": "準確性"
+        },
+        {
+          "label": "B",
+          "text": "一致性"
+        },
+        {
+          "label": "C",
+          "text": "完整性"
+        },
+        {
+          "label": "D",
+          "text": "透明度"
+        },
+        {
+          "label": "C",
+          "text": "充分且適當地揭露溫室氣體相關資訊"
+        },
+        {
+          "label": "D",
+          "text": "避免公開不確定性數據"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 264
+    },
+    {
+      "questionType": "single",
+      "stem": "依據標準組織型溫室氣體盤查須納入所有相",
+      "options": [
+        {
+          "label": "A",
+          "text": "報告所有可能的數據"
+        },
+        {
+          "label": "B",
+          "text": "基於預期使用者的需求選擇相關的溫室氣體"
+        },
+        {
+          "label": "A",
+          "text": "準確性"
+        },
+        {
+          "label": "B",
+          "text": "完整性"
+        },
+        {
+          "label": "C",
+          "text": "一致性"
+        },
+        {
+          "label": "D",
+          "text": "相關性"
+        },
+        {
+          "label": "C",
+          "text": "僅報告國際間公認的溫室氣體"
+        },
+        {
+          "label": "D",
+          "text": "避免使用地方性的溫室氣體數據"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 265
+    },
+    {
+      "questionType": "single",
+      "stem": "企業進行溫室氣體盤查的第一步是什麼？",
+      "options": [
+        {
+          "label": "B",
+          "text": "資訊經過真實公正的考量"
+        },
+        {
+          "label": "A",
+          "text": "設定邊界鑑別排放源"
+        },
+        {
+          "label": "B",
+          "text": "收集活動數據與計算排放量"
+        },
+        {
+          "label": "C",
+          "text": "報告僅限於公開資料"
+        },
+        {
+          "label": "D",
+          "text": "忽略小規模排放源的影響"
+        },
+        {
+          "label": "C",
+          "text": "請高階主管指派溫室氣體盤查小組"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 266
+    },
+    {
+      "questionType": "single",
+      "stem": "在進行溫室氣體盤查時，如何確保報告的完 項？ 整性？",
+      "options": [
+        {
+          "label": "A",
+          "text": "報告主要排放源"
+        },
+        {
+          "label": "B",
+          "text": "僅關注直接排放"
+        },
+        {
+          "label": "C",
+          "text": "包括所有相關的直接和間接排放源"
+        },
+        {
+          "label": "D",
+          "text": "忽略間接排放源"
+        },
+        {
+          "label": "A",
+          "text": "ISO14064-1"
+        },
+        {
+          "label": "B",
+          "text": "ISO14064-2"
+        },
+        {
+          "label": "C",
+          "text": "ISO14067"
+        },
+        {
+          "label": "D",
+          "text": "ISO14064-3"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 267
+    },
+    {
+      "questionType": "single",
+      "stem": "C 公司在溫室氣體盤查報告書提到盤查的 項？",
+      "options": [
+        {
+          "label": "A",
+          "text": "財務控制法"
+        },
+        {
+          "label": "B",
+          "text": "營運控制法"
+        },
+        {
+          "label": "C",
+          "text": "股權持分法"
+        },
+        {
+          "label": "D",
+          "text": "以上皆是"
+        },
+        {
+          "label": "A",
+          "text": "組織邊界"
+        },
+        {
+          "label": "B",
+          "text": "營運邊界"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 268
+    },
+    {
+      "questionType": "single",
+      "stem": "在溫室氣體盤查中，哪一項不是間接溫室氣 別排放？ 體排放與移除的來源之一？",
+      "options": [
+        {
+          "label": "A",
+          "text": "類別 1 直接溫室氣體排放"
+        },
+        {
+          "label": "A",
+          "text": "來自輸入能源的間接溫室氣體排放量"
+        },
+        {
+          "label": "B",
+          "text": "類別 2 來自輸入能源之間接溫室氣體排放量"
+        },
+        {
+          "label": "B",
+          "text": "來自組織使用的產品的間接溫室氣體排放量"
+        },
+        {
+          "label": "C",
+          "text": "類別 3 來自運輸之間接溫室氣體排放量"
+        },
+        {
+          "label": "C",
+          "text": "來自運輸的間接溫室氣體排放量"
+        },
+        {
+          "label": "D",
+          "text": "類別 4 來自組織使用的產品之間接溫室氣體"
+        },
+        {
+          "label": "D",
+          "text": "來自直接排放源的間接溫室氣體排放量"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 269
+    },
+    {
+      "questionType": "single",
+      "stem": "下列何者為基準年溫室氣體盤查清冊的目 氣體盤查清冊？",
+      "options": [
+        {
+          "label": "A",
+          "text": "報告邊界改變"
+        },
+        {
+          "label": "B",
+          "text": "與隔壁廠房合併"
+        },
+        {
+          "label": "A",
+          "text": "降低未來報告的準確性"
+        },
+        {
+          "label": "B",
+          "text": "增加報告的複雜度"
+        },
+        {
+          "label": "C",
+          "text": "量化方法改變導致溫室氣體排放量發生很大"
+        },
+        {
+          "label": "C",
+          "text": "符合預期使用者的要求"
+        },
+        {
+          "label": "D",
+          "text": "減少報告的透明度"
+        },
+        {
+          "label": "D",
+          "text": "生產產量發生重大變化"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 270
+    },
+    {
+      "questionType": "single",
+      "stem": "請說明溫室氣體量化方法中，排放係數法的 和流率來量測溫室氣體排放量？ 計算公式，何者正確？",
+      "options": [
+        {
+          "label": "A",
+          "text": "直接監測法"
+        },
+        {
+          "label": "A",
+          "text": "CO2 排放當量=活動數據×排放係數×GWP"
+        },
+        {
+          "label": "B",
+          "text": "質量平衡法"
+        },
+        {
+          "label": "B",
+          "text": "CO2 排放當量=活動數據×人口數量×GWP"
+        },
+        {
+          "label": "C",
+          "text": "排放係數法"
+        },
+        {
+          "label": "C",
+          "text": "CO2 排放當量=活動數據×面積占比×GWP"
+        },
+        {
+          "label": "D",
+          "text": "估算方法"
+        },
+        {
+          "label": "D",
+          "text": "CO2 排放當量=活動數據×重量占比×GWP"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 271
+    },
+    {
+      "questionType": "single",
+      "stem": ".組織建立基準年溫室氣體排放量與移除量 的歷史基準時，應考慮哪些因素？",
+      "options": [
+        {
+          "label": "A",
+          "text": "國際排放係數"
+        },
+        {
+          "label": "B",
+          "text": "量測/質能平衡係數"
+        },
+        {
+          "label": "C",
+          "text": "區域排放係數"
+        },
+        {
+          "label": "D",
+          "text": "國家排放係數"
+        },
+        {
+          "label": "A",
+          "text": "選擇公司創立年作為基準年"
+        },
+        {
+          "label": "B",
+          "text": "使用代表性且可驗證的數據"
+        },
+        {
+          "label": "C",
+          "text": "僅基於預算決定"
+        },
+        {
+          "label": "D",
+          "text": "選擇任意一年作為基準年"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 272
+    },
+    {
+      "questionType": "single",
+      "stem": "直接監測法與質量平衡法在溫室氣體量化 全球暖化潛勢值得選用時，應挑選對環境影響幾 中有什麼區別？ 年的？",
+      "options": [
+        {
+          "label": "A",
+          "text": "50 年"
+        },
+        {
+          "label": "B",
+          "text": "100 年"
+        },
+        {
+          "label": "C",
+          "text": "200 年"
+        },
+        {
+          "label": "D",
+          "text": "500 年"
+        },
+        {
+          "label": "A",
+          "text": "直接監測法不考慮化學反應"
+        },
+        {
+          "label": "B",
+          "text": "質量平衡法僅適用於能源消耗"
+        },
+        {
+          "label": "C",
+          "text": "功能單位或宣告單位"
+        },
+        {
+          "label": "D",
+          "text": "質量平衡法更適用於小規模排放源"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 273
+    },
+    {
+      "questionType": "single",
+      "stem": "碳足跡量化資訊應於碳足跡研究報告中揭 露，以下何者可以不包含於報告之中？",
+      "options": [
+        {
+          "label": "A",
+          "text": "針對電力之處理"
+        },
+        {
+          "label": "C",
+          "text": "文件化納入所有相關的溫室氣體排放與移除"
+        },
+        {
+          "label": "B",
+          "text": "選定的分配方法"
+        },
+        {
+          "label": "D",
+          "text": "僅關注能源消耗相關的排放"
+        },
+        {
+          "label": "C",
+          "text": "內外部議題"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 274
+    },
+    {
+      "questionType": "single",
+      "stem": "直接監測法的特點是下列何者？",
+      "options": [
+        {
+          "label": "A",
+          "text": "成本低廉且易於實施"
+        },
+        {
+          "label": "B",
+          "text": "準確度較高但少見"
+        },
+        {
+          "label": "C",
+          "text": "常用於計算間接排放"
+        },
+        {
+          "label": "D",
+          "text": "基於估算而非實際測量"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 275
+    },
+    {
+      "questionType": "single",
+      "stem": "CFP 研究中，當需要做出決定時，為什麼 露，以下何者應包含於報告之中？ 應優先參照自然科學方法？",
+      "options": [
+        {
+          "label": "A",
+          "text": "數據收集資訊，包括數據來源"
+        },
+        {
+          "label": "A",
+          "text": "自然科學方法成本較低"
+        },
+        {
+          "label": "B",
+          "text": "生產排程"
+        },
+        {
+          "label": "C",
+          "text": "ISO9001"
+        },
+        {
+          "label": "D",
+          "text": "審查會議結論"
+        },
+        {
+          "label": "B",
+          "text": "增加研究的創新性"
+        },
+        {
+          "label": "C",
+          "text": "保證結果的客觀性與可靠性"
+        },
+        {
+          "label": "D",
+          "text": "簡化研究過程"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 276
+    },
+    {
+      "questionType": "single",
+      "stem": "CFP 研究如何確保完整性？ 依據哪份 ISO 標準文件？",
+      "options": [
+        {
+          "label": "A",
+          "text": "ISO14040"
+        },
+        {
+          "label": "B",
+          "text": "ISO50001"
+        },
+        {
+          "label": "C",
+          "text": "場址特定數據"
+        },
+        {
+          "label": "D",
+          "text": "ISO14064-1"
+        },
+        {
+          "label": "A",
+          "text": "僅關注主要 GHG 排放源"
+        },
+        {
+          "label": "B",
+          "text": "忽略不重要的 GHG 排放源"
+        },
+        {
+          "label": "C",
+          "text": "適當揭露假設、方法及數據的使用"
+        },
+        {
+          "label": "D",
+          "text": "僅計算直接排放"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 277
+    },
+    {
+      "questionType": "single",
+      "stem": "產品碳足跡(CFP)量化時，為何需要考慮產 的重複計算？ 品/活動的整個生命週期？",
+      "options": [
+        {
+          "label": "A",
+          "text": "忽略所有間接排放"
+        },
+        {
+          "label": "A",
+          "text": "降低成本"
+        },
+        {
+          "label": "B",
+          "text": "簡化分析過程"
+        },
+        {
+          "label": "C",
+          "text": "增加報告的複雜度"
+        },
+        {
+          "label": "D",
+          "text": "增加報告的頁數"
+        },
+        {
+          "label": "B",
+          "text": "僅計算一次相同的 GHG 排放與移除"
+        },
+        {
+          "label": "C",
+          "text": "功能單位或宣告單位"
+        },
+        {
+          "label": "D",
+          "text": "僅關注直接排放"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 278
+    },
+    {
+      "questionType": "single",
+      "stem": "產品碳足跡過程盤查中，繪製製程地圖是一",
+      "options": [
+        {
+          "label": "C",
+          "text": "保證結果的客觀性和可靠性"
+        },
+        {
+          "label": "D",
+          "text": "僅為了滿足標準要求"
+        },
+        {
+          "label": "A",
+          "text": "列出流程各關卡負責單位與人員"
+        },
+        {
+          "label": "B",
+          "text": "列出流程內的投入與產出"
+        },
+        {
+          "label": "C",
+          "text": "確定繪製標的及其功能/宣告單位"
+        },
+        {
+          "label": "D",
+          "text": "列出製造產品，須經過哪些步驟"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 279
+    },
+    {
+      "questionType": "single",
+      "stem": "在考慮未來盤查複雜度時，應如何處理製程 但 B2B 產品不需被納入的生命週期階段 流程圖？",
+      "options": [
+        {
+          "label": "A",
+          "text": "產品使用階段"
+        },
+        {
+          "label": "B",
+          "text": "原料取得階段"
+        },
+        {
+          "label": "C",
+          "text": "生產製造階段"
+        },
+        {
+          "label": "D",
+          "text": "以上皆須列入計算"
+        },
+        {
+          "label": "A",
+          "text": "完全不進行簡化"
+        },
+        {
+          "label": "B",
+          "text": "隨意刪除一些看似不重要的步驟"
+        },
+        {
+          "label": "C",
+          "text": "做適度簡化，保留重要信息"
+        },
+        {
+          "label": "D",
+          "text": "僅保留開頭和結尾的步驟"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 280
+    },
+    {
+      "questionType": "single",
+      "stem": "系統邊界的選擇應基於什麼原則？ 式？",
+      "options": [
+        {
+          "label": "A",
+          "text": "從搖籃到大門"
+        },
+        {
+          "label": "B",
+          "text": "從搖籃到墳墓"
+        },
+        {
+          "label": "C",
+          "text": "從搖籃到天堂"
+        },
+        {
+          "label": "D",
+          "text": "以上皆非"
+        },
+        {
+          "label": "A",
+          "text": "個人喜好"
+        },
+        {
+          "label": "B",
+          "text": "研究目標一致性"
+        },
+        {
+          "label": "C",
+          "text": "最簡單的製程"
+        },
+        {
+          "label": "D",
+          "text": "最低成本"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 281
+    },
+    {
+      "questionType": "single",
+      "stem": "以下何者為 B2B 產品在生命週期的描述方 式？ 務進行環境宣告之生命週期範疇界定的作業程序 文件。目的在使相同功能產品/服務就其環境衝擊",
+      "options": [
+        {
+          "label": "A",
+          "text": "從搖籃到大門"
+        },
+        {
+          "label": "B",
+          "text": "從搖籃到墳墓"
+        },
+        {
+          "label": "C",
+          "text": "從搖籃到天堂"
+        },
+        {
+          "label": "D",
+          "text": "以上皆非"
+        },
+        {
+          "label": "A",
+          "text": "生命週期評估(LC"
+        },
+        {
+          "label": "B",
+          "text": "物質安全資料表(MSDS)"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 282
+    },
+    {
+      "questionType": "single",
+      "stem": "計算產品碳足跡時，須事先找尋符合的產品 類別規則嗎？",
+      "options": [
+        {
+          "label": "A",
+          "text": "需要"
+        },
+        {
+          "label": "B",
+          "text": "不需要"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 283
+    },
+    {
+      "questionType": "single",
+      "stem": "提供服務時，應如何確保製程流程圖的完整",
+      "options": [
+        {
+          "label": "D",
+          "text": "確定產品的市場定位"
+        },
+        {
+          "label": "A",
+          "text": "假設所有服務流程相同"
+        },
+        {
+          "label": "B",
+          "text": "僅記錄服務開始和結束"
+        },
+        {
+          "label": "C",
+          "text": "思考被服務對象在系統中的全程體驗"
+        },
+        {
+          "label": "D",
+          "text": "僅考慮服務的主要部分"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 284
+    },
+    {
+      "questionType": "single",
+      "stem": "在產品類別規則(PCR)中，設定「系統邊界」",
+      "options": [
+        {
+          "label": "A",
+          "text": "產品的銷售範圍"
+        },
+        {
+          "label": "B",
+          "text": "產品製造過程中使用的技術類型"
+        },
+        {
+          "label": "A",
+          "text": "確認產品的銷售區域和目標市場"
+        },
+        {
+          "label": "C",
+          "text": "決定哪些階段的範疇納入碳足跡計算"
+        },
+        {
+          "label": "B",
+          "text": "計算產品的市場價值和銷售利潤"
+        },
+        {
+          "label": "D",
+          "text": "產品的利潤邊界"
+        },
+        {
+          "label": "C",
+          "text": "選擇產品的原材料來源和供應商"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 285
+    },
+    {
+      "questionType": "single",
+      "stem": "衝擊評估階段屬於生命週期評估作業 LCA",
+      "options": [
+        {
+          "label": "B",
+          "text": "忽略碳足跡計算中的重要階段"
+        },
+        {
+          "label": "C",
+          "text": "允許忽略對總排放貢獻微小的過程"
+        },
+        {
+          "label": "D",
+          "text": "增加碳足跡計算的準確性"
+        },
+        {
+          "label": "A",
+          "text": "第一階段"
+        },
+        {
+          "label": "B",
+          "text": "第二階段"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 286
+    },
+    {
+      "questionType": "single",
+      "stem": "在 PCR 中，「分配規則」是指？",
+      "options": [
+        {
+          "label": "D",
+          "text": "第四階段"
+        },
+        {
+          "label": "A",
+          "text": "決定產品價格的機制"
+        },
+        {
+          "label": "B",
+          "text": "根據物理性質分配投入和產出的方法"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 287
+    },
+    {
+      "questionType": "single",
+      "stem": "根據環境部的產品類別規則，對於生命週期",
+      "options": [
+        {
+          "label": "C",
+          "text": "第三階段"
+        },
+        {
+          "label": "D",
+          "text": "第四階段"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 288
+    },
+    {
+      "questionType": "single",
+      "stem": "使用生命週期評估進行產品碳足跡評估不",
+      "options": [
+        {
+          "label": "B",
+          "text": "詳述產品的市場定位和銷售策略"
+        },
+        {
+          "label": "C",
+          "text": "計算產品的生產成本和價格"
+        },
+        {
+          "label": "D",
+          "text": "確定產品的銷售地區和目標客戶"
+        },
+        {
+          "label": "A",
+          "text": "盤查分析"
+        },
+        {
+          "label": "B",
+          "text": "目標範疇定義"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 289
+    },
+    {
+      "questionType": "single",
+      "stem": "在生命週期評估中，目標與範疇界定的重要 性是什麼？",
+      "options": [
+        {
+          "label": "A",
+          "text": "決定產品的價格"
+        },
+        {
+          "label": "B",
+          "text": "界定評估的範圍和目的，確保評估結果的有"
+        },
+        {
+          "label": "C",
+          "text": "選擇適合的廣告平台"
+        },
+        {
+          "label": "D",
+          "text": "計算生產成本"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 290
+    },
+    {
+      "questionType": "single",
+      "stem": "生命週期衝擊評估(LCIA)的主要目標是什 麼？",
+      "options": [
+        {
+          "label": "A",
+          "text": "確定產品的最終銷售價格"
+        },
+        {
+          "label": "B",
+          "text": "評估產品生命週期中的環境衝擊"
+        },
+        {
+          "label": "C",
+          "text": "分析公司的財務狀況"
+        },
+        {
+          "label": "D",
+          "text": "評估市場競爭情況"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 291
+    },
+    {
+      "questionType": "single",
+      "stem": "直接溫室氣體排放(direct greenhouse gas emission)指的是什麼？",
+      "options": [
+        {
+          "label": "A",
+          "text": "來自組織所擁有或控制的溫室氣體源的排放；"
+        },
+        {
+          "label": "B",
+          "text": "任何溫室氣體的排放；"
+        },
+        {
+          "label": "C",
+          "text": "由消費者排放的溫室氣體；"
+        },
+        {
+          "label": "D",
+          "text": "來自自然源的溫室氣體排放"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 292
+    },
+    {
+      "questionType": "single",
+      "stem": "根據台灣環保署碳足跡計算指引，一級數據佔上游排放比需達多少%，包含",
+      "options": [
+        {
+          "label": "A",
+          "text": "5%"
+        },
+        {
+          "label": "B",
+          "text": "10%"
+        },
+        {
+          "label": "C",
+          "text": "15%"
+        },
+        {
+          "label": "D",
+          "text": "20%"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 293
+    },
+    {
+      "questionType": "single",
+      "stem": "透過製程地圖的每個步驟，查看哪些環節的碳排放較高，我們稱此環節為什",
+      "options": [
+        {
+          "label": "A",
+          "text": "關鍵係數"
+        },
+        {
+          "label": "B",
+          "text": "重要碳排點"
+        },
+        {
+          "label": "C",
+          "text": "關鍵熱點"
+        },
+        {
+          "label": "D",
+          "text": "高碳排點"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 294
+    },
+    {
+      "questionType": "single",
+      "stem": "【已刪除】90. 根據台灣環保署碳足跡計算指引，一級數據佔上游排放比需達多少%，包含組織本身及供應商？",
+      "options": [
+        {
+          "label": "A",
+          "text": "5%"
+        },
+        {
+          "label": "B",
+          "text": "10%"
+        },
+        {
+          "label": "C",
+          "text": "15%"
+        },
+        {
+          "label": "D",
+          "text": "20%"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 295
+    },
+    {
+      "questionType": "single",
+      "stem": "【已刪除】105. 透過製程地圖的每個步驟，查看哪些環節的碳排放較高，我們稱此環節為什麼，依據此結果作為未來企業實行減排策略?",
+      "options": [
+        {
+          "label": "A",
+          "text": "關鍵係數"
+        },
+        {
+          "label": "B",
+          "text": "重要碳排點"
+        },
+        {
+          "label": "C",
+          "text": "關鍵熱點"
+        },
+        {
+          "label": "D",
+          "text": "高碳排點"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 296
+    },
+    {
+      "questionType": "single",
+      "stem": "產品碳足跡 (CFP) 的主要標準依據為何？",
+      "options": [
+        {
+          "label": "A",
+          "text": "ISO 14064-1"
+        },
+        {
+          "label": "B",
+          "text": "ISO 14067"
+        },
+        {
+          "label": "C",
+          "text": "ISO 50001"
+        },
+        {
+          "label": "D",
+          "text": "GHG Protocol"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 297
+    },
+    {
+      "questionType": "single",
+      "stem": "CFP 計算主要依循哪一種方法學架構？",
+      "options": [
+        {
+          "label": "A",
+          "text": "SWOT 分析"
+        },
+        {
+          "label": "B",
+          "text": "生命週期評估 (LCA)"
+        },
+        {
+          "label": "C",
+          "text": "碳交易模型"
+        },
+        {
+          "label": "D",
+          "text": "環境影響矩陣"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 298
+    },
+    {
+      "questionType": "single",
+      "stem": "LCA 的四大階段中，哪一階段需設定「功能單位」？",
+      "options": [
+        {
+          "label": "A",
+          "text": "目標與範疇界定"
+        },
+        {
+          "label": "B",
+          "text": "清單盤查"
+        },
+        {
+          "label": "C",
+          "text": "衝擊評估"
+        },
+        {
+          "label": "D",
+          "text": "結果闡釋"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 299
+    },
+    {
+      "questionType": "single",
+      "stem": "在碳足跡盤查時，最重要的基礎單位是？",
+      "options": [
+        {
+          "label": "A",
+          "text": "公頃"
+        },
+        {
+          "label": "B",
+          "text": "功能單位"
+        },
+        {
+          "label": "C",
+          "text": "每人碳排量"
+        },
+        {
+          "label": "D",
+          "text": "每噸碳權"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 300
+    },
+    {
+      "questionType": "single",
+      "stem": "盤查資料收集需包含下列哪一項？",
+      "options": [
+        {
+          "label": "A",
+          "text": "產品標價"
+        },
+        {
+          "label": "B",
+          "text": "製程流程圖"
+        },
+        {
+          "label": "C",
+          "text": "競爭對手報告"
+        },
+        {
+          "label": "D",
+          "text": "顧客滿意度"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 301
+    },
+    {
+      "questionType": "single",
+      "stem": "碳足跡計算結果通常以哪種單位表示？",
+      "options": [
+        {
+          "label": "A",
+          "text": "公噸 CH₄"
+        },
+        {
+          "label": "B",
+          "text": "公噸 N₂O"
+        },
+        {
+          "label": "C",
+          "text": "公噸 CO₂ 當量 (CO₂e)"
+        },
+        {
+          "label": "D",
+          "text": "碳稅額度"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 302
+    },
+    {
+      "questionType": "single",
+      "stem": "全球暖化潛勢 (GWP) 的數據主要由哪個機構發布？",
+      "options": [
+        {
+          "label": "A",
+          "text": "UNFCCC"
+        },
+        {
+          "label": "B",
+          "text": "IPCC"
+        },
+        {
+          "label": "C",
+          "text": "WTO"
+        },
+        {
+          "label": "D",
+          "text": "ISO"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 303
+    },
+    {
+      "questionType": "single",
+      "stem": "在 CFP 的系統邊界設定中，通常需涵蓋哪一範疇？",
+      "options": [
+        {
+          "label": "A",
+          "text": "僅製造過程"
+        },
+        {
+          "label": "B",
+          "text": "原料取得至廢棄處理全生命週期"
+        },
+        {
+          "label": "C",
+          "text": "產品銷售階段"
+        },
+        {
+          "label": "D",
+          "text": "僅能源使用"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 304
+    },
+    {
+      "questionType": "single",
+      "stem": "切斷準則（Cut-off Criteria）的主要目的為？",
+      "options": [
+        {
+          "label": "A",
+          "text": "節省計算時間，排除不重要的項目"
+        },
+        {
+          "label": "B",
+          "text": "控制外部稽核"
+        },
+        {
+          "label": "C",
+          "text": "用來定義碳稅率"
+        },
+        {
+          "label": "D",
+          "text": "減少查驗要求"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 305
+    },
+    {
+      "questionType": "single",
+      "stem": "不確定性分析的主要目的為何？",
+      "options": [
+        {
+          "label": "A",
+          "text": "減少碳稅負擔"
+        },
+        {
+          "label": "B",
+          "text": "確保計算結果具合理可信度"
+        },
+        {
+          "label": "C",
+          "text": "增加PCR適用性"
+        },
+        {
+          "label": "D",
+          "text": "取代敏感度分析"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 306
+    },
+    {
+      "questionType": "single",
+      "stem": "CFP 報告書需遵循哪一項原則？",
+      "options": [
+        {
+          "label": "A",
+          "text": "ISO 50001 能源管理原則"
+        },
+        {
+          "label": "B",
+          "text": "ISO 14067 報告規範"
+        },
+        {
+          "label": "C",
+          "text": "WTO 環境貿易規範"
+        },
+        {
+          "label": "D",
+          "text": "COP 議定書"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 307
+    },
+    {
+      "questionType": "single",
+      "stem": "查驗 (Verification) 需依循哪個國際標準？",
+      "options": [
+        {
+          "label": "A",
+          "text": "ISO 14064-3"
+        },
+        {
+          "label": "B",
+          "text": "ISO 9001"
+        },
+        {
+          "label": "C",
+          "text": "ISO 26000"
+        },
+        {
+          "label": "D",
+          "text": "ISO 50001"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 308
+    },
+    {
+      "questionType": "single",
+      "stem": "LCA 的衝擊評估階段主要用於？",
+      "options": [
+        {
+          "label": "A",
+          "text": "確定碳稅額度"
+        },
+        {
+          "label": "B",
+          "text": "評估不同排放對環境影響"
+        },
+        {
+          "label": "C",
+          "text": "決定 PCR 類別"
+        },
+        {
+          "label": "D",
+          "text": "編製財報"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 309
+    },
+    {
+      "questionType": "single",
+      "stem": "在 CFP 報告的內部應用中，企業最常利用結果於？",
+      "options": [
+        {
+          "label": "A",
+          "text": "廣告宣傳"
+        },
+        {
+          "label": "B",
+          "text": "產品設計改善與減碳策略"
+        },
+        {
+          "label": "C",
+          "text": "政府補助申請"
+        },
+        {
+          "label": "D",
+          "text": "員工績效評比"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 310
+    },
+    {
+      "questionType": "single",
+      "stem": "CFP 中「敏感度分析」的主要用途是？",
+      "options": [
+        {
+          "label": "A",
+          "text": "評估特定假設改變對結果的影響"
+        },
+        {
+          "label": "B",
+          "text": "替代 PCR"
+        },
+        {
+          "label": "C",
+          "text": "調整切斷準則"
+        },
+        {
+          "label": "D",
+          "text": "決定碳稅額度"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 311
+    },
+    {
+      "questionType": "single",
+      "stem": "碳足跡計算結果公布前，通常需經過？",
+      "options": [
+        {
+          "label": "A",
+          "text": "第三方查驗確認"
+        },
+        {
+          "label": "B",
+          "text": "內部主管簽核即可"
+        },
+        {
+          "label": "C",
+          "text": "直接送交政府平台"
+        },
+        {
+          "label": "D",
+          "text": "自願性公示即可"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 312
+    },
+    {
+      "questionType": "single",
+      "stem": "CFP 計算的主要方法學架構是？",
+      "options": [
+        {
+          "label": "A",
+          "text": "SWOT 分析"
+        },
+        {
+          "label": "B",
+          "text": "LCA（生命週期評估）"
+        },
+        {
+          "label": "C",
+          "text": "GHG Protocol Corporate Standard"
+        },
+        {
+          "label": "D",
+          "text": "能源稽核"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 313
+    },
+    {
+      "questionType": "single",
+      "stem": "LCA 的第一階段是？",
+      "options": [
+        {
+          "label": "A",
+          "text": "清單盤查"
+        },
+        {
+          "label": "B",
+          "text": "目標與範疇界定"
+        },
+        {
+          "label": "C",
+          "text": "衝擊評估"
+        },
+        {
+          "label": "D",
+          "text": "結果闡釋"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 314
+    },
+    {
+      "questionType": "single",
+      "stem": "功能單位 (Functional Unit) 的作用是？",
+      "options": [
+        {
+          "label": "A",
+          "text": "表示碳稅額度"
+        },
+        {
+          "label": "B",
+          "text": "提供比較基準"
+        },
+        {
+          "label": "C",
+          "text": "測量產品價格"
+        },
+        {
+          "label": "D",
+          "text": "確認 PCR 類別"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 315
+    },
+    {
+      "questionType": "single",
+      "stem": "PCR（產品類別規則）的功能是？",
+      "options": [
+        {
+          "label": "A",
+          "text": "控制查驗成本"
+        },
+        {
+          "label": "B",
+          "text": "規範同類產品的一致性計算方法"
+        },
+        {
+          "label": "C",
+          "text": "減少碳稅支出"
+        },
+        {
+          "label": "D",
+          "text": "取代 ISO 14067"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 316
+    },
+    {
+      "questionType": "single",
+      "stem": "LCA 清單盤查 (LCI) 的核心內容是？",
+      "options": [
+        {
+          "label": "A",
+          "text": "收集原料、能源投入與排放數據"
+        },
+        {
+          "label": "B",
+          "text": "設計碳標籤"
+        },
+        {
+          "label": "C",
+          "text": "計算稅額"
+        },
+        {
+          "label": "D",
+          "text": "決定 PCR 分類"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 317
+    },
+    {
+      "questionType": "single",
+      "stem": "LCA 衝擊評估 (LCIA) 的作用是？",
+      "options": [
+        {
+          "label": "A",
+          "text": "評估不同氣體對暖化的貢獻"
+        },
+        {
+          "label": "B",
+          "text": "計算產品成本"
+        },
+        {
+          "label": "C",
+          "text": "制定 PCR"
+        },
+        {
+          "label": "D",
+          "text": "編製碳費收據"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 318
+    },
+    {
+      "questionType": "single",
+      "stem": "CFP 報告最常用的排放單位是？",
+      "options": [
+        {
+          "label": "A",
+          "text": "kg CH₄"
+        },
+        {
+          "label": "B",
+          "text": "kg N₂O"
+        },
+        {
+          "label": "C",
+          "text": "kg CO₂e"
+        },
+        {
+          "label": "D",
+          "text": "碳稅額度"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 319
+    },
+    {
+      "questionType": "single",
+      "stem": "系統邊界 (System Boundary) 的範圍通常為？",
+      "options": [
+        {
+          "label": "A",
+          "text": "銷售階段"
+        },
+        {
+          "label": "B",
+          "text": "原料取得到廢棄處理"
+        },
+        {
+          "label": "C",
+          "text": "僅製造過程"
+        },
+        {
+          "label": "D",
+          "text": "僅能源使用"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 320
+    },
+    {
+      "questionType": "single",
+      "stem": "CFP 數據收集原則應遵循？",
+      "options": [
+        {
+          "label": "A",
+          "text": "透明性、完整性、準確性、可比性"
+        },
+        {
+          "label": "B",
+          "text": "價格導向"
+        },
+        {
+          "label": "C",
+          "text": "競爭者參考"
+        },
+        {
+          "label": "D",
+          "text": "市場占有率"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 321
+    },
+    {
+      "questionType": "single",
+      "stem": "切斷準則 (Cut-off Criteria) 的作用是？",
+      "options": [
+        {
+          "label": "A",
+          "text": "排除不重要的投入/排放"
+        },
+        {
+          "label": "B",
+          "text": "決定 PCR"
+        },
+        {
+          "label": "C",
+          "text": "減少稅額"
+        },
+        {
+          "label": "D",
+          "text": "取代查驗"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 322
+    },
+    {
+      "questionType": "single",
+      "stem": "碳足跡計算結果的可信度需透過？",
+      "options": [
+        {
+          "label": "A",
+          "text": "政府公告"
+        },
+        {
+          "label": "B",
+          "text": "第三方查驗"
+        },
+        {
+          "label": "C",
+          "text": "公司自評"
+        },
+        {
+          "label": "D",
+          "text": "價格分析"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 323
+    },
+    {
+      "questionType": "single",
+      "stem": "CFP 報告主要用途之一是？",
+      "options": [
+        {
+          "label": "A",
+          "text": "行銷宣傳與綠色標籤"
+        },
+        {
+          "label": "B",
+          "text": "增加產品價格"
+        },
+        {
+          "label": "C",
+          "text": "訂定稅率"
+        },
+        {
+          "label": "D",
+          "text": "減少員工通勤"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 324
+    },
+    {
+      "questionType": "single",
+      "stem": "在 CFP 計算中，排放係數應來源於？",
+      "options": [
+        {
+          "label": "A",
+          "text": "ISO 9001 文件"
+        },
+        {
+          "label": "B",
+          "text": "國際文獻或主管機關公告"
+        },
+        {
+          "label": "C",
+          "text": "公司自行假設"
+        },
+        {
+          "label": "D",
+          "text": "客戶報告"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 325
+    },
+    {
+      "questionType": "single",
+      "stem": "CFP 中常用於數據不確定性檢驗的方法是？",
+      "options": [
+        {
+          "label": "A",
+          "text": "敏感度分析"
+        },
+        {
+          "label": "B",
+          "text": "SWOT"
+        },
+        {
+          "label": "C",
+          "text": "財報分析"
+        },
+        {
+          "label": "D",
+          "text": "回歸模型"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 326
+    },
+    {
+      "questionType": "single",
+      "stem": "PCR 文件通常由誰制定？",
+      "options": [
+        {
+          "label": "A",
+          "text": "ISO"
+        },
+        {
+          "label": "B",
+          "text": "行業協會或平台"
+        },
+        {
+          "label": "C",
+          "text": "政府部門"
+        },
+        {
+          "label": "D",
+          "text": "COP 主辦單位"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 327
+    },
+    {
+      "questionType": "single",
+      "stem": "CFP 計算的最終目的為？",
+      "options": [
+        {
+          "label": "A",
+          "text": "提升企業永續管理與供應鏈透明度"
+        },
+        {
+          "label": "B",
+          "text": "增加碳稅負擔"
+        },
+        {
+          "label": "C",
+          "text": "僅符合法規要求"
+        },
+        {
+          "label": "D",
+          "text": "減少審查成本"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 328
+    },
+    {
+      "questionType": "single",
+      "stem": "「從搖籃到墳墓 (Cradle-to-Grave)」的碳盤查範圍，通常涵蓋：",
+      "options": [
+        {
+          "label": "A",
+          "text": "原料開採到產品出廠"
+        },
+        {
+          "label": "B",
+          "text": "原料開採到使用後廢棄處理"
+        },
+        {
+          "label": "C",
+          "text": "工廠大門到工廠大門"
+        },
+        {
+          "label": "D",
+          "text": "產品使用階段"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 329
+    },
+    {
+      "questionType": "single",
+      "stem": "「從搖籃到工廠大門 (Cradle-to-Gate)」不包含哪一階段？",
+      "options": [
+        {
+          "label": "A",
+          "text": "原料開採"
+        },
+        {
+          "label": "B",
+          "text": "製造加工"
+        },
+        {
+          "label": "C",
+          "text": "產品運輸與使用"
+        },
+        {
+          "label": "D",
+          "text": "能源消耗"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 330
+    },
+    {
+      "questionType": "single",
+      "stem": "「Gate-to-Gate」的盤查範圍代表：",
+      "options": [
+        {
+          "label": "A",
+          "text": "原料開採到廢棄"
+        },
+        {
+          "label": "B",
+          "text": "單一製程或工廠邊界"
+        },
+        {
+          "label": "C",
+          "text": "使用到廢棄階段"
+        },
+        {
+          "label": "D",
+          "text": "全球供應鏈全階段"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 331
+    },
+    {
+      "questionType": "single",
+      "stem": "ISO 14067 要求數據品質包含：代表性、完整性與：",
+      "options": [
+        {
+          "label": "A",
+          "text": "成本效益"
+        },
+        {
+          "label": "B",
+          "text": "精確性"
+        },
+        {
+          "label": "C",
+          "text": "準確性"
+        },
+        {
+          "label": "D",
+          "text": "可比較性"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 332
+    },
+    {
+      "questionType": "single",
+      "stem": "LCA 四階段的第一步是：",
+      "options": [
+        {
+          "label": "A",
+          "text": "清單分析 (LCI)"
+        },
+        {
+          "label": "B",
+          "text": "目標與範疇界定"
+        },
+        {
+          "label": "C",
+          "text": "影響評估 (LCIA)"
+        },
+        {
+          "label": "D",
+          "text": "解釋 (Interpretation)"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 333
+    },
+    {
+      "questionType": "single",
+      "stem": "LCA 中的「清單分析 (LCI)」主要工作為：",
+      "options": [
+        {
+          "label": "A",
+          "text": "評估環境衝擊"
+        },
+        {
+          "label": "B",
+          "text": "收集能源、原料、排放數據"
+        },
+        {
+          "label": "C",
+          "text": "撰寫報告"
+        },
+        {
+          "label": "D",
+          "text": "選擇查驗機構"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 334
+    },
+    {
+      "questionType": "single",
+      "stem": "LCA 最後一個階段「解釋 (Interpretation)」主要目的：",
+      "options": [
+        {
+          "label": "A",
+          "text": "檢查數據一致性與合理性"
+        },
+        {
+          "label": "B",
+          "text": "蒐集原料排放量"
+        },
+        {
+          "label": "C",
+          "text": "確認 PCR 規範"
+        },
+        {
+          "label": "D",
+          "text": "轉換為碳標籤"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 335
+    },
+    {
+      "questionType": "single",
+      "stem": "盤查範圍「Cradle-to-Grave」與「Cradle-to-Gate」的主要差異為：",
+      "options": [
+        {
+          "label": "A",
+          "text": "是否含製造階段"
+        },
+        {
+          "label": "B",
+          "text": "是否含使用與廢棄階段"
+        },
+        {
+          "label": "C",
+          "text": "是否含能源消耗"
+        },
+        {
+          "label": "D",
+          "text": "是否含包裝階段"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 336
+    },
+    {
+      "questionType": "single",
+      "stem": "若企業僅盤查工廠內部製程排放，適用的範圍界定是：",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cradle-to-Grave"
+        },
+        {
+          "label": "B",
+          "text": "Gate-to-Gate"
+        },
+        {
+          "label": "C",
+          "text": "Cradle-to-Gate"
+        },
+        {
+          "label": "D",
+          "text": "Upstream-Downstream"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 337
+    },
+    {
+      "questionType": "single",
+      "stem": "ISO 14067 要求的「代表性」指的是：",
+      "options": [
+        {
+          "label": "A",
+          "text": "與市場數據一致"
+        },
+        {
+          "label": "B",
+          "text": "與時間、地理、技術條件相符"
+        },
+        {
+          "label": "C",
+          "text": "與產品價格一致"
+        },
+        {
+          "label": "D",
+          "text": "與法規一致"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 338
+    },
+    {
+      "questionType": "single",
+      "stem": "ISO 14067 所說的「完整性」要求為：",
+      "options": [
+        {
+          "label": "A",
+          "text": "所有溫室氣體都需考慮"
+        },
+        {
+          "label": "B",
+          "text": "僅 CO₂"
+        },
+        {
+          "label": "C",
+          "text": "僅範疇一"
+        },
+        {
+          "label": "D",
+          "text": "只需重大排放源"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 339
+    },
+    {
+      "questionType": "single",
+      "stem": "ISO 14067 的「準確性」代表：",
+      "options": [
+        {
+          "label": "A",
+          "text": "數據必須完全公開"
+        },
+        {
+          "label": "B",
+          "text": "減少估算與假設偏差"
+        },
+        {
+          "label": "C",
+          "text": "與外部查驗一致"
+        },
+        {
+          "label": "D",
+          "text": "必須由政府核定"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 340
+    },
+    {
+      "questionType": "single",
+      "stem": "產品碳足跡計算時，GWP 值應依據：",
+      "options": [
+        {
+          "label": "A",
+          "text": "企業自訂係數"
+        },
+        {
+          "label": "B",
+          "text": "ISO 14064-3"
+        },
+        {
+          "label": "C",
+          "text": "IPCC 公布之 AR5 或 AR6"
+        },
+        {
+          "label": "D",
+          "text": "當地法規允許的排放係數"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 341
+    },
+    {
+      "questionType": "single",
+      "stem": "LCA 的「功能單位」主要用於：",
+      "options": [
+        {
+          "label": "A",
+          "text": "衡量碳稅金額"
+        },
+        {
+          "label": "B",
+          "text": "產品間的公平比較基準"
+        },
+        {
+          "label": "C",
+          "text": "盤查報告書的頁數"
+        },
+        {
+          "label": "D",
+          "text": "溫室氣體抵換額度"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "sourceLabel": "淨零碳規劃管理師-初級 考古題",
+      "sortOrder": 342
+    }
+  ]
+}

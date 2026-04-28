@@ -1,0 +1,44 @@
+<view class="question-container">
+  <!-- Question Type Tag and Stem -->
+  <view class="question-stem">
+    <text class="type-tag">{{typeLabel}}</text>
+    <text class="stem-text">{{question.stem}}</text>
+  </view>
+
+  <!-- Options List -->
+  <view class="options-list">
+    <view 
+      class="option-item {{item.status}}" 
+      wx:for="{{displayOptions}}" 
+      wx:key="label"
+      bindtap="onOptionTap"
+      data-label="{{item.label}}"
+    >
+      <view class="option-label">{{item.label}}</view>
+      <view class="option-text">{{item.text}}</view>
+      <icon wx:if="{{item.status === 'correct'}}" type="success_no_circle" size="16" color="#52c41a" class="status-icon"></icon>
+      <icon wx:if="{{item.status === 'wrong'}}" type="warn" size="16" color="#f5222d" class="status-icon"></icon>
+    </view>
+  </view>
+
+  <!-- Question Actions -->
+  <view class="question-actions">
+    <view class="action-item" bindtap="onToggleFavorite">
+      <icon class="action-icon icon-favorite {{isFavorite ? 'active' : ''}}" type="{{isFavorite ? 'success' : 'circle'}}" size="18"></icon>
+      <text class="action-text">{{isFavorite ? '已收藏' : '收藏'}}</text>
+    </view>
+    <view class="action-item" bindtap="onNoteTap">
+      <icon class="action-icon icon-note {{hasNote ? 'active' : ''}}" type="info" size="18" color="{{hasNote ? '#1890ff' : '#999'}}"></icon>
+      <text class="action-text">{{hasNote ? '已笔记' : '笔记'}}</text>
+    </view>
+  </view>
+
+  <!-- Feedback/Explanation Section -->
+  <view class="feedback-section" wx:if="{{showFeedback}}">
+    <view class="feedback-header">
+      <text class="feedback-title">解析</text>
+      <text class="correct-answer">正确答案: {{question.correctAnswer}}</text>
+    </view>
+    <view class="explanation-text">{{question.explanation || '暂无解析'}}</view>
+  </view>
+</view>

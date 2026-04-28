@@ -1,0 +1,41 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/catalog/catalog",
+    "pages/bank-detail/bank-detail",
+    "pages/practice/practice",
+    "pages/results/results",
+    "pages/history/index",
+    "pages/mistakes/index",
+    "pages/mine/index",
+    "pages/mock-list/index",
+    "pages/mock-exam/index",
+    "pages/favorites/favorites",
+    "pages/my-notes/my-notes",
+    "pages/resource-list/index",
+    "pages/resource-detail/index",
+    "pages/logs/logs",
+    "pages/wallet/index",
+    "pages/wallet-ledger/index",
+    "pages/order-pay/index",
+    "pages/login/login"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "守正题库",
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationStyle": "custom"
+  },
+  "style": "v2",
+  "rendererOptions": {
+    "skyline": {
+      "defaultDisplayBlock": true,
+      "disableABTest": true,
+      "sdkVersionBegin": "3.0.0",
+      "sdkVersionEnd": "15.255.255"
+    }
+  },
+  "componentFramework": "glass-easel",
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents"
+}

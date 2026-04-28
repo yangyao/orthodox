@@ -1,0 +1,126 @@
+<navigation-bar title="学习轨迹" back="{{false}}" background="#fff" />
+
+<view class="container">
+  <view class="tabs">
+    <view 
+      class="tab-item {{activeTab === 'record' ? 'active' : ''}}" 
+      bindtap="switchTab" 
+      data-tab="record"
+    >学习记录</view>
+    <view 
+      class="tab-item {{activeTab === 'stats' ? 'active' : ''}}" 
+      bindtap="switchTab" 
+      data-tab="stats"
+    >学习统计</view>
+  </view>
+
+  <!-- 学习记录 Tab -->
+  <view class="content-area" wx:if="{{activeTab === 'record'}}">
+    <scroll-view 
+      scroll-y 
+      class="record-list" 
+      bindscrolltolower="loadMoreRecords"
+      refresher-enabled
+      bindrefresherrefresh="onRefreshRecords"
+      refresher-triggered="{{refreshing}}"
+    >
+      <view class="record-item" wx:for="{{records}}" wx:key="id">
+        <view class="record-main">
+          <view class="record-type {{item.recordType}}">{{item.recordType === 'mock_exam' ? '模考' : '练习'}}</view>
+          <view class="record-info">
+            <view class="record-title">{{item.bankName}} - {{item.title}}</view>
+            <view class="record-meta">
+              <text>{{item.createdAt}}</text>
+              <text class="dot">·</text>
+              <text>{{item.summary}}</text>
+            </view>
+          </view>
+        </view>
+        <view class="record-score" wx:if="{{item.score}}">{{item.score}}分</view>
+      </view>
+
+      <view class="empty-state" wx:if="{{records.length === 0 && !loading}}">
+        <image src="/assets/images/empty.png" mode="aspectFit" class="empty-img" />
+        <text class="empty-text">暂无学习记录，快去练习吧</text>
+        <button class="cta-btn" bindtap="goToBanks">去逛逛</button>
+      </view>
+      
+      <view class="loading-more" wx:if="{{loading}}">加载中...</view>
+      <view class="no-more" wx:if="{{!hasMore && records.length > 0}}">没有更多了</view>
+    </scroll-view>
+  </view>
+
+  <!-- 学习统计 Tab -->
+  <view class="content-area" wx:if="{{activeTab === 'stats'}}">
+    <view class="stats-overview">
+      <view class="overview-item">
+        <text class="value">{{overview.studyDurationMinutes || 0}}</text>
+        <text class="label">累计时长(分)</text>
+      </view>
+      <view class="overview-item">
+        <text class="value">{{overview.completedUnitsCount || 0}}</text>
+        <text class="label">完成课程/节</text>
+      </view>
+      <view class="overview-item">
+        <text class="value">{{overview.studyDaysCount || 0}}</text>
+        <text class="label">学习天数</text>
+      </view>
+    </view>
+
+    <view class="stats-card trend-card">
+      <view class="card-header">
+        <view class="card-title">学习趋势</view>
+        <view class="granularity-picker">
+          <view 
+            class="picker-item {{granularity === 'day' ? 'active' : ''}}" 
+            bindtap="changeGranularity" 
+            data-g="day"
+          >日</view>
+          <view 
+            class="picker-item {{granularity === 'week' ? 'active' : ''}}" 
+            bindtap="changeGranularity" 
+            data-g="week"
+          >周</view>
+          <view 
+            class="picker-item {{granularity === 'month' ? 'active' : ''}}" 
+            bindtap="changeGranularity" 
+            data-g="month"
+          >月</view>
+        </view>
+      </view>
+      <view class="trend-chart">
+        <!-- 这里首版使用简单的柱状图模拟，或者提示暂不支持复杂图表 -->
+        <view class="chart-placeholder">
+          <view 
+            class="chart-bar" 
+            wx:for="{{calendar.series}}" 
+            wx:key="date" 
+            style="height: {{item.durationSeconds / 3600 * 100}}px"
+          >
+            <view class="bar-value" wx:if="{{item.durationSeconds > 0}}">{{item.durationSeconds}}s</view>
+          </view>
+        </view>
+      </view>
+    </view>
+
+    <view class="stats-card calendar-card">
+      <view class="card-header">
+        <view class="card-title">学习日历</view>
+        <view class="month-selector">
+          <text class="prev" bindtap="prevMonth">◀</text>
+          <text class="current">{{currentMonthStr}}</text>
+          <text class="next" bindtap="nextMonth">▶</text>
+        </view>
+      </view>
+      <view class="calendar-grid">
+        <!-- 简单的日历格子展示 -->
+        <view 
+          class="cal-day {{item.durationSeconds > 0 ? 'active' : ''}}" 
+          wx:for="{{calendar.calendar}}" 
+          wx:key="date"
+          title="{{item.date}}"
+        ></view>
+      </view>
+    </view>
+  </view>
+</view>

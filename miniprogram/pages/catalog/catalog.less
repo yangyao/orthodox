@@ -1,0 +1,77 @@
+.catalog-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background: #f7f8fa;
+  /* 自定義導航欄模式下需要預留狀態欄 + 導航欄高度 */
+  padding-top: calc(env(safe-area-inset-top) + 44px); 
+
+  .nav-header {
+    display: flex;
+    align-items: center;
+    padding: 0 20rpx 20rpx;
+    background: #f7f8fa;
+
+    .back-btn {
+      width: 60rpx;
+      height: 60rpx;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-right: 10rpx;
+
+      .back-icon {
+        font-size: 40rpx;
+        color: #333;
+      }
+    }
+
+    .search-wrapper {
+      flex: 1;
+    }
+  }
+
+  .main-content {
+    flex: 1;
+    display: flex;
+    overflow: hidden;
+
+    .sidebar {
+      width: 180rpx;
+      height: 100%;
+      background: #fff;
+      border-right: 1rpx solid #eee;
+
+      .category-item {
+        padding: 30rpx 20rpx;
+        font-size: 26rpx;
+        color: #666;
+        text-align: center;
+        border-left: 6rpx solid transparent;
+
+        &.active {
+          color: #1890ff;
+          background: #f7f8fa;
+          font-weight: 500;
+          border-left-color: #1890ff;
+        }
+      }
+    }
+
+    .bank-list-scroll {
+      flex: 1;
+      height: 100%;
+
+      .bank-list {
+        padding: 20rpx;
+
+        .empty-state {
+          padding: 100rpx 0;
+          text-align: center;
+          font-size: 26rpx;
+          color: #999;
+        }
+      }
+    }
+  }
+}

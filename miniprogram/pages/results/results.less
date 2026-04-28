@@ -1,0 +1,92 @@
+.container {
+  padding: 40rpx;
+  background: #f7f8fa;
+  min-height: 100vh;
+}
+
+.result-card {
+  background: #fff;
+  border-radius: 24rpx;
+  padding: 60rpx 40rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 60rpx;
+  box-shadow: 0 4rpx 20rpx rgba(0, 0, 0, 0.05);
+
+  .score-section {
+    margin-bottom: 60rpx;
+    display: flex;
+    align-items: baseline;
+
+    .score-value {
+      font-size: 120rpx;
+      font-weight: 700;
+      color: #1890ff;
+    }
+
+    .score-label {
+      font-size: 32rpx;
+      color: #1890ff;
+      margin-left: 8rpx;
+    }
+  }
+
+  .mock-status {
+    margin-bottom: 60rpx;
+
+    .status-tag {
+      padding: 12rpx 48rpx;
+      border-radius: 40rpx;
+      font-size: 32rpx;
+      font-weight: 600;
+
+      &.pass {
+        background: #ecfdf5;
+        color: #10b981;
+      }
+
+      &.fail {
+        background: #fef2f2;
+        color: #ef4444;
+      }
+    }
+  }
+
+  .stats-grid {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    border-top: 1rpx solid #eee;
+    padding-top: 40rpx;
+
+    .stat-item {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+
+      .stat-value {
+        font-size: 36rpx;
+        font-weight: 600;
+        color: #333;
+        margin-bottom: 8rpx;
+      }
+
+      .stat-label {
+        font-size: 24rpx;
+        color: #999;
+      }
+    }
+  }
+}
+
+.action-buttons {
+  .primary-btn {
+    background: #1890ff;
+    color: #fff;
+    border-radius: 44rpx;
+    height: 88rpx;
+    line-height: 88rpx;
+    font-size: 32rpx;
+  }
+}

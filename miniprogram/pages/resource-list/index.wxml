@@ -1,0 +1,37 @@
+<navigation-bar title="学习资料" back="{{true}}" color="black" background="#FFF"></navigation-bar>
+
+<view class="container">
+  <scroll-view 
+    class="resource-list" 
+    scroll-y 
+    refresher-enabled 
+    refresher-triggered="{{isRefreshing}}" 
+    bindrefresherrefresh="onRefresh"
+    bindscrolltolower="onLoadMore"
+  >
+    <block wx:if="{{packs.length > 0}}">
+      <view class="resource-card" wx:for="{{packs}}" wx:key="id" bindtap="goToDetail" data-id="{{item.id}}">
+        <image class="pack-cover" src="{{item.coverUrl || '/assets/default-cover.png'}}" mode="aspectFill"></image>
+        <view class="pack-info">
+          <view class="pack-title">{{item.title}}</view>
+          <view class="pack-desc">{{item.description || '暂无描述'}}</view>
+        </view>
+        <view class="pack-action">
+          <view class="view-btn">查看</view>
+        </view>
+      </view>
+    </block>
+    
+    <view wx:elif="{{!loading}}" class="empty-state">
+      <text>暂无学习资料</text>
+    </view>
+    
+    <view class="loading-state" wx:if="{{loading}}">
+      <text>加载中...</text>
+    </view>
+
+    <view class="no-more" wx:if="{{noMore && packs.length > 0}}">
+      <text>没有更多了</text>
+    </view>
+  </scroll-view>
+</view>

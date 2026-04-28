@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "skills": {
+    "cloudbase": {
+      "source": "TencentCloudBase/cloudbase-skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloudbase/SKILL.md",
+      "computedHash": "6160bdb921331386325ee05ecca12d4841f390c9d793169baa440215d67c7735"
+    },
+    "commit-work": {
+      "source": "whinc/wechat-miniprogram-skills",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/commit-work/SKILL.md",
+      "computedHash": "88cec816d028de357ae7ede3ace36a2bc235a225e3e7d2bb18cdb5190ab6c482"
+    },
+    "crafting-effective-readmes": {
+      "source": "whinc/wechat-miniprogram-skills",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/crafting-effective-readmes/SKILL.md",
+      "computedHash": "c931a8c22160e8925400778fcb2266b5d1df762f3052edba65f72479f79f2d6c"
+    },
+    "miniprogram-automation": {
+      "source": "whinc/wechat-miniprogram-skills",
+      "sourceType": "github",
+      "skillPath": "skills/miniprogram-automation/SKILL.md",
+      "computedHash": "be210dea35a7b3c3e9088487a7dbb9daf884f3ac02e298e757d0460b245821d7"
+    },
+    "miniprogram-ci": {
+      "source": "whinc/wechat-miniprogram-skills",
+      "sourceType": "github",
+      "skillPath": "skills/miniprogram-ci/SKILL.md",
+      "computedHash": "59545c6c357bf636cd882064ba4edb1b9e9f02b165d0e0d901e577ea238c4dce"
+    },
+    "react-effects": {
+      "source": "whinc/wechat-miniprogram-skills",
+      "sourceType": "github",
+      "skillPath": "skills/react-effects/SKILL.md",
+      "computedHash": "ee345f5b8eecd132634deb075846b6ebad230e8774c4f43fec59eb46688fef43"
+    },
+    "wechatpay-basic-payment": {
+      "source": "wechatpay-apiv3/wechatpay-skills",
+      "sourceType": "github",
+      "skillPath": "wechatpay-basic-payment/SKILL.md",
+      "computedHash": "c773add7ef22cfd409703fb93a4149766bcedfe8ddf567a1bc8827656b5ee346"
+    },
+    "wechatpay-product-coupon": {
+      "source": "wechatpay-apiv3/wechatpay-skills",
+      "sourceType": "github",
+      "skillPath": "wechatpay-product-coupon/SKILL.md",
+      "computedHash": "8a352ed41ea870308753f5ff1cc0cf60938053dfa13c34a70da8d9ed35249d65"
+    }
+  }
+}

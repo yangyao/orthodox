@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "练习中",
+  "usingComponents": {
+    "navigation-bar": "../../components/navigation-bar/navigation-bar",
+    "question-renderer": "../../components/question-renderer/question-renderer",
+    "practice-footer": "../../components/practice-footer/practice-footer",
+    "answer-sheet": "../../components/answer-sheet/answer-sheet"
+  }
+}

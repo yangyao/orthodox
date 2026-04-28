@@ -1,0 +1,118 @@
+.bank-card {
+  display: flex;
+  padding: 30rpx;
+  background: #fff;
+  border-radius: 20rpx;
+  margin-bottom: 24rpx;
+  box-shadow: 0 4rpx 20rpx rgba(0, 0, 0, 0.03);
+  transition: all 0.2s ease;
+
+  &:active {
+    transform: scale(0.98);
+    background: #fafafa;
+  }
+
+  &.locked {
+    /* Subtle hint it's not opened yet, but still looks premium */
+  }
+
+  .icon-wrapper {
+    position: relative;
+    width: 140rpx;
+    height: 140rpx;
+    margin-right: 30rpx;
+    flex-shrink: 0;
+    border-radius: 16rpx;
+    overflow: hidden;
+    background: #f8f9fa;
+
+    .bank-icon {
+      width: 100%;
+      height: 100%;
+      background: #f5f5f5;
+    }
+
+    .lock-overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.2);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      backdrop-filter: blur(2px);
+
+      .lock-circle {
+        width: 44rpx;
+        height: 44rpx;
+        background: rgba(255, 255, 255, 0.9);
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 0 4rpx 10rpx rgba(0, 0, 0, 0.2);
+      }
+    }
+  }
+
+  .bank-info {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-w: 0;
+
+    .bank-title {
+      font-size: 30rpx;
+      font-weight: bold;
+      color: #1a1a1a;
+      margin-bottom: 12rpx;
+      display: flex;
+      align-items: center;
+      gap: 12rpx;
+
+      text:first-child {
+        flex: 1;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+
+      .opened-tag {
+        flex-shrink: 0;
+        font-size: 20rpx;
+        color: #10b981;
+        background: rgba(16, 185, 129, 0.1);
+        padding: 4rpx 12rpx;
+        border-radius: 20rpx;
+        font-weight: bold;
+      }
+    }
+
+    .bank-meta {
+      font-size: 24rpx;
+      color: #888;
+      display: flex;
+      align-items: center;
+      gap: 20rpx;
+      margin-bottom: 12rpx;
+    }
+
+    .bank-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10rpx;
+
+      .tag {
+        font-size: 18rpx;
+        padding: 4rpx 12rpx;
+        background: #f3f4f6;
+        color: #6b7280;
+        border-radius: 6rpx;
+        font-weight: 500;
+      }
+    }
+  }
+}

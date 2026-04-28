@@ -1,0 +1,49 @@
+<navigation-bar title="错题收藏" back="{{true}}" color="black" background="#FFF"></navigation-bar>
+
+<view class="container safe-area-padding">
+  <view class="header" wx:if="{{mistakeItems.length > 0}}">
+    <text class="total-count">共 {{totalMistakes}} 道错题</text>
+    <button class="review-btn" bindtap="startReview">全量复习</button>
+  </view>
+
+  <scroll-view 
+    class="mistake-list" 
+    scroll-y 
+    bindscrolltolower="loadMore"
+    refresher-enabled
+    refresher-triggered="{{isRefreshing}}"
+    bindrefresherrefresh="onRefresh"
+  >
+    <block wx:if="{{mistakeItems.length > 0}}">
+      <view 
+        class="mistake-card" 
+        wx:for="{{mistakeItems}}" 
+        wx:key="id"
+      >
+        <view class="card-content" bindtap="viewQuestion" data-qid="{{item.questionId}}">
+          <view class="bank-info">
+            <text class="bank-name">{{item.bankName}}</text>
+            <text class="wrong-count">错误 {{item.wrongCount}} 次</text>
+          </view>
+          <view class="question-stem">{{item.questionStem}}</view>
+        </view>
+        <view class="card-actions">
+          <view class="remove-btn" bindtap="onRemove" data-id="{{item.id}}">移除</view>
+        </view>
+      </view>
+    </block>
+
+    <view wx:elif="{{!loading}}" class="empty-state">
+      <image src="/assets/icons/empty-mistakes.svg" mode="aspectFit"></image>
+      <text>错题本空空如也</text>
+      <text class="sub-text">坚持练习，查漏补缺</text>
+    </view>
+
+    <view class="loading-more" wx:if="{{loading}}">
+      <text>加载中...</text>
+    </view>
+    <view class="no-more" wx:if="{{!hasMore && mistakeItems.length > 0}}">
+      <text>没有更多了</text>
+    </view>
+  </scroll-view>
+</view>

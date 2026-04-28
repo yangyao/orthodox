@@ -1,0 +1,14 @@
+<svg width="240" height="320" viewBox="0 0 240 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="240" height="320" fill="url(#paint0_linear)"/>
+  <rect x="40" y="60" width="160" height="200" rx="8" fill="white" fill-opacity="0.1"/>
+  <path d="M120 130L150 160H90L120 130Z" fill="white"/>
+  <rect x="90" y="170" width="60" height="4" rx="2" fill="white"/>
+  <rect x="100" y="180" width="40" height="4" rx="2" fill="white"/>
+  <text x="120" y="240" text-anchor="middle" fill="white" style="font-family: sans-serif; font-weight: bold; font-size: 24px;">考題精選</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="240" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#1D4ED8"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,23 @@
+<navigation-bar title="账单明细" back="{{true}}"></navigation-bar>
+
+<view class="container">
+  <view wx:if="{{empty}}" class="empty-state">
+    <text class="empty-text">暂无相关记录</text>
+  </view>
+
+  <view wx:else class="ledger-list">
+    <view wx:for="{{items}}" wx:key="id" class="ledger-item">
+      <view class="item-left">
+        <text class="item-remark">{{item.remark || (item.entryType === 'recharge' ? '充值' : '支付')}}</text>
+        <text class="item-time">{{item.createdAt}}</text>
+      </view>
+      <text class="item-amount {{item.direction === 'in' ? 'income' : 'expense'}}">
+        {{item.direction === 'in' ? '+' : '-'}}¥{{item.amountFen / 100}}
+      </text>
+    </view>
+
+    <view wx:if="{{items.length < total}}" class="load-more" bindtap="onLoadMore">
+      <text>加载更多</text>
+    </view>
+  </view>
+</view>

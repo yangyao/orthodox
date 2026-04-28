@@ -1,0 +1,50 @@
+<view class="container">
+  <navigation-bar back="{{true}}" color="black" background="#FFF" bind:back="onBack">
+    <view slot="left" class="timer {{remainingSeconds < 300 ? 'danger' : ''}}">
+      {{timerDisplay}}
+    </view>
+  </navigation-bar>
+
+  <view class="exam-body">
+    <swiper 
+      class="question-swiper" 
+      current="{{currentIndex}}" 
+      bindchange="onSwiperChange"
+      duration="300"
+    >
+      <swiper-item wx:for="{{questionIds}}" wx:key="*this">
+        <scroll-view scroll-y class="question-scroll">
+          <question-renderer 
+            wx:if="{{questions[item]}}"
+            question="{{questions[item]}}" 
+            user-answer="{{userAnswers[item]}}"
+            show-feedback="{{false}}"
+            bind:select="onAnswerSelect"
+          ></question-renderer>
+          <view wx:else class="loading-question">加载中...</view>
+        </scroll-view>
+      </swiper-item>
+    </swiper>
+  </view>
+
+  <practice-footer
+    currentIndex="{{currentIndex}}"
+    totalCount="{{questionIds.length}}"
+    isFirst="{{currentIndex === 0}}"
+    isLast="{{currentIndex === questionIds.length - 1}}"
+    bind:prev="onPrev"
+    bind:next="onNext"
+    bind:sheet="toggleSheet"
+    bind:submit="onFinish"
+  ></practice-footer>
+
+  <answer-sheet
+    show="{{showSheet}}"
+    questionIds="{{questionIds}}"
+    userAnswers="{{userAnswers}}"
+    currentIndex="{{currentIndex}}"
+    bind:close="toggleSheet"
+    bind:select="goToQuestion"
+    bind:submit="onFinish"
+  ></answer-sheet>
+</view>
