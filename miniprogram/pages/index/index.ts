@@ -46,7 +46,7 @@ Page({
   },
 
   goToCatalog() {
-    wx.navigateTo({
+    wx.switchTab({
       url: "/pages/catalog/catalog",
     });
   },

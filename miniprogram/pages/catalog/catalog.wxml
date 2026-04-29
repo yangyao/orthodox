@@ -1,9 +1,6 @@
 <view class="catalog-container">
   <!-- Custom Navigation Bar Header -->
   <view class="nav-header">
-    <view class="back-btn" bindtap="onBack">
-      <text class="back-icon">❮</text>
-    </view>
     <view class="search-wrapper">
       <search-bar 
         placeholder="输入关键词搜索题库" 

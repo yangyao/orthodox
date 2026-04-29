@@ -1,4 +1,4 @@
-<navigation-bar title="我的" back="{{true}}"></navigation-bar>
+<navigation-bar title="我的FOCO" back="{{false}}"></navigation-bar>
 
 <view class="container safe-area-padding">
   <view class="user-info">
