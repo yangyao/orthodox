@@ -46,10 +46,12 @@ export async function getNote(id: string): Promise<{ note: string }> {
 }
 
 export async function getMyFavorites(bankId?: string, page = 1, pageSize = 20): Promise<PaginatedResponse<FavoriteQuestion>> {
+  const data: Record<string, unknown> = { page, pageSize };
+  if (bankId) data.bankId = bankId;
   return request<PaginatedResponse<FavoriteQuestion>>({
     url: "/api/v1/me/favorites",
     method: "GET",
-    data: { bankId, page, pageSize },
+    data,
   });
 }
 

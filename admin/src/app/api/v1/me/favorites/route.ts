@@ -1,7 +1,7 @@
 import { NextRequest } from "next/server";
 import { db } from "@/lib/db";
 import { favorites, questions, questionBanks } from "@/lib/schema";
-import { eq, desc, sql } from "drizzle-orm";
+import { eq, desc, sql, and } from "drizzle-orm";
 import { authenticateUser } from "@/lib/user-auth";
 import { parsePagination, paginate } from "@/lib/api-utils";
 
@@ -12,7 +12,14 @@ export async function GET(request: NextRequest) {
   const { page, pageSize, offset } = parsePagination(request.nextUrl.searchParams);
   const bankId = request.nextUrl.searchParams.get("bankId");
 
-  let query = db
+  const conditions = [eq(favorites.userId, auth.userId)];
+  if (bankId && bankId !== "undefined") {
+    conditions.push(eq(favorites.bankId, BigInt(bankId)));
+  }
+
+  const where = and(...conditions);
+
+  const results = await db
     .select({
       id: favorites.id,
       bankId: favorites.bankId,
@@ -24,22 +31,15 @@ export async function GET(request: NextRequest) {
     .from(favorites)
     .innerJoin(questions, eq(favorites.questionId, questions.id))
     .innerJoin(questionBanks, eq(favorites.bankId, questionBanks.id))
-    .where(eq(favorites.userId, auth.userId))
+    .where(where)
     .orderBy(desc(favorites.createdAt))
     .limit(pageSize)
     .offset(offset);
 
-  if (bankId) {
-    // @ts-ignore
-    query = query.where(eq(favorites.bankId, BigInt(bankId)));
-  }
-
-  const results = await query;
-
   const [{ count }] = await db
     .select({ count: sql<number>`count(*)` })
     .from(favorites)
-    .where(eq(favorites.userId, auth.userId));
+    .where(where);
 
   return paginate(
     results.map((f) => ({
