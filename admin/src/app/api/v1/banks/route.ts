@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { db } from "@/lib/db";
 import { questionBanks, userBankEntitlements, bankCategories } from "@/lib/schema";
-import { eq, and, or, isNull, gte, sql, desc } from "drizzle-orm";
+import { eq, and, sql, desc } from "drizzle-orm";
 import { authenticateUser } from "@/lib/user-auth";
 import { success, parsePagination, paginate } from "@/lib/api-utils";
 
@@ -45,7 +45,11 @@ export async function GET(request: NextRequest) {
       coverUrl: questionBanks.coverUrl,
       saleType: questionBanks.saleType,
       isRecommended: questionBanks.isRecommended,
+      createdAt: questionBanks.createdAt,
       categoryName: bankCategories.name,
+      questionCount: sql<number>`(
+        SELECT COUNT(*) FROM questions WHERE questions.bank_id = ${questionBanks.id}
+      )`,
       // Check if opened
       isOpened: userId 
         ? sql<boolean>`EXISTS (
