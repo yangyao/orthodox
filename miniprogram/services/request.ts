@@ -1,4 +1,6 @@
-const BASE_URL = "http://127.0.0.1:3001"; // 本地開發環境地址
+import { CONFIG } from "../utils/config";
+
+const BASE_URL = CONFIG.BASE_URL;
 
 interface RequestOptions {
   url: string;

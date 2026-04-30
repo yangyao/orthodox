@@ -11,7 +11,7 @@ import { join, dirname } from "path";
 import { fileURLToPath } from "url";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const DATABASE_URL = "postgresql://yangyaoapp:Automizely2020%24@gz-postgres-29yzbk11.sql.tencentcdb.com:20980/postgres";
+const DATABASE_URL = "postgresql://postgres.dtlnpsljznalxkointbk:Automizely2020%24@aws-1-us-east-2.pooler.supabase.com:6543/postgres";
 
 const sql = postgres(DATABASE_URL);
 
